@@ -50,7 +50,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ***
 
 # PUBLICATIONS
-**A comprehensive list of my publications is available here**   
+**A comprehensive list of my publications is available [here](https://hansukim1123.github.io/publications)**   
    
 or   
    
