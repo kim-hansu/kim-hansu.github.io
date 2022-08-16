@@ -43,7 +43,8 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * **M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2016   
 * ***Summa Cum Laude*** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2015   
 * **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Oct 2014   
-* **Excellence Award** from the 2nd Technology and Management Capstone Design CEO CampHanyang University, Seoul, Korea, Dec 2013   
+* **Excellence Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, Dec 2013   
 * **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Apr 2013   
+* **Hanyang Science and Technology Scholarship** from Hanyang University, Seoul, Korea, Mar 2011 - Feb 2015   
 
 
