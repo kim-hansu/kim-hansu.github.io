@@ -5,4 +5,4 @@ author: "Hansu Kim"
 permalink: /contact/
 ---
 
-# To be determined   
+# To be added   
