@@ -24,7 +24,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * Committee: Prof. [Kunsoo Huh](http://mmc.hanyang.ac.kr/), Prof. [Seungjae Min](http://cdl.hanyang.ac.kr/), Dr. [Youngsoo Choi](https://people.llnl.gov/choi15) (LLNL), Prof. [Ikjin Lee](http://idol.kaist.ac.kr/) (KAIST)   
 
 ### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
-* Summa Cum Laude (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
+* *Summa Cum Laude* (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](http://odl.hanyang.ac.kr/) and [Seungjae Min](http://cdl.hanyang.ac.kr/)   
 
