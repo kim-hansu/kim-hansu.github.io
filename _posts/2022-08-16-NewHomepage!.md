@@ -2,7 +2,7 @@
 layout: post
 title: "New Homepage"
 author: "Hansu Kim"
-permalink: /news/
+permalink: /posts/
 ---
 
 The new homepage is opened!
