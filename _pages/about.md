@@ -14,7 +14,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * Smart Manufacturing Division   
 
 ### BK Post-Doc, BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
-* Advisor: Prof. Tae Hee Lee   
+* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/lee) ([Optimum Design Lab](http://odl.hanyang.ac.kr/))    
 
 ### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
 * Outstanding Ph.D. Award from Korean Society for Design optimization   
@@ -26,7 +26,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 * Summa Cum Laude (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
-* Advisors: Profs. Tae Hee Lee and Seungjae Min   
+* Advisors: Profs. [Tae Hee Lee](https://ae.hanyang.ac.kr/lee) and [Seungjae Min](https://ae.hanyang.ac.kr/min-2)   
 
 ***
 
