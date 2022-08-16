@@ -20,8 +20,8 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * Outstanding Ph.D. Award from Korean Society for Design optimization   
 * Best Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
-* Advisor: Prof. Tae Hee Lee (Optimum Design Lab)   
-* Committee: Prof. Kunsoo Huh, Prof. Seungjae Min, Dr. Youngsoo Choi (LLNL), Prof. Ikjin Lee (KAIST)   
+* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/lee) ([Optimum Design Lab](http://odl.hanyang.ac.kr/))   
+* Committee: Prof. [Kunsoo Huh](https://ae.hanyang.ac.kr/huh), Prof. [Seungjae Min](https://ae.hanyang.ac.kr/min-2), Dr. [Youngsoo Choi](https://people.llnl.gov/choi15) (LLNL), Prof. [Ikjin Lee](https://me.kaist.ac.kr/team/team_010100.html?mode=1&sword=8) (KAIST)   
 
 ### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 * Summa Cum Laude (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
