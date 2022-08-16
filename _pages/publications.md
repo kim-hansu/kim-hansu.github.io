@@ -30,7 +30,7 @@ Type of author: *Corresponding author
    
 ***
    
-# INTERNATIONAL PUBLICATIONS   
+# INTERNATIONAL CONFERENCE PAPERS   
 1. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *Asian Congress of Structural and Multidisciplinary Optimization 2022*, May 22–26, 2022, Matsue, Japan.
 2. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *14th World Congress of Structural and Multidisciplinary Optimization*, June 13–18, 2021, Boulder, Colorado, USA. (Virtual Conference)
 3. **Kim H**, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *14th World Congress in Computational Mechanics and ECCOMAS Congress 2020*, January 11–15, 2021, Paris, France. (Virtual Conference)
@@ -42,4 +42,4 @@ Type of author: *Corresponding author
    
 ***
    
-# DOMESTIC PUBLICATIONS   
+# DOMESTIC CONFERENCE PAPERS   
