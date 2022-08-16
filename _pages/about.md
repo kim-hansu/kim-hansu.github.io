@@ -54,7 +54,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
    
 or   
    
-**See my Google Scholar**   
+**See my [Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1)**   
 
 ***
 
