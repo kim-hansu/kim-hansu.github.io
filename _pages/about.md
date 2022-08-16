@@ -66,7 +66,7 @@ or
 ***
 
 # SCIENTIFIC & PROFESSIONAL SOCIETIES   
-**Member, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)**
+**Member, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)**   
 **Member, International Association for Computational Mechanics (IACM)**   
 **Member, International Society for Structural and Multidisciplinary Optimization (ISSMO)**   
 **Member, Korean Society for Computational Mechanics (KSCM)**   
