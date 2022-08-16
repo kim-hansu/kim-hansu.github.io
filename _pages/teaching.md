@@ -11,5 +11,5 @@ permalink: /teaching/
 ## Big Data Engineering (MNA0082)   
 * Fall Semester, 2022   
    
-## Design and Analysis of Computational Experiments (AUE8048) (Hanyang University, Seoul, Korea)
-* Fall Semester, 2021   
+## Design and Analysis of Computational Experiments (AUE8048)
+* Hanyang University, Seoul, Korea, Fall Semester, 2021   
