@@ -32,7 +32,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 # HONORS & AWARDS   
 * **Excellence Student Presentation Award** from KSME CAE & Applied Mechanics Division 2021 Spring Conference, May 2022   
-* **Outstanding Ph.D. Award** from Korean Society for Design Optimization (KSDO), Jan 2022   
+* **Outstanding Ph.D. Award** from Korean Society for Design Optimization, Jan 2022   
 * **Best Dissertation Award** from Hanyang University, Seoul, Korea, Aug 2021   
 * **Excellence Student Presentation Award** from KSME CAE & Applied Mechanics Division 2020 Spring Conference, Aug 2020   
 * **Excellence Paper Award** from KSME 2019 Conference, Aug 2020   
