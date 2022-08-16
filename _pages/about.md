@@ -58,7 +58,7 @@ or
 
 ***
 
-# Journal PAPER REVIEWER   
+# JOURNAL PAPER REVIEWER   
 **Mechanics Based Design of Structures and Machines, Taylor & Francis**   
 **Structural and Multidisciplinary Optimization, Springer**   
 **Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)**   
