@@ -12,4 +12,4 @@ permalink: /teaching/
 * Fall Semester, 2022   
    
 ## Design and Analysis of Computational Experiments (AUE8048)
-* Hanyang University, Seoul, Korea, Fall Semester, 2021   
+* Fall Semester, 2021 (Hanyang University, Seoul, Korea)   
