@@ -27,3 +27,19 @@ Type of author: *Corresponding author
 10. **Kim H**, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**   
 11. Kim S, Lim W, **Kim H**, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. [Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206) 30(12):5577–5586. [https://doi.org/10.1007/s12206-016-1126-1](https://doi.org/10.1007/s12206-016-1126-1)   
 12. Song Y, **Kim H**, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle Stabilization Using MPC Based on Nonlinear Tire Model. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)   
+   
+***
+   
+# INTERNATIONAL PUBLICATIONS   
+1. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *Asian Congress of Structural and Multidisciplinary Optimization 2022*, May 22–26, 2022, Matsue, Japan.
+2. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *14th World Congress of Structural and Multidisciplinary Optimization*, June 13–18, 2021, Boulder, Colorado, USA. (Virtual Conference)
+3. **Kim H**, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *14th World Congress in Computational Mechanics and ECCOMAS Congress 2020*, January 11–15, 2021, Paris, France. (Virtual Conference)
+4. **Kim H**, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *Asian Congress of Structural and Multidisciplinary Optimization 2020*, November 23–25, 2020, Seoul, Korea. (Virtual Conference)
+5. **Kim H**, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. *13th World Congress of Structural and Multidisciplinary Optimization*, May 20–24, 2019, Beijing, China.
+6. Kim S, Kim S, Kim J, **Kim H**, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. *1st Joint Workshop between KSCM & GACM*, October 24–25, 2018, Seoul, Korea. (Best Poster Award)
+7. **Kim H**, Song Y, Huh K, Lee TH* (2017) Robust Design Optimization of Vehicle and Adaptive Cruise Control Parameter Considering Fuel Efficiency. *12th World Congress of Structural and Multidisciplinary Optimisation*, June 5–9, 2017, Braunschweig, Germany.
+
+   
+***
+   
+# DOMESTIC PUBLICATIONS   
