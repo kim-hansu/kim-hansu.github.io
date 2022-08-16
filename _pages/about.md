@@ -11,6 +11,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 ## ACADEMIC POSITIONS & EDUCATION   
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - present   
+* Smart Manufacturing Division   
 
 ### BK Post-Doc, BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
 * Advisor: Prof. Tae Hee Lee   
@@ -38,8 +39,11 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * **Excellence Paper Award** Transactions of the KSME A in 2018, Nov 2019   
 * **Grand Award** from the 1st Future Automobile Excellence Paper Contest, Oct 2019   
 * **Best Poster Award** from KSCM-GACM International Workshop 2018, Oct 2018   
-* **BK21 Plus Scholarship** from National Research Foundation of Korea, Sep 2015 - Aut 2017 | Mar 2018 - Aug 2020   
+* **BK21 Plus Scholarship** from National Research Foundation of Korea, Sep 2015 - Aut 2017 and Mar 2018 - Aug 2020   
 * **M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2016   
 * ***Summa Cum Laude*** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2015   
+* **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Oct 2014   
+* **Excellence Award** from the 2nd Technology and Management Capstone Design CEO CampHanyang University, Seoul, Korea, Dec 2013   
+* **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Apr 2013   
 
 
