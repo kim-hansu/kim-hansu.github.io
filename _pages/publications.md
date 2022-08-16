@@ -15,7 +15,7 @@ Type of author: *Corresponding author
 ***
    
 # JOURNAL PUBLICATIONS   
-1. **Kim H**, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. Knowledge-Based Systems 225:107117. https://doi.org/10.1016/j.knosys.2021.107117
+1. **Kim H**, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. Knowledge-Based Systems 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
 2. **Kim H**, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. Knowledge-Based Systems 218:106855. https://doi.org/10.1016/j.knosys.2021.106855
 3. **Kim H**, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. Transactions of the Korean Society of Mechanical Engineers A 45(2):141–148. https://doi.org/10.3795/KSME-A.2021.45.2.141 **(Recommended from KSME)**
 4. Kwon K, Seo M, **Kim H**, Lee TH, Lee J, Min S* (2020) Multi-objective optimisation of hydro-pneumatic suspension with gas-oil emulsion for heavy-duty vehicles. Vehicle System Dynamics 58(7):1146–1165. https://doi.org/10.1080/00423114.2019.1609050
