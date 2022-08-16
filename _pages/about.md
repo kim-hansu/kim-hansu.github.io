@@ -59,7 +59,7 @@ or
 ***
 
 # JOURNAL PAPER REVIEWER   
-**[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)   
+**[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
 **[Structural and Multidisciplinary Optimization, Springer](https://www.springer.com/journal/158/)**   
 **[Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)**   
 
