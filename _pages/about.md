@@ -16,11 +16,11 @@ Hansu Kim is an Assistant Professor at Changwon National University, Changwon, K
 •	Advisor: Prof. Tae Hee Lee
 
 ### Ph.D. | Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021
-•	Outstanding Ph.D. Award │ Korean Society for Design optimization
-•	Best Dissertation Award │ Hanyang University, Seoul, Korea
-•	Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
-•	Advisor: Prof. Tae Hee Lee (Optimum Design Lab)
-•	Committee: Prof. Kunsoo Huh, Prof. Seungjae Min, Dr. Youngsoo Choi (LLNL), Prof. Ikjin Lee (KAIST)
+Outstanding Ph.D. Award │ Korean Society for Design optimization
+Best Dissertation Award │ Hanyang University, Seoul, Korea
+Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
+Advisor: Prof. Tae Hee Lee (Optimum Design Lab)
+Committee: Prof. Kunsoo Huh, Prof. Seungjae Min, Dr. Youngsoo Choi (LLNL), Prof. Ikjin Lee (KAIST)
 
 ### B.S. | Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015
 •	Summa Cum Laude (GPA: 4.19/4.50) │ 1st rank graduation in the Department of Automotive Engineering
