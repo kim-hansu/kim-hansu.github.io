@@ -38,6 +38,8 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * **Excellence Paper Award** Transactions of the KSME A in 2018, Nov 2019   
 * **Grand Award** from the 1st Future Automobile Excellence Paper Contest, Oct 2019   
 * **Best Poster Award** from KSCM-GACM International Workshop 2018, Oct 2018   
-* **BK21 Plus Scholarship** from National Research Foundation of Korea   
+* **BK21 Plus Scholarship** from National Research Foundation of Korea, Sep 2015 - Aut 2017 | Mar 2018 - Aug 2020   
+* **M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2016   
+* ***Summa Cum Laude*** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2015   
 
 
