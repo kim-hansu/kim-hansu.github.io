@@ -27,6 +27,3 @@ Type of author: *Corresponding author
 10. **Kim H**, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**   
 11. Kim S, Lim W, **Kim H**, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. [Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206) 30(12):5577–5586. [https://doi.org/10.1007/s12206-016-1126-1](https://doi.org/10.1007/s12206-016-1126-1)   
 12. Song Y, **Kim H**, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle Stabilization Using MPC Based on Nonlinear Tire Model. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)   
-   
-***
-   
