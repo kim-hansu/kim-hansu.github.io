@@ -15,9 +15,11 @@ Type of author: *Corresponding author
 2.	(Under Review) Ha DH, **Kim H**,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158).
 {: .text-left}
 <br/>
+
 3.	(Accepted) **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158). **(Special issue for the 14th WCSMO)**
 {: .text-left}
 <br/>
+
 ***
 <br/>
 # JOURNAL PUBLICATIONS   
