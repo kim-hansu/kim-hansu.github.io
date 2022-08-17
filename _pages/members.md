@@ -15,6 +15,7 @@ permalink: /members/
    
 ### Education   
 Ph.D. Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
+   
 B.S. Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 
 ### Research Interests   
