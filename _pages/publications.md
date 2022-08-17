@@ -103,4 +103,4 @@ Type of author: *Corresponding author
    
 21. Kim S, Lim W, Kim S, **Kim H**, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. <u>2016 Winter Conference of Society of CAD/CAM Engineers</u>, January 27–29, 2016, Gangwon, Korea.
    
-22. Lee TH,* Kim S, Lim W, **Kim H**, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. <u>2015 Army Modeling & Simulation Education Conference</u>, November 17–18, 2015, Daejeon, Korea.
+22. Lee TH,* Kim S, Lim W, **Kim H**, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. <u>2015 Army Modeling & Simulation Education Conference</u>, November 17–18, 2015, Daejeon, Korea.   
