@@ -11,8 +11,10 @@ permalink: /contact/
 ## Address   
 Changwon National University, 20 Changwondaehak-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do 51140 Korea   
    
-경남 창원시 의창구 창원대학로 20, 창원대학교 3공학관(53호관)   
+경상남도 창원시 의창구 창원대학로 20, 창원대학교 3공학관(53호관)   
+   
 ## Phone (office)   
 To be added   
+   
 ## E-mail   
 [hansukim@changwon.ac.kr](mailto:hansukim@changwon.ac.kr)   
