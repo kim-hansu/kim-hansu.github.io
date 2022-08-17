@@ -21,11 +21,14 @@ B.S. Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015
 Data-driven design optimization, prognostics and health management, input variable selection, surrogate-modeling, uncertainty quantification, optimization algorithms for artificial neural networks
 
 ***
-   
+<br/>
+
 # Graduate Research Assistants   
 ## To be added   
-   
+<br/>
+
 ***
-   
+<br/>
+
 # Undergraduate Research Assistants   
 ## To be added   
