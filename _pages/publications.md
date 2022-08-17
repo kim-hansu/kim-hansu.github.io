@@ -43,7 +43,7 @@ Type of author: *Corresponding author
    
 ***
    
-# INTERNATIONAL CONFERENCE PAPERS
+# International Conference Papers
 1. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <u>Asian Congress of Structural and Multidisciplinary Optimization 2022</u>, May 22–26, 2022, Matsue, Japan.
    
 2. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *14th World Congress of Structural and Multidisciplinary Optimization*, June 13–18, 2021, Boulder, Colorado, USA. (Virtual Conference)
@@ -60,7 +60,7 @@ Type of author: *Corresponding author
    
 ***
    
-# DOMESTIC CONFERENCE PAPERS
+# Domestic Conference Papers
 1. **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <u>2022 KSCM Conference on Computational Mechanics</u>, June 22–24, 2022, Gangwon, Korea.
    
 2. Kim S, **Kim H**, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. <u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>, May 19–21, 2022, Busan, Korea.
