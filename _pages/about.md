@@ -47,7 +47,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
    
 **Best Poster Award** from KSCM-GACM International Workshop 2018, Oct 2018   
    
-**BK21 Plus Scholarship** from National Research Foundation of Korea, Sep 2015 - Aut 2017 and Mar 2018 - Aug 2020   
+**BK21 Plus Scholarship** from National Research Foundation of Korea, Sep 2015 - Aug 2017 and Mar 2018 - Aug 2020   
    
 **M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2016   
    
