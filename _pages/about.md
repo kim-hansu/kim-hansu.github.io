@@ -9,7 +9,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 ***
 
-# ACADEMIC POSITIONS & EDUCATION   
+# Academic Positions & Education   
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - present   
 * [Smart Manufacturing Division](https://www.changwon.ac.kr/smart/)   
 
@@ -30,7 +30,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 ***
 
-# HONORS & AWARDS   
+# Honors & Awards   
 * **Excellence Student Presentation Award** from KSME CAE & Applied Mechanics Division 2021 Spring Conference, May 2022   
 * **Outstanding Ph.D. Award** from Korean Society for Design Optimization, Jan 2022   
 * **Best Dissertation Award** from Hanyang University, Seoul, Korea, Aug 2021   
@@ -49,19 +49,19 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 ***
 
-# PUBLICATIONS
+# Publication
 **A comprehensive list of publications is available [here](https://kim-hansu.github.io/publications) or [Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1).**   
 
 ***
 
-# JOURNAL PAPER REVIEWERS   
+# Journal Paper Reviewers   
 **[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
 **[Structural and Multidisciplinary Optimization, Springer](https://www.springer.com/journal/158/)**   
 **[Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)**   
 
 ***
 
-# SCIENTIFIC & PROFESSIONAL SOCIETIES   
+# Scientific & Professional Societies   
 **Member, [Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
 **Member, [International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
 **Member, [International Society for Structural and Multidisciplinary Optimization (ISSMO)](http://www.issmo.net/)**   
