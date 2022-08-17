@@ -70,15 +70,22 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 # Journal Paper Reviewers   
 **[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
+   
 **[Structural and Multidisciplinary Optimization, Springer](https://www.springer.com/journal/158/)**   
+   
 **[Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)**   
-
+   
 ***
-
+   
 # Scientific & Professional Societies   
 **Member, [Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
+   
 **Member, [International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
+   
 **Member, [International Society for Structural and Multidisciplinary Optimization (ISSMO)](http://www.issmo.net/)**   
+   
 **Member, [Korean Society for Computational Mechanics (KSCM)](http://kscm-society.org/)**   
+   
 **Member, [Korean Society for Design Optimization (KSDO)](https://ksdo.net/)**   
+   
 **Member, [Korean Society of Mechanical Engineers (KSME)](http://ksme.or.kr/main/)**   
