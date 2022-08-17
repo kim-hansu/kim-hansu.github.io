@@ -13,12 +13,12 @@ permalink: /members/
 * Phone (office): To be added
 * E-mail: [hansukim@changwon.ac.kr](mailto:hansukim@changwon.ac.kr)   
    
-### Education:   
+### Education   
 Ph.D. Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
 B.S. Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 
-### Research Interests:   
-Data-driven design optimization, prognostics and health management, input variable selection, surrogate-modeling, uncertainty quantification, and optimization algorithms for artificial neural networks
+### Research Interests   
+Data-driven design optimization, prognostics and health management, input variable selection, surrogate-modeling, uncertainty quantification, optimization algorithms for artificial neural networks
 
 ***
    
