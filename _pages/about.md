@@ -50,11 +50,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ***
 
 # PUBLICATIONS
-**A comprehensive list of my publications is available [here](https://hansukim1123.github.io/publications)**   
-   
-or   
-   
-**[Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1)**   
+**A comprehensive list of my publications is available [here](https://hansukim1123.github.io/publications)** or **[Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1)**   
 
 ***
 
