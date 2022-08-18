@@ -7,7 +7,7 @@ permalink: /publications/
    
 Type of author: *Corresponding author
    
-# Working Papers
+# 🏗️ Working Papers
 1. (Under Review) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Adaptive three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
    
 2. (Under Review) Ha DH, **Kim H**,* Lee TH*. Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158).
@@ -16,7 +16,7 @@ Type of author: *Corresponding author
    
 ***
    
-# Journal Publications
+# 📖 Journal Publications
 1. **Kim H**, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
    
 2. **Kim H**, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) 218:106855. [https://doi.org/10.1016/j.knosys.2021.106855](https://doi.org/10.1016/j.knosys.2021.106855)
@@ -43,7 +43,7 @@ Type of author: *Corresponding author
    
 ***
    
-# Conference Proceedings   
+# 📖 Conference Proceedings   
 1. **Kim H**, Lee TH* (2021) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. In: Chinesta F, Abgrall R, Allix O, Neron D, Kaliske M (ed) *<u>14th WCCM & ECCOMAS Congress 2020</u>*. International Centre for Numerical Methods in Engineering (CIMNE), Barcelona, pp 3115. (ISBN 978-84-121101-7-3)
    
 2. **Kim H**, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. In: Guo X, Huang H (ed) *<u>Advances in Structural and Multidisciplinary Optimization</u>*. Dalian University of Technology Electronics & Audio-visual Press, pp 50–53. (ISBN 978-7-89437-207-9)
@@ -52,7 +52,7 @@ Type of author: *Corresponding author
    
 ***
    
-# International Conference Papers
+# 🗣️ International Conference Papers
 1. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022</u>*, May 22–26, 2022, Matsue, Japan.
    
 2. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Virtual Conference)
@@ -69,7 +69,7 @@ Type of author: *Corresponding author
    
 ***
    
-# Domestic Conference Papers
+# 🗣️ Domestic Conference Papers
 1. **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>2022 KSCM Conference on Computational Mechanics</u>*, June 22–24, 2022, Gangwon, Korea.
    
 2. Kim S, **Kim H**, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
