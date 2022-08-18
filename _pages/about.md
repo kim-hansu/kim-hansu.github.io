@@ -17,7 +17,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 * Advisor: Prof. [Tae Hee Lee](http://odl.hanyang.ac.kr/)    
 
 ### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
-* Outstanding Ph.D. Award from Korean Society for Design optimization   
+* Outstanding Ph.D. Award from Korean Society for Design Optimization   
 * Best Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](http://odl.hanyang.ac.kr/)   
