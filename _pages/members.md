@@ -5,7 +5,7 @@ author: "Hansu Kim"
 permalink: /members/
 ---
 
-# 🏫 Faculty   
+# 👨‍🔬 Faculty   
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}
       
@@ -23,10 +23,10 @@ Design optimization, Data-driven design and optimization, Prognostics and health
    
 ***
    
-# Graduate Research Assistants   
+# 🧑‍🔬 Graduate Research Assistants   
 ## To be added   
    
 ***
    
-# Undergraduate Research Assistants   
+# 🧑‍🔬 Undergraduate Research Assistants   
 ## To be added   
