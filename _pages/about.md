@@ -77,7 +77,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
    
 ***
    
-# Scientific & Professional Societies   
+# 🏢 Scientific & Professional Societies   
 **Member, [Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
    
 **Member, [International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
