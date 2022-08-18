@@ -44,7 +44,7 @@ Type of author: *Corresponding author
 ***
    
 # Conference Proceedings   
-1. **Kim H**, Lee TH* (2021) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. In: Chinesta F, Abgrall R, Allix O, Neron D, Kaliske M (ed) <u>*14th WCCM & ECCOMAS Congress 2020*</u>. International Centre for Numerical Methods in Engineering (CIMNE), Barcelona, pp 3115. (ISBN 978-84-121101-7-3)
+1. **Kim H**, Lee TH* (2021) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. In: Chinesta F, Abgrall R, Allix O, Neron D, Kaliske M (ed) *<u>14th WCCM & ECCOMAS Congress 2020</u>*. International Centre for Numerical Methods in Engineering (CIMNE), Barcelona, pp 3115. (ISBN 978-84-121101-7-3)
    
 2. **Kim H**, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. In: Guo X, Huang H (ed) Advances in Structural and Multidisciplinary Optimization. Dalian University of Technology Electronics & Audio-visual Press, pp 50–53. (ISBN 978-7-89437-207-9)
    
