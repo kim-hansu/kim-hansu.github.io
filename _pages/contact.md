@@ -11,7 +11,7 @@ permalink: /contact/
 ## 📫 Address   
 Room 109, College of Engineering #3, Changwon National University, 20 Changwondaehak-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do 51140, Korea   
    
-경상남도 창원시 의창구 창원대학로 20, 창원대학교 공대3(53호관) 109호 (우편번호: 51140)   
+경상남도 창원시 의창구 창원대학로 20, 창원대학교 공대3호관(53호관) 109호 (우편번호: 51140)   
    
 ## ☎️ Phone (office)   
 055-213-3613   
