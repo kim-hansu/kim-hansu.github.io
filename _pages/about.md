@@ -68,7 +68,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 ***
 
-# 🔍 Journal Paper Reviewers   
+# 🖊️ Journal Paper Reviewers   
 **[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
    
 **[Structural and Multidisciplinary Optimization, Springer](https://www.springer.com/journal/158/)**   
