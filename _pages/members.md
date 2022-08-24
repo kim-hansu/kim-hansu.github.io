@@ -19,7 +19,7 @@ Ph.D. Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021
 B.S. Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 
 ### 🔍 Research Interests   
-Design optimization, Data-driven design and optimization, Prognostics and health management, Optimization algorithms for artificial neural networks, Input variable selection, Surrogate-modeling, Uncertainty quantification   
+Design optimization, Data-driven design optimization, Uncertainty-based design optimization, Optimization algorithms for artificial neural networks, Input variable selection, Design and analysis of computer experiments, Prognostics and health management   
    
 ***
    
