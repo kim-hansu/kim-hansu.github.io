@@ -5,7 +5,7 @@ author: "Hansu Kim"
 permalink: /about/
 ---
 
-Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https://www.changwon.ac.kr/sme/) at [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea. He received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. Until Aug 2022, he was a BK Post-Doc at the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU. His research interests include design optimization, data-driven design and optimization, prognostics and health management, optimization algorithms for artificial neural networks, input variable selection, surrogate-modeling, and uncertainty quantification.
+Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https://www.changwon.ac.kr/sme/) at [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea. He received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. Until Aug 2022, he was a BK Post-Doc. at the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU. His research interests include design optimization, data-driven design and optimization, prognostics and health management, optimization algorithms for artificial neural networks, input variable selection, surrogate-modeling, and uncertainty quantification.
 
 ***
 
@@ -13,7 +13,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - present   
 * [Smart Manufacturing Division](https://www.changwon.ac.kr/smart/)   
 
-### BK Post-Doc, BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
+### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
 * Advisor: Prof. [Tae Hee Lee](http://odl.hanyang.ac.kr/)    
 
 ### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
