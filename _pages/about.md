@@ -10,9 +10,9 @@ Hansu Kim is an Assistant Professor of [Department of Smart Manufacturing Engine
 ***
 
 # 🎓 Academic Positions & Education   
-### Assistant Professor, [Department of Smart Manufacturing Engineering](https://www.changwon.ac.kr/smart/), Changwon National University, Changwon, Korea, Sep 2022 - present   
+### Assistant Professor, [Department of Smart Manufacturing Engineering](https://www.changwon.ac.kr/smart/), [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea, Sep 2022 - present   
    
-### BK Post-Doc., [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/), Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
+### BK Post-Doc., [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/), [Hanyang University](https://www.hanyang.ac.kr/), Seoul, Korea, Sep 2021 - Aug 2022   
 * Advisor: Prof. [Tae Hee Lee](http://odl.hanyang.ac.kr/)    
    
 ### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
