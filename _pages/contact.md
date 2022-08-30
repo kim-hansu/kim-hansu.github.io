@@ -14,7 +14,7 @@ Room 109, College of Engineering #3, Changwon National University, 20 Changwonda
 경상남도 창원시 의창구 창원대학로 20, 창원대학교 공대3호관(53호관) 109호(우편번호: 51140)   
    
 ## ☎️ Phone (office)   
-To be added   
++82-55-213-3619   
    
 ## 📧 E-mail   
 [hansukim@changwon.ac.kr](mailto:hansukim@changwon.ac.kr)   
