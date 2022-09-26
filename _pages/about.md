@@ -89,3 +89,15 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 **Member, [Korean Society for Design Optimization (KSDO)](https://ksdo.net/)**   
    
 **Member, [Korean Society of Mechanical Engineers (KSME)](http://ksme.or.kr/main/)**   
+   
+***
+   
+# 🏫 Teaching   
+## Manufacturing AI (SMA0001)   
+* Fall Semester, 2022   
+    
+## Big Data Engineering (MNA0082)   
+* Fall Semester, 2022   
+   
+## Design and Analysis of Computational Experiments (AUE8048)
+* Fall Semester, 2021 (Hanyang University, Seoul, Korea)  
