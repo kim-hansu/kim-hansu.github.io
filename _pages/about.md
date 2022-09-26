@@ -9,11 +9,11 @@ permalink: /about/
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
    
-### 📧 E-mail
+Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https://www.changwon.ac.kr/sme/) at [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea. He received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. Until Aug 2022, he was a BK Post-Doc. at the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU. His research interests include design optimization, data-driven design optimization, uncertainty-based design optimization, optimization algorithms for artificial neural networks, input variable selection, design and analysis of computer experiments, and prognostics and health management.
+   
+### 📧 E-mail   
 [hansukim@changwon.ac.kr](mailto:hansukim@changwon.ac.kr)   
    
-Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https://www.changwon.ac.kr/sme/) at [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea. He received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. Until Aug 2022, he was a BK Post-Doc. at the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU. His research interests include design optimization, data-driven design optimization, uncertainty-based design optimization, optimization algorithms for artificial neural networks, input variable selection, design and analysis of computer experiments, and prognostics and health management.
-
 ***
 
 # 🎓 Academic Positions & Education   
