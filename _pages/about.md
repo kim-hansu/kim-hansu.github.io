@@ -5,7 +5,7 @@ author: "Hansu Kim"
 permalink: /about/
 ---
    
-## 👨‍🏫 Hansu Kim, Ph.D.   
+# 👨‍🏫 Hansu Kim, Ph.D.   
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
    
