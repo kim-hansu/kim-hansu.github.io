@@ -100,7 +100,7 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ***
    
 # 🏫 Teaching   
-## Manufacturing AI (SMA0001)   
+## Manufacturing Artificial Intelligence (SMA0001)   
 * Fall Semester, 2022   
     
 ## Big Data Engineering (MNA0082)   
