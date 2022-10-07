@@ -85,17 +85,17 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 ***
    
 # 🏢 Scientific & Professional Societies   
-**Member, [Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
+**[Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
    
-**Member, [International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
+**[International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
    
-**Member, [International Society for Structural and Multidisciplinary Optimization (ISSMO)](http://www.issmo.net/)**   
+**[International Society for Structural and Multidisciplinary Optimization (ISSMO)](http://www.issmo.net/)**   
    
-**Member, [Korean Society for Computational Mechanics (KSCM)](http://kscm-society.org/)**   
+**[Korean Society for Computational Mechanics (KSCM)](http://kscm-society.org/)**   
    
-**Member, [Korean Society for Design Optimization (KSDO)](https://ksdo.net/)**   
+**[Korean Society for Design Optimization (KSDO)](https://ksdo.net/)**   
    
-**Member, [Korean Society of Mechanical Engineers (KSME)](http://ksme.or.kr/main/)**   
+**[Korean Society of Mechanical Engineers (KSME)](http://ksme.or.kr/main/)**   
    
 ***
    
