@@ -101,10 +101,10 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
    
 # 🏫 Teaching   
 ## Manufacturing Artificial Intelligence (SMA0001)   
-* Fall Semester, 2022   
+* Fall Semester, 2022 (Changwon National University, Changwon, Korea)   
     
 ## Big Data Engineering (MNA0082)   
-* Fall Semester, 2022   
+* Fall Semester, 2022 (Changwon National University, Changwon, Korea)   
    
 ## Design and Analysis of Computational Experiments (AUE8048)
 * Fall Semester, 2021 (Hanyang University, Seoul, Korea)  
