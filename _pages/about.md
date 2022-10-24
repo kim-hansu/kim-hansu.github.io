@@ -18,7 +18,6 @@ Hansu Kim is an Assistant Professor of [School of Mechanical Engineering](https:
 
 # 🎓 Academic Positions & Education   
 ### Assistant Professor, [School of Mechanical Engineering](https://www.changwon.ac.kr/sme/), [Changwon National University](https://www.changwon.ac.kr/), Changwon, Korea, Sep 2022 - present   
-* [Smart Manufacturing Division](https://www.changwon.ac.kr/smart/)    
    
 ### BK Post-Doc., [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/), [Hanyang University](https://www.hanyang.ac.kr/), Seoul, Korea, Sep 2021 - Aug 2022   
 * Advisor: Prof. [Tae Hee Lee](http://odl.hanyang.ac.kr/)    
