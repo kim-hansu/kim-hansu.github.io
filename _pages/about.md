@@ -84,6 +84,8 @@ Hansu Kim is an Assistant Professor of School of Mechanical Engineering at Chang
 ***
    
 # 🏢 Scientific & Professional Societies   
+**[Asian Pacific Association for Computational Mechanics (APACM)](https://www.apacm-association.org/)**   
+   
 **[Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
    
 **[International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
