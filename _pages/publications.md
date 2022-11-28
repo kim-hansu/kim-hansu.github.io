@@ -8,15 +8,15 @@ permalink: /publications/
 Type of author: *Corresponding author
    
 # 📝 Working Papers
-2. (Under Revision) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Adaptive three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
-   
-1. (Accepted) Ha DH, **Kim H**,* Lee TH*. Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158).
+1. (Under Revision) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Adaptive three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
    
 ***
    
 # 📖 Journal Publications
+14. Ha DH, **Kim H**,* Lee TH*. Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
+   
 13. **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) **(Special issue for the 14th WCSMO)**
-
+   
 12. **Kim H**, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
    
 11. **Kim H**, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) 218:106855. [https://doi.org/10.1016/j.knosys.2021.106855](https://doi.org/10.1016/j.knosys.2021.106855)
