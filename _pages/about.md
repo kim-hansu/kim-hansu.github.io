@@ -75,6 +75,8 @@ Hansu Kim is an Assistant Professor of School of Mechanical Engineering at Chang
 ***
 
 # 🖊️ Journal Paper Reviewers   
+**[Journal of Mechanical Science and Technology, Springer](https://www.springer.com/journal/12206)**   
+   
 **[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
    
 **[Structural and Multidisciplinary Optimization, Springer](https://www.springer.com/journal/158/)**   
