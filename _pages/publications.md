@@ -8,7 +8,7 @@ permalink: /publications/
 Type of author: *Corresponding author
    
 # 📝 Working Papers
-1. (Under Revision) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Adaptive three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
+1. (Accepted) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Adaptive three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
    
 ***
    
