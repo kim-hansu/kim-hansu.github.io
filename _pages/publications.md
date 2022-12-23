@@ -7,12 +7,9 @@ permalink: /publications/
    
 Type of author: *Corresponding author
    
-# 📝 Working Papers
-1. (In Press) **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH*. Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks). [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
-   
-***
-   
 # 📖 Journal Publications
+15. **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) 159:125-136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
+   
 14. Ha DH, **Kim H**,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
    
 13. **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) **(Special issue for the 14th WCSMO)**
