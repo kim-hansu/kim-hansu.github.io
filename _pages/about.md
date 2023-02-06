@@ -75,6 +75,8 @@ Hansu Kim received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.
 ***
 
 # 🖊️ Journal Paper Reviewers   
+**[IEEE Access, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)**   
+   
 **[Journal of Mechanical Science and Technology, Springer](https://www.springer.com/journal/12206)**   
    
 **[Mechanics Based Design of Structures and Machines, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)**   
