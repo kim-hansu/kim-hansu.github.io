@@ -9,14 +9,17 @@ permalink: /about/
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
    
-Hansu Kim received B.S. and Ph.D. degree in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. During Sep 2021 and Aug 2022, he was a BK Post-Doc. at the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU. During Sep 2022 and Dec 2022, he was an Assistant Professor of [School of Mechanical Engineering](https://www.changwon.ac.kr/sme) at [Changwon National University](https://www.changwon.ac.kr/). His research interests include design optimization, data-driven design, topology optimization, design for additive manufacturing, optimization algorithms for artificial neural networks, input variable selection, design and analysis of computer experiments, and uncertainty-based design optimization.
+Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea in Feb 2015 and Aug 2021, respectively. He has worked as a BK Post-Doc. in the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU and as an Assistant Professor in [School of Mechanical Engineering](https://www.changwon.ac.kr/sme) at [Changwon National University](https://www.changwon.ac.kr/). He is currently a Postdoctoral Felloow in the [Department of Mechanical and Materials Engineering](https://me.queensu.ca/) at [Queen's University](https://www.queensu.ca/), Kingtson, Canada. His research interests include design optimization, topology optimization, design for additive manufacturing, data-driven design, optimization algorithms for artificial neural networks, input variable selection, design and analysis of computer experiments, and uncertainty-based design optimization.
    
 ### 📧 E-mail   
-[hansukim91@gmail.com](mailto:hansukim91@gmail.com)   
+[hansu.kim@queensu.ca](mailto:hansu.kim@queensu.ca)   
    
 ***
 
 # 🎓 Academic Positions & Education   
+### Postdoctoral Fellow, Department of Mechanical and Materials Engineering at Queen's University, Kingtson, Canada, Apr 2023 - Present   
+* Advisor: Prof. [Il Yong Kim](https://me.queensu.ca/People/Kim/)    
+   
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - Dec 2022   
    
 ### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
