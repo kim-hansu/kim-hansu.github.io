@@ -40,6 +40,8 @@ Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.han
 ***
 
 # 🏆 Honors & Awards   
+**Excellence Paper Award** from KSME CAE & Applied Mechanics Division 2022 Spring Conference, May 2023   
+   
 **Excellence Student Presentation Award** from KSME CAE & Applied Mechanics Division 2021 Spring Conference, May 2022   
    
 **Outstanding Ph.D. Award** from Korean Society for Design Optimization, Jan 2022   
