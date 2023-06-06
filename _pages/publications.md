@@ -50,7 +50,7 @@ Type of author: *Corresponding author
 ***
    
 # 🗣️ International Conference Papers
-8. (Planned) Kim S, **Kim H**, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
+8. Kim S, **Kim H**, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
    
 7. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022</u>*, May 22–26, 2022, Matsue, Japan.
    
