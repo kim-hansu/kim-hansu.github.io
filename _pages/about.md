@@ -23,19 +23,19 @@ Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.han
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - Dec 2022   
    
 ### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
-* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/en/faculty)    
+* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/faculty)    
    
 ### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
 * Outstanding Ph.D. Award from Korean Society for Design Optimization   
 * Best Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
-* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/en/faculty)   
-* Committee: Prof. [Kunsoo Huh](https://ae.hanyang.ac.kr/en/faculty), Prof. [Seungjae Min](https://ae.hanyang.ac.kr/en/faculty), Dr. [Youngsoo Choi](https://people.llnl.gov/choi15) (LLNL), Prof. [Ikjin Lee](https://me.kaist.ac.kr/eng/team/team_010100.html?mode=1&sword=12) (KAIST)   
+* Advisor: Prof. [Tae Hee Lee](https://ae.hanyang.ac.kr/faculty)   
+* Committee: Prof. [Kunsoo Huh](https://ae.hanyang.ac.kr/faculty), Prof. [Seungjae Min](https://ae.hanyang.ac.kr/faculty), Dr. [Youngsoo Choi](https://people.llnl.gov/choi15) (LLNL), Prof. [Ikjin Lee](https://me.kaist.ac.kr/team/team_010100.html?mode=1&sword=8) (KAIST)   
 
 ### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
 * *Summa Cum Laude* (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
-* Advisors: Profs. [Tae Hee Lee](https://ae.hanyang.ac.kr/en/faculty) and [Seungjae Min](https://ae.hanyang.ac.kr/en/faculty)   
+* Advisors: Profs. [Tae Hee Lee](https://ae.hanyang.ac.kr/faculty) and [Seungjae Min](https://ae.hanyang.ac.kr/faculty)   
 
 ***
 
