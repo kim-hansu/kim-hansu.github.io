@@ -1,6 +1,6 @@
 # Site settings
 title:          Hansu Kim
-description:    "Hansu Kim @ Changwon National University"
+description:    "Hansu Kim @ Queen's University"
 url:            "https://kim-hansu.github.io/"
 
 # Google Analytics
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 author:
   name:         Hansu Kim
   url:          https://kim-hansu.github.io/
-  email:        hansukim@changwon.ac.kr
+  email:        hansukim91@gmail.com
 # Build settings
 markdown:       kramdown
 include:
