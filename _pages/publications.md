@@ -22,7 +22,7 @@ permalink: /publications/
    
 5. Kwon K, Seo M, **Kim H**, Lee TH, Lee J, Min S* (2020) Multi-objective optimisation of hydro-pneumatic suspension with gas-oil emulsion for heavy-duty vehicles. [Vehicle System Dynamics](https://www.tandfonline.com/journals/nvsd20) 58(7):1146–1165. [https://doi.org/10.1080/00423114.2019.1609050](https://doi.org/10.1080/00423114.2019.1609050)
    
-4. **Kim H**, Lee TH,* Song Y, Huh K. (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. [Vehicle System Dynamics](https://www.tandfonline.com/journals/nvsd20) 58(6):987—1005. [https://doi.org/10.1080/00423114.2019.1627375](https://doi.org/10.1080/00423114.2019.1627375) **(Grand Award)**
+4. **Kim H**, Lee TH,* Song Y, Huh K. (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. [Vehicle System Dynamics](https://www.tandfonline.com/journals/nvsd20) 58(6):987–1005. [https://doi.org/10.1080/00423114.2019.1627375](https://doi.org/10.1080/00423114.2019.1627375) **(Grand Award)**
    
 3. Lim J, **Kim H**, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and Experimental Analysis of Potential Causes Degrading Contact Resistances and Forces of Sensor Connectors for Vehicles. [IEEE Access](https://ieeeaccess.ieee.org/) 7:126530–126538. [https://doi.org/10.1109/ACCESS.2019.2939377](https://doi.org/10.1109/ACCESS.2019.2939377)
    
