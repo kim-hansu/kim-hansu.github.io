@@ -8,6 +8,8 @@ permalink: /publications/
 *Corresponding Authors
    
 # 📖 International Journal Papers
+11. (Under Review) **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2023) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition.
+   
 10. **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) 159:125-136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
    
 9. Ha DH, **Kim H**,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
@@ -44,7 +46,7 @@ permalink: /publications/
 ***
    
 # 🗣️ International Conference Papers
-9. (Planned) **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-Optimized Aircraft Seat Leg Structure Considering Metal Additive Manufacturing Build Volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
+9.  Patel A, **Kim H**, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-Optimized Aircraft Seat Leg Structure Considering Metal Additive Manufacturing Build Volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
    
 8. Kim S, **Kim H**, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
    
