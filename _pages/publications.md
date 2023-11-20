@@ -10,7 +10,7 @@ permalink: /publications/
 # 📖 International Journal Papers
 11. (Under Review) **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2023) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition.
    
-10. **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) 159:125-136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
+10. **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) 159:125–136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
    
 9. Ha DH, **Kim H**,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [Structural and Multidisciplinary Optimization](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
    
