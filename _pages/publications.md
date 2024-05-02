@@ -8,7 +8,7 @@ permalink: /publications/
 *Corresponding Authors
    
 # 📖 International Journal Papers
-11. (Accepted) **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [Rapid Prototyping Journal](https://www.emeraldgrouppublishing.com/journal/rpj). [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
+11. **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [Rapid Prototyping Journal](https://www.emeraldgrouppublishing.com/journal/rpj). [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
    
 10. **Kim H**, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) 159:125–136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
    
