@@ -8,4 +8,4 @@ permalink: /posts/2023-04-04-NewCareerQueens
   
 ![SMSD Group](https://github.com/kim-hansu/kim-hansu.github.io/assets/54526956/98f20799-1ccd-4c86-abad-22715481eb1f){: width="75%" height="75%"}   
   
-I have started a Postdoctoral Fellow position in the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. Good luck!  
+I have started a Postdoctoral Fellow position in the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) directed by Prof. [Il Yong Kim](https://scholar.google.com/citations?hl=en&user=9nbcizgAAAAJ) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. Good luck!  
