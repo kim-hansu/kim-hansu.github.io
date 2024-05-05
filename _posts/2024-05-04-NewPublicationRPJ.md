@@ -17,4 +17,4 @@ Authors: **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY*
 
 **Originality/value** – To the best of the authors’ knowledge, this study is the first paper to design an aircraft seat leg structure manufactured with metal additive manufacturing using a rigorous topology optimization approach. The resultant design reduces mass and part count compared to a reference design and is verified with respect to real-world aircraft certification requirements.  
 
-**Keywords** – Aircraft seat leg, Structural airworthiness certification, Metal additive manufacturing, Topology optimization, Build volume, Part decomposition, Build orientation  
+**Keywords** – Aircraft seat leg, Structural airworthiness certification, Metal additive manufacturing, Topology optimization, Build volume, Part decomposition, Build orientation.  
