@@ -15,6 +15,6 @@ Authors: **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY*
 
 **Findings** – The final topology-optimized seat leg structure was decomposed into three parts, yielding a 57% reduction in the number of parts compared to a reference design. In addition, the design achieved an 8.5% mass reduction while satisfying structural requirements for airworthiness certification.  
 
-**Originality/value** – To the best of the authors’ knowledge, this study is the first paper to design an aircraft seat leg structure manufactured with metal additive manufacturing using a rigorous topology optimization approach. The resultant design reduces mass and part count compared to a reference design and is verified with respect to real-world aircraft certification requirements.  
+**Originality/value** – To the best of the authors’ knowledge, this study is the first paper to design an aircraft seat leg structure manufactured with MAM using a rigorous TO approach. The resultant design reduces mass and part count compared to a reference design and is verified with respect to real-world aircraft certification requirements.  
 
 **Keywords** – Aircraft seat leg, Structural airworthiness certification, Metal additive manufacturing, Topology optimization, Build volume, Part decomposition, Build orientation.  
