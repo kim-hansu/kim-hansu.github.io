@@ -7,7 +7,7 @@ permalink: /posts/2024-05-04-NewPublicationRPJ
 
 Paper entitled "[Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition](https://doi.org/10.1108/RPJ-11-2023-0400)" has been published in [Rapid Prototyping Journal](https://www.emeraldgrouppublishing.com/journal/rpj).  
 
-Authors: **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY*  
+**Authors** – Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY  
  
 **Purpose** – The lightweight design of aircraft seats can significantly improve fuel efficiency and reduce greenhouse gas emissions. Metal additive manufacturing (MAM) can produce lightweight topology-optimized designs with improved performance, but limited build volume restricts the printing of large components. The purpose of this paper is to design a lightweight aircraft seat leg structure using topology optimization (TO) and MAM with build volume restrictions, while satisfying structural airworthiness certification requirements.  
 
