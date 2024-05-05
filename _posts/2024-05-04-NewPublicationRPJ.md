@@ -9,7 +9,7 @@ Paper entitled "[Design of a metal additive manufactured aircraft seat leg using
 
 Authors: **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY*  
 
-**Abstract**
+**Abstract**  
 **Purpose** – The lightweight design of aircraft seats can significantly improve fuel efficiency and reduce greenhouse gas emissions. Metal additive manufacturing (MAM) can produce lightweight topology-optimized designs with improved performance, but limited build volume restricts the printing of large components. The purpose of this paper is to design a lightweight aircraft seat leg structure using topology optimization (TO) and MAM with build volume restrictions, while satisfying structural airworthiness certification requirements.  
 **Design/methodology/approach** – TO was used to determine a lightweight conceptual design for the seat leg structure. The conceptual design was decomposed to meet the machine build volume, a detailed CAD assembly was designed and print orientation was selected for each component. Static and dynamic verification was performed, the design was updated to meet the structural requirements and a prototype was manufactured.  
 **Findings** – The final topology-optimized seat leg structure was decomposed into three parts, yielding a 57% reduction in the number of parts compared to a reference design. In addition, the design achieved an 8.5% mass reduction while satisfying structural requirements for airworthiness certification.  
