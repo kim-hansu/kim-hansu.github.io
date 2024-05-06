@@ -9,7 +9,7 @@ permalink: /about/
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
    
-Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea, in Feb 2015 and Aug 2021, respectively. He has worked as a BK Post-Doc. in the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU and as an Assistant Professor in the [School of Mechanical Engineering](https://www.changwon.ac.kr/sme) at [Changwon National University](https://www.changwon.ac.kr/). He is currently a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://me.queensu.ca/) at [Queen's University](https://www.queensu.ca/), Kingston, Canada. His research interests include design optimization, topology optimization, design for additive manufacturing, data-driven design, and uncertainty-based design optimization.
+Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU), Seoul, Korea, in February 2015 and August 2021, respectively. He has worked as a BK Post-Doc. in the [BK21 Four Education & Research Program for Automotive-Software Convergence](https://bk21auto.hanyang.ac.kr/) at HYU and as an Assistant Professor in the [School of Mechanical Engineering](https://www.changwon.ac.kr/sme) at [Changwon National University](https://www.changwon.ac.kr/). He is currently a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://me.queensu.ca/) at [Queen's University](https://www.queensu.ca/), Kingston, Canada. His research interests include design optimization, topology optimization, design for additive manufacturing, data-driven design, and uncertainty-based design optimization.
    
 ### 📧 E-mail   
 [hansu.kim@queensu.ca](mailto:hansu.kim@queensu.ca)   
@@ -17,22 +17,22 @@ Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.han
 ***
 
 # 🎓 Academic Positions & Education   
-### Postdoctoral Fellow, Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada, Apr 2023 - Present   
+### Postdoctoral Fellow, Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada, April 2023 - Present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
-### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - Dec 2022   
+### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, September 2022 - December 2022   
    
-### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, Sep 2021 - Aug 2022   
+### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, September 2021 - August 2022   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)    
    
-### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, Aug 2021   
+### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, August 2021   
 * Outstanding Ph.D. Award from Korean Society for Design Optimization   
 * Best Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
 
-### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, Feb 2015   
+### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, February 2015   
 * *Summa Cum Laude* (GPA: 4.19/4.50), 1st rank graduation in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)   
@@ -46,31 +46,31 @@ Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.han
    
 **Outstanding Ph.D. Award** from Korean Society for Design Optimization, January 2022   
    
-**Best Dissertation Award** from Hanyang University, Seoul, Korea, Aug 2021   
+**Best Dissertation Award** from Hanyang University, Seoul, Korea, August 2021   
    
-**Excellence Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2020 Spring Conference, Aug 2020   
+**Excellence Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2020 Spring Conference, August 2020   
    
-**Excellence Paper Award** from the KSME 2019 Conference, Aug 2020   
+**Excellence Paper Award** from the KSME 2019 Conference, August 2020   
    
-**Excellence Paper Award** from Transactions of the KSME A in 2018, Nov 2019   
+**Excellence Paper Award** from Transactions of the KSME A in 2018, November 2019   
    
-**Grand Award** from the 1st Future Automobile Excellence Paper Contest, Oct 2019   
+**Grand Award** from the 1st Future Automobile Excellence Paper Contest, October 2019   
    
-**Best Poster Award** from KSCM-GACM International Workshop 2018, Oct 2018   
+**Best Poster Award** from KSCM-GACM International Workshop 2018, October 2018   
    
-**BK21 Plus Scholarship** from the National Research Foundation of Korea, Sep 2015 - Aug 2017 and Mar 2018 - Aug 2020   
+**BK21 Plus Scholarship** from the National Research Foundation of Korea, September 2015 - August 2017 and March 2018 - August 2020   
    
-**M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2016   
+**M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, March 2015 - February 2016   
    
-***Summa Cum Laude*** from Hanyang University, Seoul, Korea, Mar 2015 - Feb 2015   
+***Summa Cum Laude*** from Hanyang University, Seoul, Korea, March 2015 - February 2015   
    
-**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Oct 2014   
+**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, October 2014   
    
-**Excellence Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, Dec 2013   
+**Excellence Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, December 2013   
    
-**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, Apr 2013   
+**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, April 2013   
    
-**Hanyang Science and Technology Scholarship** from Hanyang University, Seoul, Korea, Mar 2011 - Feb 2015   
+**Hanyang Science and Technology Scholarship** from Hanyang University, Seoul, Korea, March 2011 - February 2015   
    
 ***
    
