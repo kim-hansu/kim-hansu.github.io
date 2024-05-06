@@ -17,7 +17,7 @@ Hansu Kim received his B.S. and Ph.D. in [Automotive Engineering](https://ae.han
 ***
 
 # 🎓 Academic Positions & Education   
-### Postdoctoral Fellow, Department of Mechanical and Materials Engineering, Queen's University, Kingtson, Canada, Apr 2023 - Present   
+### Postdoctoral Fellow, Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada, Apr 2023 - Present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
 ### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, Sep 2022 - Dec 2022   
