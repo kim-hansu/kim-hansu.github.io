@@ -43,35 +43,36 @@ permalink: /about/
 # 🏆 Honors & Awards   
 **Outstanding Paper Award**, ***KSME CAE & Applied Mechanics Division at the 2022 Spring Conference***, May 2023   
    
-**Outstanding Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2021 Spring Conference, May 2022   
+**Outstanding Student Presentation Award**, ***KSME CAE & Applied Mechanics Division at the 2021 Spring Conference***, May 2022   
    
-**Outstanding Doctoral Dissertation Award** from Korean Society for Design Optimization, January 2022   
+**Outstanding Doctoral Dissertation Award**, ***Korean Society for Design Optimization (KSDO)***, January 2022   
    
-**Outstanding Doctoral Dissertation Award** from Hanyang University, Seoul, Korea, August 2021   
+**Outstanding Doctoral Dissertation Award**, ***Hanyang University, Seoul, Korea***, August 2021   
    
-**Outstanding Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2020 Spring Conference, August 2020   
+**Outstanding Student Presentation Award**, ***KSME CAE & Applied Mechanics Division at the 2020 Spring Conference***, August 2020   
    
-**Outstanding Paper Award** from the KSME 2019 Conference, August 2020   
+**Outstanding Paper Award**, ***KSME 2019 Conference***, August 2020   
    
-**Outstanding Paper Award** from Transactions of the KSME A in 2018, November 2019   
+**Outstanding Paper Award**, ***Transactions of the KSME A***, November 2019   
    
-**Grand Award** from the 1st Future Automobile Excellence Paper Contest, October 2019   
+**Grand Award**, ***1st Future Automobile Excellence Paper Contest***, October 2019   
+* 2nd rank out of 56 articles       
    
-**Best Poster Award** from KSCM-GACM International Workshop 2018, October 2018   
+**Best Poster Award**, ***KSCM-GACM International Workshop 2018***, October 2018   
    
-**BK21 Plus Scholarship** from the National Research Foundation of Korea, September 2015 - August 2017 and March 2018 - August 2020   
+**BK21 Plus Scholarship**, ***National Research Foundation of Korea***, September 2015 - August 2017 & March 2018 - August 2020   
    
-**M.S. & Ph.D. Full Scholarship** from Hanyang University, Seoul, Korea, March 2015 - February 2016   
+**M.S. & Ph.D. Full Scholarship**, ***Hanyang University, Seoul, Korea***, March 2015 - February 2016   
    
-***Summa Cum Laude*** from Hanyang University, Seoul, Korea, March 2015 - February 2015   
+***Summa Cum Laude***, ***Hanyang University, Seoul, Korea***, February 2015   
    
-**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, October 2014   
+**Hanyang Academic Grand Award**, ***Hanyang University, Seoul, Korea***, October 2014   
    
-**Outstanding Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, December 2013   
+**Outstanding Award**, ***2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea***, December 2013   
    
-**Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, April 2013   
+**Hanyang Academic Grand Award**, ***Hanyang University, Seoul, Korea***, April 2013   
    
-**Hanyang Science and Technology Scholarship** from Hanyang University, Seoul, Korea, March 2011 - February 2015   
+**Hanyang Science and Technology Scholarship**, ***Hanyang University, Seoul, Korea***, March 2011 - February 2015   
    
 ***
    
