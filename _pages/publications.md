@@ -39,7 +39,7 @@ permalink: /publications/
    
 4. Ryu N, Kwon K, Kim G, **Kim H**, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
    
-3. **Kim H**, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an Integrated Interface for Design Optimization of a Combat Vehicle System Using Maple Symbolic Computation. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Excellence Paper Award & Recommended from KSME)**
+3. **Kim H**, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an Integrated Interface for Design Optimization of a Combat Vehicle System Using Maple Symbolic Computation. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Outstanding Paper Award | Recommended from KSME)**
    
 2. **Kim H**, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**
    
@@ -54,11 +54,11 @@ permalink: /publications/
    
 7. **Kim H**, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022</u>*, May 22–26, 2022, Matsue, Japan.
    
-6. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Virtual Conference)
+6. **Kim H**, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
    
-5. **Kim H**, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress in Computational Mechanics and ECCOMAS Congress 2020</u>*, January 11–15, 2021, Paris, France. (Virtual Conference)
+5. **Kim H**, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress in Computational Mechanics and ECCOMAS Congress 2020</u>*, January 11–15, 2021, Paris, France. (Online Conference)
    
-4. **Kim H**, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020</u>*, November 23–25, 2020, Seoul, Korea. (Virtual Conference)
+4. **Kim H**, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020</u>*, November 23–25, 2020, Seoul, Korea. (Online Conference)
    
 3. **Kim H**, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. *<u>13th World Congress of Structural and Multidisciplinary Optimization</u>*, May 20–24, 2019, Beijing, China.
    
@@ -77,13 +77,13 @@ permalink: /publications/
    
 21. Kim S, **Kim H**, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
    
-20. **Kim H**, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Virtual Conference) **(Excellence Student Presentation Award)**
+20. **Kim H**, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Virtual Conference) **(Outstanding Student Presentation Award)**
    
 19. Kim T, **Kim H**, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Virtual Conference)
    
-18. **Kim H**, Lee TH* (2020) Significance analysis of input variables using bootstrap confidence intervals for elastic net under sampling uncertainty. *<u>KSME CAE & Applied Mechanics Division 2020 Spring Conference</u>*, August 19–21, 2020, Gyeongju, Korea. **(Excellence Student Presentation Award)**
+18. **Kim H**, Lee TH* (2020) Significance analysis of input variables using bootstrap confidence intervals for elastic net under sampling uncertainty. *<u>KSME CAE & Applied Mechanics Division 2020 Spring Conference</u>*, August 19–21, 2020, Gyeongju, Korea. **(Outstanding Student Presentation Award)**
    
-17. **Kim H**, Lee TH* (2019) A statistical analysis on significance of design variables by using bootstrap confidence intervals. *<u>KSME 2019 Conference</u>*, November 13–16, 2019, Jeju, Korea. **(Excellence Paper Award)**
+17. **Kim H**, Lee TH* (2019) A statistical analysis on significance of design variables by using bootstrap confidence intervals. *<u>KSME 2019 Conference</u>*, November 13–16, 2019, Jeju, Korea. **(Outstanding Paper Award)**
    
 16. Byun H, **Kim H**, Lee TH* (2019) Hierarchical Surrogate Model for Scale-bridging using Learning Algorithms. *<u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u>*, April 18–20, 2019, Jeju, Korea.
    
