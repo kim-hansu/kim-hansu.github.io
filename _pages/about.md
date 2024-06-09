@@ -81,15 +81,15 @@ permalink: /about/
 ***
 
 # 🖊️ Journal Paper Reviewers   
-**[IEEE Access, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)**   
+[**IEEE Access**, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)   
    
-**[Journal of Mechanical Science and Technology, *Springer*](https://www.springer.com/journal/12206)**   
+[**Journal of Mechanical Science and Technology**, *Springer*](https://www.springer.com/journal/12206)   
    
-**[Mechanics Based Design of Structures and Machines, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)**   
+[**Mechanics Based Design of Structures and Machines**, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)   
    
-**[Structural and Multidisciplinary Optimization, *Springer*](https://www.springer.com/journal/158/)**   
+[**Structural and Multidisciplinary Optimization**, *Springer*](https://www.springer.com/journal/158/)   
    
-**[Transactions of the KSME, *Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)**   
+[**Transactions of the KSME**, *Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)   
    
 ***
    
