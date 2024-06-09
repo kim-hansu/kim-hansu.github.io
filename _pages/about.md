@@ -20,19 +20,19 @@ permalink: /about/
 ### Postdoctoral Fellow, ***Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada***, April 2023 - present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
-### Assistant Professor, School of Mechanical Engineering, Changwon National University, Changwon, Korea, September 2022 - December 2022   
+### Assistant Professor, ***School of Mechanical Engineering, Changwon National University, Changwon, Korea***, September 2022 - December 2022   
    
-### BK Post-Doc., BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea, September 2021 - August 2022   
+### BK Post-Doc., ***BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea***, September 2021 - August 2022   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)    
    
-### Ph.D., Automotive Engineering, Hanyang University, Seoul, Korea, August 2021   
+### Doctor of Philosophy in Automotive Engineering, ***Hanyang University, Seoul, Korea***, August 2021   
 * Outstanding Doctoral Dissertation Award from Korean Society for Design Optimization   
 * Outstanding Doctoral Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
 
-### B.S., Automotive Engineering, Hanyang University, Seoul, Korea, February 2015   
+### Bachelor of Science in Automotive Engineering, ***Hanyang University, Seoul, Korea***, February 2015   
 * *Summa Cum Laude* (GPA: 4.19/4.50)   
 * 1st rank graduate in the Department of Automotive Engineering in February 2015   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
