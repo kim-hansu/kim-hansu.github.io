@@ -7,7 +7,7 @@ permalink: /publications/
    
 **Type of authors: *Corresponding Authors**   
    
-# 📖 International Journal Papers
+# 📖 INTERNATIONAL JOURNAL PAPERS
 12. (Under Review) **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing.
    
 11. **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [Rapid Prototyping Journal](https://www.emeraldgrouppublishing.com/journal/rpj) 30(5):947–969. [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
@@ -34,7 +34,7 @@ permalink: /publications/
    
 ***
    
-# 📖 Korean Journal Papers   
+# 📖 KOREAN JOURNAL PAPERS   
 5. **Kim H**, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) **(Recommended from KSME)**
    
 4. Ryu N, Kwon K, Kim G, **Kim H**, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
@@ -47,7 +47,7 @@ permalink: /publications/
    
 ***
    
-# 🗣️ International Conference Papers
+# 🗣️ INTERNATIONAL CONFERENCE PAPERS
 9.  Patel A, **Kim H**, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-Optimized Aircraft Seat Leg Structure Considering Metal Additive Manufacturing Build Volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
    
 8. Kim S, **Kim H**, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
@@ -68,7 +68,7 @@ permalink: /publications/
    
 ***
    
-# 🗣️ Korean Conference Papers
+# 🗣️ KOREAN CONFERENCE PAPERS
 24. Kim S, **Kim H**, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
 23. Lee TH,* Kim S, **Kim H** (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
