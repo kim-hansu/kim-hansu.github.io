@@ -17,7 +17,11 @@ permalink: /about/
 ***
 
 # 🎓 Academic Positions & Education   
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
 |**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
 ### Postdoctoral Fellow, Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada, April 2023 - Present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
