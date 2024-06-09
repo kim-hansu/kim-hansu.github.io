@@ -59,9 +59,9 @@ permalink: /about/
    
 **Best Poster Award**, *KSCM-GACM International Workshop 2018*, October 2018   
    
-**BK21 Plus Scholarship**, *National Research Foundation of Korea*, September 2015 - August 2017 & March 2018 - August 2020   
+**BK21 Plus Scholarship**, *National Research Foundation of Korea*, September 2015 – August 2017 & March 2018 – August 2020   
    
-**M.S. & Ph.D. Full Scholarship**, *Hanyang University, Seoul, Korea*, March 2015 - February 2016   
+**M.S. & Ph.D. Full Scholarship**, *Hanyang University, Seoul, Korea*, March 2015 – February 2016   
    
 ***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015   
    
@@ -71,7 +71,7 @@ permalink: /about/
    
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013   
    
-**Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 - February 2015   
+**Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 – February 2015   
    
 ***
    
