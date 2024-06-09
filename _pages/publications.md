@@ -35,11 +35,11 @@ permalink: /publications/
 ***
    
 # 📖 Korean Journal Papers   
-5. **Kim H**, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) **(Recommended from KSME)**
+5. **Kim H**, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) **(Recommended from KSME)**   
    
-4. Ryu N, Kwon K, Kim G, **Kim H**, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
+4. Ryu N, Kwon K, Kim G, **Kim H**, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [Transactions of the Korean Society of Automotive Engineers](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)   
    
-3. **Kim H**, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an Integrated Interface for Design Optimization of a Combat Vehicle System Using Maple Symbolic Computation. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Outstanding Paper Award | Recommended from KSME)**
+3. **Kim H**, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an Integrated Interface for Design Optimization of a Combat Vehicle System Using Maple Symbolic Computation. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Outstanding Paper Award & Recommended from KSME)**   
    
 2. **Kim H**, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [Transactions of the Korean Society of Mechanical Engineers A](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**
    
