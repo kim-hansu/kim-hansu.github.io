@@ -41,19 +41,19 @@ permalink: /about/
 ***
 
 # 🏆 Honors & Awards   
-**Excellence Paper Award** from the KSME CAE & Applied Mechanics Division at the 2022 Spring Conference, May 2023   
+**Outstanding Paper Award**, ***KSME CAE & Applied Mechanics Division at the 2022 Spring Conference***, May 2023   
    
-**Excellence Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2021 Spring Conference, May 2022   
+**Outstanding Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2021 Spring Conference, May 2022   
    
-**Outstanding Ph.D. Award** from Korean Society for Design Optimization, January 2022   
+**Outstanding Doctoral Dissertation Award** from Korean Society for Design Optimization, January 2022   
    
-**Best Dissertation Award** from Hanyang University, Seoul, Korea, August 2021   
+**Outstanding Doctoral Dissertation Award** from Hanyang University, Seoul, Korea, August 2021   
    
-**Excellence Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2020 Spring Conference, August 2020   
+**Outstanding Student Presentation Award** from the KSME CAE & Applied Mechanics Division at the 2020 Spring Conference, August 2020   
    
-**Excellence Paper Award** from the KSME 2019 Conference, August 2020   
+**Outstanding Paper Award** from the KSME 2019 Conference, August 2020   
    
-**Excellence Paper Award** from Transactions of the KSME A in 2018, November 2019   
+**Outstanding Paper Award** from Transactions of the KSME A in 2018, November 2019   
    
 **Grand Award** from the 1st Future Automobile Excellence Paper Contest, October 2019   
    
@@ -67,7 +67,7 @@ permalink: /about/
    
 **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, October 2014   
    
-**Excellence Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, December 2013   
+**Outstanding Award** from the 2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea, December 2013   
    
 **Hanyang Academic Grand Award** from Hanyang University, Seoul, Korea, April 2013   
    
