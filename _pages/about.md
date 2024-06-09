@@ -17,22 +17,22 @@ permalink: /about/
 ***
 
 # 🎓 Academic Positions & Education   
-### Postdoctoral Fellow, ***Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada***, April 2023 - present   
+### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 - present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
-### Assistant Professor, ***School of Mechanical Engineering, Changwon National University, Changwon, Korea***, September 2022 - December 2022   
+### Assistant Professor, *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, September 2022 - December 2022   
    
-### BK Post-Doc., ***BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea***, September 2021 - August 2022   
+### BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 - August 2022   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)    
    
-### Doctor of Philosophy in Automotive Engineering, ***Hanyang University, Seoul, Korea***, August 2021   
+### Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021   
 * Outstanding Doctoral Dissertation Award from Korean Society for Design Optimization   
 * Outstanding Doctoral Dissertation Award from Hanyang University, Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
 
-### Bachelor of Science in Automotive Engineering, ***Hanyang University, Seoul, Korea***, February 2015   
+### Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2015   
 * *Summa Cum Laude* (GPA: 4.19/4.50)   
 * 1st rank graduate in the Department of Automotive Engineering in February 2015   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
@@ -41,38 +41,40 @@ permalink: /about/
 ***
 
 # 🏆 Honors & Awards   
-**Outstanding Paper Award**, ***KSME CAE & Applied Mechanics Division at the 2022 Spring Conference***, May 2023   
+**Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division at the 2022 Spring Conference*, May 2023   
    
-**Outstanding Student Presentation Award**, ***KSME CAE & Applied Mechanics Division at the 2021 Spring Conference***, May 2022   
+**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division at the 2021 Spring Conference*, May 2022   
    
-**Outstanding Doctoral Dissertation Award**, ***Korean Society for Design Optimization (KSDO)***, January 2022   
+**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022   
    
-**Outstanding Doctoral Dissertation Award**, ***Hanyang University, Seoul, Korea***, August 2021   
+**Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021   
    
-**Outstanding Student Presentation Award**, ***KSME CAE & Applied Mechanics Division at the 2020 Spring Conference***, August 2020   
+**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division at the 2020 Spring Conference*, August 2020   
    
-**Outstanding Paper Award**, ***KSME 2019 Conference***, August 2020   
+**Outstanding Paper Award**, *KSME 2019 Conference*, August 2020   
    
-**Outstanding Paper Award**, ***Transactions of the KSME A***, November 2019   
+**Outstanding Paper Award**, *Transactions of the KSME A*, November 2019   
    
-**Grand Award**, ***1st Future Automobile Excellence Paper Contest***, October 2019   
-* 2nd rank out of 56 articles       
+**Grand Award**, *1st Future Automobile Excellence Paper Contest*, October 2019   
+* 2nd rank out of 56 articles   
    
-**Best Poster Award**, ***KSCM-GACM International Workshop 2018***, October 2018   
+**Best Poster Award**, *KSCM-GACM International Workshop 2018*, October 2018   
    
-**BK21 Plus Scholarship**, ***National Research Foundation of Korea***, September 2015 - August 2017 & March 2018 - August 2020   
+**BK21 Plus Scholarship**, *National Research Foundation of Korea*, September 2015 - August 2017 & March 2018 - August 2020   
    
-**M.S. & Ph.D. Full Scholarship**, ***Hanyang University, Seoul, Korea***, March 2015 - February 2016   
+**M.S. & Ph.D. Full Scholarship**, *Hanyang University, Seoul, Korea*, March 2015 - February 2016   
    
-***Summa Cum Laude***, ***Hanyang University, Seoul, Korea***, February 2015   
+***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015   
    
-**Hanyang Academic Grand Award**, ***Hanyang University, Seoul, Korea***, October 2014   
+**Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, October 2014   
+* Top 1% in the Department of Automotive Engineering for the Spring Semester of 2014   
    
-**Outstanding Award**, ***2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea***, December 2013   
+**Outstanding Award**, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013   
    
-**Hanyang Academic Grand Award**, ***Hanyang University, Seoul, Korea***, April 2013   
+**Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013   
+* Top 1% in the Department of Automotive Engineering for the Fall Semester of 2012   
    
-**Hanyang Science and Technology Scholarship**, ***Hanyang University, Seoul, Korea***, March 2011 - February 2015   
+**Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 - February 2015   
    
 ***
    
