@@ -56,7 +56,6 @@ permalink: /about/
 **Outstanding Paper Award**, *Transactions of the KSME A*, November 2019   
    
 **Grand Award**, *1st Future Automobile Excellence Paper Contest*, October 2019   
-* 2nd rank out of 56 articles   
    
 **Best Poster Award**, *KSCM-GACM International Workshop 2018*, October 2018   
    
@@ -67,12 +66,10 @@ permalink: /about/
 ***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015   
    
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, October 2014   
-* Top 1% in the Department of Automotive Engineering for the Spring Semester of 2014   
    
 **Outstanding Award**, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013   
    
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013   
-* Top 1% in the Department of Automotive Engineering for the Fall Semester of 2012   
    
 **Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 - February 2015   
    
