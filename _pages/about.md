@@ -111,11 +111,8 @@ permalink: /about/
 ***
    
 # 🏫 Teaching   
-### Manufacturing Artificial Intelligence (SMA0001)   
-* Fall Semester, 2022 (Changwon National University, Changwon, Korea)   
+### Manufacturing Artificial Intelligence (SMA0001), *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, Fall Semester 2022   
     
-### Big Data Engineering (MNA0082)   
-* Fall Semester, 2022 (Changwon National University, Changwon, Korea)   
+### Big Data Engineering (MNA0082), *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, Fall Semester 2022   
    
-### Design and Analysis of Computational Experiments (AUE8048)
-* Fall Semester, 2021 (Hanyang University, Seoul, Korea)  
+### Design and Analysis of Computational Experiments (AUE8048), *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, Fall Semester 2021   
