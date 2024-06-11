@@ -27,7 +27,7 @@ permalink: /about/
    
 ### Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021   
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)   
-* Outstanding Doctoral Dissertation Award from Hanyang University, Seoul, Korea   
+* Outstanding Doctoral Dissertation Award from Hanyang University in Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
