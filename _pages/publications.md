@@ -5,7 +5,7 @@ author: "Hansu Kim"
 permalink: /publications/
 ---
    
-**Type of authors: *Corresponding Authors**   
+**Type of author: *Corresponding author**   
    
 # 📖 International Journal Papers
 12. (Under Review) **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing.
