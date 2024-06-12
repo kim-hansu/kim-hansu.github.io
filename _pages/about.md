@@ -41,21 +41,21 @@ permalink: /about/
 ***
 
 # 🏆 Honors & Awards   
-**Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division at the 2022 Spring Conference*, May 2023   
+**Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023   
    
-**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division at the 2021 Spring Conference*, May 2022   
+**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022   
    
 **Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022   
    
 **Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021   
    
-**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division at the 2020 Spring Conference*, August 2020   
+**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2020 Spring Conference*, August 2020   
    
 **Outstanding Paper Award**, *KSME 2019 Conference*, August 2020   
    
 **Outstanding Paper Award**, *Transactions of the KSME A*, November 2019   
    
-**Grand Award**, *1st Future Automobile Excellence Paper Contest*, October 2019   
+**Grand Award**, *1st Future Automobile Outstanding Paper Contest*, October 2019   
    
 **Best Poster Award**, *KSCM-GACM International Workshop 2018*, October 2018   
    
