@@ -76,7 +76,7 @@ permalink: /about/
 ***
    
 # 📖 Publications
-**A comprehensive list of publications is available [here](https://kim-hansu.github.io/publications) or [Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1).**   
+### A comprehensive list of publications is available [here](https://kim-hansu.github.io/publications) or [Google Scholar](https://scholar.google.co.kr/citations?user=U_RIRZ4AAAAJ&hl=ko&authuser=1).   
 
 ***
 
