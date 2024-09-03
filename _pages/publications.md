@@ -8,7 +8,7 @@ permalink: /publications/
 **Type of author: *Corresponding author**   
    
 # 📖 International Journal Papers
-12. (Accept) **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*] (https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering).
+12. (Accept) **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering).
    
 11. **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [*Rapid Prototyping Journal*](https://www.emeraldgrouppublishing.com/journal/rpj) 30(5):947–969. [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
    
