@@ -33,7 +33,7 @@ permalink: /about/
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
 
 ### Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2015   
-* *Summa Cum Laude* (GPA: 4.19/4.50)   
+* *Summa Cum Laude*   
 * 1st Rank Graduate in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)   
