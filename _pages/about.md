@@ -21,6 +21,7 @@ permalink: /about/
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
 ### Assistant Professor, *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, September 2022 – December 2022   
+* Smart Manufacturing Division   
    
 ### BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)    
