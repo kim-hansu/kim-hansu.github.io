@@ -85,8 +85,6 @@ permalink: /about/
 [**IEEE Access**, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)   
    
 [**Journal of Mechanical Science and Technology**, *Springer*](https://www.springer.com/journal/12206)   
-
-[**Mathematics**, *MDPI*](https://www.mdpi.com/journal/mathematics)   
    
 [**Mechanics Based Design of Structures and Machines**, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)   
    
