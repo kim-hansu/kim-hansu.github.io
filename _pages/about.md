@@ -9,9 +9,10 @@ permalink: /about/
    
 ![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
    
-**Hansu Kim** received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2015 and August 2021, respectively. He is a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. His research interests include design optimization, design for additive manufacturing, data-driven design, and optimization algorithms for artificial neural networks.
+**Hansu Kim** received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2015 and August 2021, respectively. He is a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. His research interests include design optimization, design for additive manufacturing, data-driven design, and optimization algorithms for artificial neural networks.   
+<br/>   
    
-***
+***   
    
 # 🎓 Academic Experience & Education   
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – present   
@@ -35,9 +36,9 @@ permalink: /about/
 * 1st Rank Graduate in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)   
-<br/>
+<br/>   
    
-***
+***   
 
 # 🏆 Honors & Awards   
 **Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023   
@@ -73,8 +74,8 @@ permalink: /about/
 **Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 – February 2015   
 <br/>   
    
-***
-
+***   
+   
 # 🖊️ Academic Services   
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)   
    
