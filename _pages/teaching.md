@@ -5,12 +5,12 @@ author: "Hansu Kim"
 permalink: /teaching/
 ---
 
-## Changwon National University, Changwon, Korea
+## 🏛️ Changwon National University, Changwon, Korea
 * Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course   
 * Big Data Engineering (MNA0082), Undergraduate Course   
 <br/>   
   
 ***   
    
-## Hanyang University, Seoul, Korea
+## 🏛️ Hanyang University, Seoul, Korea
 * Design and Analysis of Computational Experiments (AUE8048), Graduate Course   
