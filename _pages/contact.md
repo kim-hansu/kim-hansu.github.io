@@ -10,7 +10,7 @@ permalink: /contact/
 ## 📫 Address   
 Room 213, Jackson Hall, 35 Fifth Field Company Lane, Kingston, ON K7L 2N8, Canada   
    
-## ☎️ Phone (office)   
+## ☎️ Phone   
 To Be Updated   
    
 ## 📧 E-mail   
