@@ -74,12 +74,12 @@ permalink: /about/
 ***
 
 # 🖊️ Academic Services   
-[**Reviewer**, *IEEE Access, Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)   
+[**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)   
    
-[**Reviewer**, *Journal of Mechanical Science and Technology, Springer*](https://www.springer.com/journal/12206)   
+[**Reviewer**, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)   
    
-[**Reviewer**, *Mechanics Based Design of Structures and Machines, Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)   
+[**Reviewer**, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)   
    
-[**Reviewer**, *Structural and Multidisciplinary Optimization, Springer*](https://www.springer.com/journal/158/)   
+[**Reviewer**, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)   
    
-[**Reviewer**, *Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)     
+[**Reviewer**, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)     
