@@ -8,7 +8,7 @@ permalink: /publications/
    
 *Type of author:* **Corresponding author*   
    
-# 📖 International Journal Papers
+# 📄 International Journal Papers
 12. **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering) 432:117357. [https://doi.org/10.1016/j.cma.2024.117357](https://doi.org/10.1016/j.cma.2024.117357)
    
 11. **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [*Rapid Prototyping Journal*](https://www.emeraldgrouppublishing.com/journal/rpj) 30(5):947–969. [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
@@ -36,7 +36,7 @@ permalink: /publications/
    
 ***   
    
-# 📖 Korean Journal Papers   
+# 📄 Korean Journal Papers   
 5. **Kim H**, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) **(Recommended from KSME)**   
    
 4. Ryu N, Kwon K, Kim G, **Kim H**, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)   
