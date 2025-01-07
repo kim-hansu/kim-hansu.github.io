@@ -11,11 +11,8 @@ permalink: /about/
    
 **Hansu Kim** received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2015 and August 2021, respectively. He is a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. His research interests include design optimization, design for additive manufacturing, data-driven design, and optimization algorithms for artificial neural networks.
    
-### 📧 E-mail   
-[hansu.kim@queensu.ca](mailto:hansu.kim@queensu.ca)   
-   
 ***
-
+   
 # 🎓 Academic Experience & Education   
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
