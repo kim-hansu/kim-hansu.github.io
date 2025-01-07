@@ -86,12 +86,3 @@ permalink: /about/
 [**Reviewer**, *Structural and Multidisciplinary Optimization, Springer*](https://www.springer.com/journal/158/)   
    
 [**Reviewer**, *Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)     
-      
-***
-   
-# 🏫 Teaching   
-### Manufacturing Artificial Intelligence (SMA0001), *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, Fall Semester 2022   
-    
-### Big Data Engineering (MNA0082), *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, Fall Semester 2022   
-   
-### Design and Analysis of Computational Experiments (AUE8048), *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, Fall Semester 2021   
