@@ -32,7 +32,6 @@ permalink: /publications/
 2. **Kim H**, Kim S, Kim T, Lee TH,* Ryu N, Kwon K, Min S (2018) Efficient design optimization of complex system through an integrated interface using symbolic computation. [*Advances in Engineering Software*](https://www.sciencedirect.com/journal/advances-in-engineering-software) 126:34–45. [https://doi.org/10.1016/j.advengsoft.2018.09.006](https://doi.org/10.1016/j.advengsoft.2018.09.006)
    
 1. Kim S, Lim W, **Kim H**, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. [*Journal of Mechanical Science and Technology*](https://www.springer.com/journal/12206) 30(12):5577–5586. [https://doi.org/10.1007/s12206-016-1126-1](https://doi.org/10.1007/s12206-016-1126-1)   
-<br/>   
    
 ***   
    
