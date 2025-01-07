@@ -35,7 +35,8 @@ permalink: /about/
 * 1st Rank Graduate in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)   
-
+<br/>
+   
 ***
 
 # 🏆 Honors & Awards   
@@ -70,7 +71,8 @@ permalink: /about/
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013   
    
 **Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 – February 2015   
-
+<br/>   
+   
 ***
 
 # 🖊️ Academic Services   
