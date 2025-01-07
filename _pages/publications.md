@@ -4,7 +4,7 @@ title: "Publications"
 author: "Hansu Kim"
 permalink: /publications/
 ---
-**🔍 A comprehensive list of publications is also available on [Google Scholar](https://scholar.google.com/citations?user=U_RIRZ4AAAAJ&hl=en).**   
+**A comprehensive list of publications is also available on 🔍 [Google Scholar](https://scholar.google.com/citations?user=U_RIRZ4AAAAJ&hl=en).**   
    
 *Type of author:* **Corresponding author*   
    
