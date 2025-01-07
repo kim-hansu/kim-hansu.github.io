@@ -16,7 +16,7 @@ permalink: /about/
    
 ***
 
-# 🎓 Academic Positions & Education   
+# 🎓 Academic Experience & Education   
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
@@ -73,42 +73,20 @@ permalink: /about/
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013   
    
 **Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 – February 2015   
-   
-***
-   
-# 📖 Publications
-### A comprehensive list of publications is available [here](https://kim-hansu.github.io/publications) or [Google Scholar](https://scholar.google.com/citations?user=U_RIRZ4AAAAJ&hl=en).   
 
 ***
 
-# 🖊️ Journal Paper Reviewers   
-[**IEEE Access**, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)   
+# 🖊️ Academic Services   
+[**Reviewer**, *IEEE Access, Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)   
    
-[**Journal of Mechanical Science and Technology**, *Springer*](https://www.springer.com/journal/12206)   
+[**Reviewer**, *Journal of Mechanical Science and Technology, Springer*](https://www.springer.com/journal/12206)   
    
-[**Mechanics Based Design of Structures and Machines**, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)   
+[**Reviewer**, *Mechanics Based Design of Structures and Machines, Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)   
    
-[**Structural and Multidisciplinary Optimization**, *Springer*](https://www.springer.com/journal/158/)   
+[**Reviewer**, *Structural and Multidisciplinary Optimization, Springer*](https://www.springer.com/journal/158/)   
    
-[**Transactions of the KSME**, *Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)   
-   
-***
-   
-# 🏢 Scientific & Professional Societies   
-**[Asian Pacific Association for Computational Mechanics (APACM)](https://www.apacm-association.org/)**   
-   
-**[Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**   
-   
-**[International Association for Computational Mechanics (IACM)](https://iacm.info/)**   
-   
-**[International Society for Structural and Multidisciplinary Optimization (ISSMO)](http://www.issmo.net/)**   
-   
-**[Korean Society for Computational Mechanics (KSCM)](http://kscm-society.org/)**   
-   
-**[Korean Society for Design Optimization (KSDO)](https://ksdo.net/)**   
-   
-**[Korean Society of Mechanical Engineers (KSME)](http://ksme.or.kr/main/)**   
-   
+[**Reviewer**, *Transactions of the KSME, Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)     
+      
 ***
    
 # 🏫 Teaching   
