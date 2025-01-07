@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 **A comprehensive list of publications is also available on [Google Scholar](https://scholar.google.com/citations?user=U_RIRZ4AAAAJ&hl=en).**   
    
-**Type of author: *Corresponding author**   
+*Type of author:* **Corresponding author*
    
 # 📖 International Journal Papers
 12. **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering) 432:117357. [https://doi.org/10.1016/j.cma.2024.117357](https://doi.org/10.1016/j.cma.2024.117357)
