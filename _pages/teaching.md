@@ -5,11 +5,9 @@ author: "Hansu Kim"
 permalink: /teaching/
 ---
 
-## Manufacturing AI (SMA0001)   
-* Fall Semester, 2022   
-    
-## Big Data Engineering (MNA0082)   
-* Fall Semester, 2022   
+## Changwon National University, Changwon, Korea, Fall Semester 2022   
+* Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course   
+* Big Data Engineering (MNA0082), Undergraduate Course   
    
-## Design and Analysis of Computational Experiments (AUE8048)
-* Fall Semester, 2021 (Hanyang University, Seoul, Korea)   
+## Hanyang University, Seoul, Korea, Fall Semester 2021   
+* Design and Analysis of Computational Experiments (AUE8048), Graduate Course   
