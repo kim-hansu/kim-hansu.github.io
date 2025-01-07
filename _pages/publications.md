@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 **A comprehensive list of publications is also available on [Google Scholar](https://scholar.google.com/citations?user=U_RIRZ4AAAAJ&hl=en).**   
    
-*Type of author:* **Corresponding author*
+*Type of author:* **Corresponding author*   
    
 # 📖 International Journal Papers
 12. **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering) 432:117357. [https://doi.org/10.1016/j.cma.2024.117357](https://doi.org/10.1016/j.cma.2024.117357)
@@ -32,6 +32,7 @@ permalink: /publications/
 2. **Kim H**, Kim S, Kim T, Lee TH,* Ryu N, Kwon K, Min S (2018) Efficient design optimization of complex system through an integrated interface using symbolic computation. [*Advances in Engineering Software*](https://www.sciencedirect.com/journal/advances-in-engineering-software) 126:34–45. [https://doi.org/10.1016/j.advengsoft.2018.09.006](https://doi.org/10.1016/j.advengsoft.2018.09.006)
    
 1. Kim S, Lim W, **Kim H**, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. [*Journal of Mechanical Science and Technology*](https://www.springer.com/journal/12206) 30(12):5577–5586. [https://doi.org/10.1007/s12206-016-1126-1](https://doi.org/10.1007/s12206-016-1126-1)
+<br/>
    
 ***
    
@@ -45,6 +46,7 @@ permalink: /publications/
 2. **Kim H**, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**
    
 1. Song Y, **Kim H**, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle Stabilization Using MPC Based on Nonlinear Tire Model. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)
+<br/>
    
 ***
    
@@ -66,6 +68,7 @@ permalink: /publications/
 2. Kim S, Kim S, Kim J, **Kim H**, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. *<u>1st Joint Workshop between KSCM & GACM</u>*, October 24–25, 2018, Seoul, Korea. **(Best Poster Award)**
    
 1. **Kim H**, Song Y, Huh K, Lee TH* (2017) Robust Design Optimization of Vehicle and Adaptive Cruise Control Parameter Considering Fuel Efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation</u>*, June 5–9, 2017, Braunschweig, Germany.
+<br/>   
    
 ***
    
