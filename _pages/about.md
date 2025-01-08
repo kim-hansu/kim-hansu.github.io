@@ -7,14 +7,14 @@ permalink: /about/
    
 # 👨‍🏫 Hansu Kim, Ph.D.   
    
-![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="50%" height="50%"}   
+![HKim](https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg){: width="100%" height="500"}   
    
 **Hansu Kim** received his B.S. and Ph.D. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) (HYU) in Seoul, Korea, in February 2015 and August 2021, respectively. He is a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. His research interests include design optimization, design for additive manufacturing, data-driven design, and optimization algorithms for artificial neural networks.   
 <br/>   
    
 ***   
    
-# 🎓 Academic Experience & Education   
+# 🎓 Academic Experience   
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
@@ -22,7 +22,12 @@ permalink: /about/
 * Smart Manufacturing Major   
    
 ### BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
-* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)    
+* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
+<br/>   
+   
+***   
+   
+# 🎓 Education   
    
 ### Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021   
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)   
