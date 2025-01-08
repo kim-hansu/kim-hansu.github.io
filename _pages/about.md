@@ -50,9 +50,9 @@ permalink: /about/
    
 **Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022   
    
-_**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022_   
+<u>**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022</u>   
    
-_**Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021_   
+**Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021   
    
 **Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2020 Spring Conference*, August 2020   
    
@@ -68,7 +68,7 @@ _**Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*
    
 **M.S. & Ph.D. Full Scholarship**, *Hanyang University, Seoul, Korea*, March 2015 – February 2016   
    
-_***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015_   
+***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015   
    
 **Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, October 2014   
    
