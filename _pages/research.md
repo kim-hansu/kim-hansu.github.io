@@ -5,4 +5,4 @@ author: "Hansu Kim"
 permalink: /research/
 ---
 
-# Will be updated shortly.   
+# Will Be Updated Soon   
