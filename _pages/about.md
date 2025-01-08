@@ -14,7 +14,7 @@ permalink: /about/
    
 ***   
    
-# 🎓 Academic Experience   
+# 🏛️ Academic Experience   
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – present   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
