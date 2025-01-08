@@ -5,7 +5,7 @@ author: "Hansu Kim"
 permalink: /teaching/
 ---
 
-## 🏛️ Will Be Updated Soon
+## 🚧 Will Be Updated Soon
 * Will Be Updated Soon   
 <br/>   
   
