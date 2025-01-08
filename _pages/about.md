@@ -50,7 +50,7 @@ permalink: /about/
    
 **Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022   
    
-<u>**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022</u>   
+**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022   
    
 **Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021   
    
