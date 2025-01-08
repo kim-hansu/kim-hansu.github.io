@@ -81,7 +81,7 @@ permalink: /about/
    
 ***   
    
-# 🖋️ Academic Services   
+# 🖋️ Academic Activities   
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)   
    
 [**Reviewer**, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)   
