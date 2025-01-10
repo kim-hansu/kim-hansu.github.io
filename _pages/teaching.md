@@ -6,9 +6,7 @@ permalink: /teaching/
 ---
 
 ## 🚧 Will Be Updated Soon
-* Introduction to Robotics (15068001), Undergraduate Course   
-* Control of Intelligent Robot Systems (15767001), Undergraduate Course
-* Seminar for Humanities (11374063), Undergraduate Course   
+* 🚧 Will Be Updated Soon   
 <br/>   
   
 ***   
