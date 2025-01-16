@@ -25,7 +25,7 @@ permalink: /about/
 * Smart Manufacturing Major   
    
 ### BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
-* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
+* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 <br/>   
    
 ***   
