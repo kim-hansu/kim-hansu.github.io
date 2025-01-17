@@ -11,6 +11,7 @@ author:
   name:         Hansu Kim
   url:          https://kim-hansu.github.io/
   email:        hansukim91@gmail.com
+
 # Build settings
 markdown:       kramdown
 include:
