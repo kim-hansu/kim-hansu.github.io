@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 <div class="catalogue">
-  {% for post in site.news.posts %}
+  {% for post in site.news %}
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
     {% else %}
