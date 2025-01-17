@@ -5,14 +5,12 @@ permalink: /news.html
 ---
 
 <div class="catalogue">
-  {% for post in site.news %}
+  {% for post in site.collections.news.posts %}
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
+    {% else %}
+      {% include catalogue_item.html %}
     {% endif %}
-  {% endfor %}
-
-  {% for post in paginator.news %}
-    {% include catalogue_item.html %}
   {% endfor %}
 </div>
 
