@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: news
 title: "New Homepage"
 author: "Hansu Kim"
-permalink: /posts/2022-08-16-NewHomepage
+permalink: /news/2022-08-16-NewHomepage
 ---
 
 The new homepage has been opened!   
