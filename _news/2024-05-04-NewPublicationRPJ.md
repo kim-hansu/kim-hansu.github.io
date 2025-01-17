@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: news
 title: "New Publication in Rapid Prototyping Journal"
 author: "Hansu Kim"
-permalink: /posts/2024-05-04-NewPublicationRPJ
+permalink: /news/2024-05-04-NewPublicationRPJ
 ---
 ![Rapid Prototyping Journal](https://github.com/kim-hansu/kim-hansu.github.io/assets/54526956/4d970103-17b4-4366-81f4-08e3155c8114)  
    
