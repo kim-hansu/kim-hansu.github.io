@@ -21,6 +21,9 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+# Path
+paginate_path: "/news/page:num/"
+
 # Gems
 plugins:
   - jekyll-feed
