@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "News"
+title: News
 permalink: /news/
 ---
 
 <div class="catalogue">
-  {% for post in site.collections.news.posts %}
+  {% for post in site.news.posts %}
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
     {% else %}
