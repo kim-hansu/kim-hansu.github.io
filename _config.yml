@@ -18,6 +18,11 @@ markdown:       kramdown
 include:
   - _pages
 
+# Collections
+collections:
+  news:
+    output: true
+
 # Assets
 sass:
   sass_dir:     _sass
