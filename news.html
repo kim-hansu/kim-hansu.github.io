@@ -8,9 +8,11 @@ permalink: /news/
   {% for post in site.news %}
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
-    {% else %}
-      {% include catalogue_item.html %}
     {% endif %}
+  {% endfor %}
+
+  {% for post in paginator.news %}
+    {% include catalogue_item.html %}
   {% endfor %}
 </div>
 
