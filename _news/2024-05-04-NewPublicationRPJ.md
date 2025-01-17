@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: "New Publication in Rapid Prototyping Journal"
 author: "Hansu Kim"
 permalink: /news/2024-05-04-NewPublicationRPJ
