@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: "New Publication in Computer Methods in Applied Mechanics and Engineering"
 author: "Hansu Kim"
 permalink: /news/2024-09-15-NewPublicationCMAME
