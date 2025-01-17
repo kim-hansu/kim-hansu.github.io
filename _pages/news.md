@@ -5,18 +5,25 @@ author: "Hansu Kim"
 permalink: /news/
 ---
 
-## 🚧 Will Be Updated Soon
-* 🚧 Will Be Updated Soon   
-<br/>   
-  
-***   
-   
-## 🏛️ Changwon National University, Changwon, Korea, 2022
-* Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course   
-* Big Data Engineering (MNA0082), Undergraduate Course   
-<br/>   
-  
-***   
-   
-## 🏛️ Hanyang University, Seoul, Korea, 2021
-* Design and Analysis of Computational Experiments (AUE8048), Graduate Course   
+<div class="catalogue">
+  {% for post in site.news %}
+    {% if post.sticky %}
+      {% include catalogue_item.html sticky='true' %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in paginator.news %}
+    {% include catalogue_item.html %}
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>
