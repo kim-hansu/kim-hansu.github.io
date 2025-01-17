@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "News"
-permalink: /news.html
+permalink: /news/
 ---
 
 <div class="catalogue">
