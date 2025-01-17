@@ -24,6 +24,9 @@ sass:
 # Path
 paginate_path: "/news/page:num/"
 
+# Base URL
+baseurl: ""
+
 # Gems
 plugins:
   - jekyll-feed
