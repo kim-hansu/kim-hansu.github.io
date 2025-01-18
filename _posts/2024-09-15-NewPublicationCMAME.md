@@ -2,7 +2,7 @@
 layout: post
 title: "New Publication in Computer Methods in Applied Mechanics and Engineering"
 author: "Hansu Kim"
-tags: Research News
+tags: Research
 ---
 ![CMAME](https://github.com/user-attachments/assets/afa6f9c3-2a61-4191-84bb-2b54713b52d7)   
    
