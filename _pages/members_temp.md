@@ -2,7 +2,7 @@
 layout: post
 title: "Members"
 author: "Hansu Kim"
-permalink: /members_temp/
+permalink: /members/
 ---
 
 ## 👨‍🏫 Hansu Kim, Ph.D.
