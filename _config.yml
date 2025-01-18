@@ -18,17 +18,6 @@ markdown:       kramdown
 include:
   - _pages
 
-# Collections & Pagination
-collections:
-  news:
-    output: true
-    permalink: /news/:path/
-pagination:
-  enabled: true
-  per_page: 5
-  collection: news
-  path: /news/page:num/
-
 # Assets
 sass:
   sass_dir:     _sass
