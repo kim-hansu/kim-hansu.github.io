@@ -1,7 +1,7 @@
 # Site settings
 title:          Hansu Kim
 description:    "Postdoctoral Fellow at Queen's University"
-baseurl:        ""
+baseurl:        "/home"
 url:            "https://kim-hansu.github.io/"
 
 # Google Analytics
