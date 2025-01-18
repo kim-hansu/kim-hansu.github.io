@@ -3,4 +3,19 @@ layout: default
 title: Home
 ---
 
-<iframe src="/home" style="width: 100%; height: 100vh; border: none;"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0;url=/home">
+  <script>
+    // Fallback in case the meta refresh doesn't work
+    window.location.href = "/home";
+  </script>
+</head>
+<body>
+  <p>If you are not redirected automatically, follow this <a href="/home">link</a>.</p>
+</body>
+</html>
