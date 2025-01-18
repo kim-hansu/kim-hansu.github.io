@@ -2,7 +2,7 @@
 title:          Hansu Kim
 description:    "Postdoctoral Fellow at Queen's University"
 baseurl:        "/home"
-url:            "https://kim-hansu.github.io/"
+url:            "https://kim-hansu.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Hansu Kim
-  url:          https://kim-hansu.github.io/
+  url:          https://kim-hansu.github.io
   email:        hansukim91@gmail.com
 
 # Build settings
