@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Home"
+title: "Members"
 author: "Hansu Kim"
-permalink: /home/
+permalink: /members/
 ---
    
 # 👨‍🏫 Hansu Kim, Ph.D.   
