@@ -1,0 +1,14 @@
+---
+layout: default
+title: News
+permalink: /news/
+---
+
+<div class="catalogue">
+  {% for post in site.news %}
+    {% if post.sticky %}
+      {% include catalogue_item.html sticky='true' %}
+    {% endif %}
+    {% include catalogue_item.html %}
+  {% endfor %}
+</div>
