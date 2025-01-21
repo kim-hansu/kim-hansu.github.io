@@ -32,7 +32,7 @@ permalink: /research/
    
 ***   
    
-### Optimization Algorithms for ANNs   
+## Optimization Algorithms for ANNs   
 * ### Conjugate Gradient Methods   
 * ### Intelligent Robotic Grasping   
 * ### Digital Twin System   
@@ -43,7 +43,7 @@ permalink: /research/
    
 ***   
    
-### Design of Mobility Systems
+## Design of Mobility Systems
 * ### Lightweight Structures   
 * ### Crashworthiness Certification   
 * ### Accelerated Life Testing
