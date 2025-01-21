@@ -12,10 +12,16 @@ permalink: /research/
 * ### Reliable Decision-making
 * ### Global Predictive Model   
 * ### Physics-informed Machine Learning
-   
-📄 Representative Papers   
-1. [Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *Structural and Multidisciplinary Optimization* 65:258.](https://doi.org/10.1007/s00158-022-03356-0)
-2. [Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. *Knowledge-Based Systems* 225:107117.](https://doi.org/10.1016/j.knosys.2021.107117)   
+
+<details>
+   <summary>📄 Representative Papers</summary>
+   <ul>
+      <li>
+         1. [Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *Structural and Multidisciplinary Optimization* 65:258.](https://doi.org/10.1007/s00158-022-03356-0)
+         2. [Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. *Knowledge-Based Systems* 225:107117.](https://doi.org/10.1016/j.knosys.2021.107117)   
+      </li>
+   </ul>
+</details>   
    
 ## Design for Additive Manufacturing   
 * ### Topology Optimization   
