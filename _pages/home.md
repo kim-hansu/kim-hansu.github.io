@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to the Computational Optimum DEsign (CODE)!"
+title: "Welcome to the CODE | Computational Optimum DEsign"
 author: "Hansu Kim"
 permalink: /home/
 ---
