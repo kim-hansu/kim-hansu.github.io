@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Publication in Computer Methods in Applied Mechanics and Engineering"
+title: "New Publication in CMAME"
 author: "Hansu Kim"
 permalink: /news/2024-09-15-NewPublicationCMAME
 tags: Research
