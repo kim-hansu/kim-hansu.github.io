@@ -68,7 +68,7 @@ permalink: /research/
    <summary>📄 Representative Papers</summary>
    <ul>
       <li>
-         Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
+         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
       </li>
       <li>
          Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <em>Structural and Multidisciplinary Optimization</em> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank">[Link]</a>
