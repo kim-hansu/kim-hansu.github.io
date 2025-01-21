@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to the CODE!"
+title: "Home"
 author: "Hansu Kim"
 permalink: /home/
 ---
