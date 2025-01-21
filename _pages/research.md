@@ -59,9 +59,6 @@ permalink: /research/
 </details>   
    
 <br/>   
-📄 Representative Papers   
-1. 
-   
 ## Design of Mobility Systems
 * ### Lightweight Structures   
 * ### Crashworthiness Certification   
