@@ -47,7 +47,7 @@ permalink: /research/
 ## Optimization Algorithms for ANNs   
 * ### Conjugate Gradient Methods   
 * ### Intelligent Robotic Grasping   
-* ### Digital Twin System   
+* ### Digital Twin Systems   
    
 <details>
    <summary> Representative Papers</summary>
