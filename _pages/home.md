@@ -5,6 +5,6 @@ author: "Hansu Kim"
 permalink: /home/
 ---
    
-# Welcome to the CODE | Computatioanl Optimum DEsign!   
+# Welcome to CODE!   
    
-# 🚧 Will Be Updated Soon   
+### 🚧 Will Be Updated Soon   
