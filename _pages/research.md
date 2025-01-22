@@ -8,24 +8,6 @@ permalink: /research/
 # 🌟 Research Interests   
 ![Research Interests](https://github.com/user-attachments/assets/c49de88d-770c-4b1a-87a6-fc9facb184af){: width="100%" height="100%"}   
    
-## Design for Additive Manufacturing   
-* ### Topology Optimization   
-* ### Decomposition Optimization
-* ### Multi-material and Cost-effective Structures   
-   
-<details>
-   <summary> Representative Papers</summary>
-   <ul>
-      <li>
-         Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
-      </li>
-      <li>
-         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
-      </li>
-   </ul>
-</details>   
-   
-<br/>   
 ## Data-driven Design   
 * ### Reliable Decision-making   
 * ### Global Predictive Model   
@@ -42,6 +24,24 @@ permalink: /research/
       </li>
       <li>
          Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <em>Knowledge-Based Systems</em> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank">[Link]</a>   
+      </li>
+   </ul>
+</details>   
+   
+<br/>   
+## Design for Additive Manufacturing   
+* ### Topology Optimization   
+* ### Decomposition Optimization
+* ### Multi-material and Cost-effective Structures   
+   
+<details>
+   <summary> Representative Papers</summary>
+   <ul>
+      <li>
+         Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
+      </li>
+      <li>
+         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
       </li>
    </ul>
 </details>   
