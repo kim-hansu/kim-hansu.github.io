@@ -6,8 +6,7 @@ permalink: /research/
 ---
 
 # 🌟 Research Interests   
-![Research Interests](https://github.com/user-attachments/assets/750447cc-f2f6-452c-b117-dc2f4ad2c9ca){: width="100%" height="100%"}   
-
+![Research Interests](https://github.com/user-attachments/assets/f73482ba-e8a4-4bda-8ca4-21bdc8dcda82){: width="100%" height="100%"}   
    
 ## Data-driven Design   
 * ### Reliable Decision-making   
@@ -63,7 +62,7 @@ permalink: /research/
 </details>   
    
 <br/>   
-## Design of Mobility Components   
+## Design for Mobility Components   
 * ### Lightweight Structures   
 * ### Crashworthiness Certification   
 * ### Accelerated Life Testing
