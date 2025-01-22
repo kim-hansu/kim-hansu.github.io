@@ -22,6 +22,6 @@ permalink: /members/
 * **B.S.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015   
    
 ## 📬 Contact   
-* 📧 E-mail: Will Be Updated Soon   
-* ☎️ Phone: Will Be Updated Soon   
-* 📍 Address: Will Be Updated Soon   
+* E-mail: Will Be Updated Soon   
+* Phone: Will Be Updated Soon   
+* Address: Will Be Updated Soon   
