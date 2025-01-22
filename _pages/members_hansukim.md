@@ -22,14 +22,14 @@ permalink: /members/hansukim/
 <br/>   
    
 # 🎓 Education   
-### Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021   
+### Ph.D., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021   
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)   
 * Outstanding Doctoral Dissertation Award from Hanyang University in Seoul, Korea   
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
 
-### Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2015   
+### B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015   
 * *Summa Cum Laude*   
 * 1st Rank Graduate in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
