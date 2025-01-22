@@ -22,6 +22,9 @@ permalink: /research/
       <li>
          Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. <em>Knowledge-Based Systems</em> 225:107117. <a href="https://doi.org/10.1016/j.knosys.2021.107117" target="_blank">[Link]</a>   
       </li>
+      <li>
+         Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <em>Knowledge-Based Systems</em> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank">[Link]</a>   
+      </li>
    </ul>
 </details>   
    
@@ -59,7 +62,7 @@ permalink: /research/
 </details>   
    
 <br/>   
-## Design of Mobility Systems
+## Design of Mobility Components   
 * ### Lightweight Structures   
 * ### Crashworthiness Certification   
 * ### Accelerated Life Testing
