@@ -20,3 +20,8 @@ permalink: /members/
 ## 🎓 Education   
 * Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021
 * Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2015   
+   
+## 📬 Contact   
+* 📍 Address: Will Be Updated Soon   
+* ☎️ Phone: Will Be Updated Soon   
+* 📧 E-mail: Will Be Updated Soon   
