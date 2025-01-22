@@ -13,9 +13,9 @@ permalink: /members/
    
 ## 🏛️ Academic Experience   
 * 🚧 Will Be Updated Soon   
-* Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025   
-* Assistant Professor, *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, September 2022 – December 2022
-* BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
+* **Postdoctoral Fellow**, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025   
+* **Assistant Professor**, *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, September 2022 – December 2022
+* **BK Post-Doc.**, *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
    
 ## 🎓 Education   
 * **Ph.D.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
