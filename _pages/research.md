@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 # 🌟 Research Interests   
-![Research Interests](https://github.com/user-attachments/assets/f73482ba-e8a4-4bda-8ca4-21bdc8dcda82){: width="100%" height="100%"}   
+![Research Interests](https://github.com/user-attachments/assets/c49de88d-770c-4b1a-87a6-fc9facb184af){: width="100%" height="100%"}   
    
 ## Data-driven Design   
 * ### Reliable Decision-making   
