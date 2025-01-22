@@ -18,10 +18,10 @@ permalink: /members/
 * BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
    
 ## 🎓 Education   
-* Doctor of Philosophy in Automotive Engineering, *Hanyang University, Seoul, Korea*, August 2021
-* Bachelor of Science in Automotive Engineering, *Hanyang University, Seoul, Korea*, February 2015   
+* **Ph.D.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
+* **B.S.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015   
    
 ## 📬 Contact   
-* 📍 Address: Will Be Updated Soon   
-* ☎️ Phone: Will Be Updated Soon   
 * 📧 E-mail: Will Be Updated Soon   
+* ☎️ Phone: Will Be Updated Soon   
+* 📍 Address: Will Be Updated Soon   
