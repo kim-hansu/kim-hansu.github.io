@@ -8,7 +8,7 @@ tags: Research
    
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/kim-hansu/kim-hansu.github.io/assets/54526956/4d970103-17b4-4366-81f4-08e3155c8114" 
-       alt="Rapid Prototyping Journal" 
+       alt="RPJ" 
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
