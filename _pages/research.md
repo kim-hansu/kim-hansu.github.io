@@ -9,7 +9,7 @@ permalink: /research/
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/c49de88d-770c-4b1a-87a6-fc9facb184af" 
        alt="Research Interests" 
-       style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
+       style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>   
    
 ## Data-driven Design   
