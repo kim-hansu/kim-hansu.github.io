@@ -10,6 +10,7 @@ permalink: /research/
   <img src="https://github.com/user-attachments/assets/e049fcce-1be0-4840-9f89-4634ee80535b" 
        alt="Research Interests" 
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
+</div>   
    
 ## Data-driven Design   
 * ### Reliable Decision-making   
