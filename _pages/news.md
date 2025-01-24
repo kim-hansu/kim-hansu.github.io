@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "News"
 author: "Hansu Kim"
 permalink: /news/
