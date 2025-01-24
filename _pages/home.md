@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Home"
 author: "Hansu Kim"
 permalink: /home/
