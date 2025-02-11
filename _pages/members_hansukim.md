@@ -12,8 +12,8 @@ permalink: /members/hansukim/
 </div>   
    
 # 🏛️ Academic Experience   
-### 🚧 Will Be Updated Soon   
-* 🚧 Will Be Updated Soon   
+### Assistant Professor, *Department of Mechanical Engineering, Gachon University, Seongnam, Korea*, March 2025 – Present   
+* Smart Factory Major   
    
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
