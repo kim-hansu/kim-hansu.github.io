@@ -14,4 +14,4 @@ permalink: /contact/
 🚧 Will Be Updated Soon   
    
 ## 📍 Address   
-Room 216, Engineering Building 2, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea   
+Room 216, College of Engineering 2, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea   
