@@ -6,7 +6,7 @@ permalink: /members/
 ---
    
 # Faculty   
-## 👨‍🏫 [Hansu Kim (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)
+## 👨‍🏫 [Hansu Kim, Ph.D. (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)
    
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg" 
