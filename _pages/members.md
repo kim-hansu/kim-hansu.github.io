@@ -34,11 +34,11 @@ permalink: /members/
    
 ***   
    
-# 🧑‍🔬 / 👨‍🔬 / 👩‍🔬 Graduate Students   
+#  👨‍🔬👩‍🔬 Graduate Students   
 ## 🚧 To Be Updated   
 <br/>   
    
 ***   
    
-# 🧑‍🔬 / 👨‍🔬 / 👩‍🔬 Undergraduate Students   
+# 👨‍🔬👩‍🔬 Undergraduate Students   
 ## 🚧 To Be Updated   
