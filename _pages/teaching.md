@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## 🏛️ Gachon University, Seongnam, Korea, 2025 - Present   
 * Introduction to Robotics (15068001), Undergraduate Course
-* Control of Intelligent Robot Systems (15767001), Undergraduate Course   
+* Undergraduate Research Project (13647002), Undergraduate Course   
 <br/>   
   
 ## 🏛️ Changwon National University, Changwon, Korea, 2022   
