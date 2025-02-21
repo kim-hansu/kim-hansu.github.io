@@ -28,7 +28,7 @@ permalink: /members/
    
 ### 📬 Contact   
 * E-mail: [hansukim@gachon.ac.kr](mailto:hansukim@gachon.ac.kr)   
-* Phone: 🚧 Will Be Updated Soon   
+* Phone: +82-31-750-5654   
 * Address: Room 216, College of Engineering 2, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea   
 <br/>   
    
