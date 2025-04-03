@@ -73,6 +73,8 @@ permalink: /publications/
 ***   
    
 # 🗣️ Korean Conference Papers   
+25. Huh J, Huang Y, Jalayer S, **Kim H**, Kim IY* (2025) Lightweight Design of Electric Motor Shaft and Structure using Topology Optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
+   
 24. Kim S, **Kim H**, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
 23. Lee TH,* Kim S, **Kim H** (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
