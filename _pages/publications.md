@@ -9,6 +9,8 @@ permalink: /publications/
 *Type of author:* **Corresponding author*   
    
 # 📄 International Journal Papers
+13. (Under Review) Kim S, **Kim H**,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training.
+   
 12. **Kim H**, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering) 432:117357. [https://doi.org/10.1016/j.cma.2024.117357](https://doi.org/10.1016/j.cma.2024.117357)
    
 11. **Kim H**, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. [*Rapid Prototyping Journal*](https://www.emeraldgrouppublishing.com/journal/rpj) 30(5):947–969. [https://doi.org/10.1108/RPJ-11-2023-0400](https://doi.org/10.1108/RPJ-11-2023-0400)
