@@ -18,3 +18,5 @@ The **Computational Optimum DEsign (CODE) Lab** specializes in cutting-edge rese
 If you are interested in joining our Lab, please send your academic transcript and CV 😊
    
 **Hansu Kim, Ph.D. (김한수)** [hansukim@gachon.ac.kr](mailto:hansukim@gachon.ac.kr)
+   
+Our lab is affiliated with the [Smart Factory Major](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do).
