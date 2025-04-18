@@ -12,7 +12,7 @@ permalink: /home/
        alt="Home" 
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>      
-<br/>   
+   
 The **Computational Optimum DEsign (CODE) Lab** specializes in cutting-edge research in design optimization, data-driven design, design for additive manufacturing, optimization algorithms for artificial neural networks, and design for mobility components. Our research focuses on developing innovative methodologies through analytical and computational optimization techniques. We aim to address real-world challenges in smart factory systems by establishing transformative principles and publishing groundbreaking academic studies.   
 
 If you are interested in joining our Lab, please send your academic transcript and CV 😊
