@@ -53,6 +53,8 @@ permalink: /publications/
 ***   
    
 # 🗣️ International Conference Papers
+10. Huang Y, Jalayer S, **Kim H**, Huh J, Kim IY* (2025) Multi-Stage Topology Optimization of Electric Motor for Urban Air Mobility Vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Canada.
+   
 9.  Patel A, **Kim H**, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-Optimized Aircraft Seat Leg Structure Considering Metal Additive Manufacturing Build Volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
    
 8. Kim S, **Kim H**, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
