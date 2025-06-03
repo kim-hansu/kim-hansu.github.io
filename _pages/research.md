@@ -7,7 +7,7 @@ permalink: /research/
    
 # 🌟 Research Interests   
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/c9bf217b-9b22-483d-881d-ea0dd30ff5f2"
+  <img src="https://github.com/user-attachments/assets/2b6e91c4-4c24-499e-99ed-eb093c4f353b"
        alt="Research Interests" 
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>   
