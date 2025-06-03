@@ -8,7 +8,7 @@ permalink: /home/
 ## Welcome to the CODE Lab!   
    
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/82381ce1-c269-4668-9635-8874e6a59130" 
+  <img src="https://github.com/user-attachments/assets/2557bc6f-c0bf-47a5-b683-ac2cf1f2225a" 
        alt="Home" 
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>      
