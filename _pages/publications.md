@@ -87,9 +87,9 @@ permalink: /publications/
    
 21. Kim S, **Kim H**, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
    
-20. **Kim H**, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Virtual Conference) **(Outstanding Student Presentation Award)**
+20. **Kim H**, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference) **(Outstanding Student Presentation Award)**
    
-19. Kim T, **Kim H**, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Virtual Conference)
+19. Kim T, **Kim H**, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference)
    
 18. **Kim H**, Lee TH* (2020) Significance analysis of input variables using bootstrap confidence intervals for elastic net under sampling uncertainty. *<u>KSME CAE & Applied Mechanics Division 2020 Spring Conference</u>*, August 19–21, 2020, Gyeongju, Korea. **(Outstanding Student Presentation Award)**
    
