@@ -41,7 +41,7 @@ permalink: /members/
 ***   
    
 # Undergraduate Students   
-## 🧑‍🎓 Minsang Cho (조민상)   
+## 👨‍🎓 Minsang Cho (조민상)   
    
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/b7957176-3571-48ec-b272-458b52c1fda6" 
