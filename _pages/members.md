@@ -41,4 +41,18 @@ permalink: /members/
 ***   
    
 # Undergraduate Students   
-## 🚧 To Be Updated   
+## 🧑‍🎓 Minsang Cho (조민상)   
+   
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/b7957176-3571-48ec-b272-458b52c1fda6" 
+       alt="MCho" 
+       style="max-width: 100%; height: auto; width: auto; max-height: 25vh; object-fit: contain;">
+</div>   
+      
+### 🎓 Education   
+* **B.S.**, *Smart Factory Major, Gachon University, Seongnam, Korea*, Present
+   
+### 📬 Contact   
+* E-mail: [minsang1102@gachon.ac.kr](mailto:minsang1102@gachon.ac.kr)   
+* Address: Room 326, Vision Tower, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
+   
