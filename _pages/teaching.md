@@ -6,7 +6,10 @@ permalink: /teaching/
 ---
 
 ## 🏛️ Gachon University, Seongnam, Korea, 2025 - Present   
-* Introduction to Robotics (15068001), Undergraduate Course
+* Engineering Statics (03874002), Undergraduate Course   
+* Dynamics (06702002), Undergraduate Course   
+* P-semester Project (60000015), Undergraduate Course   
+* Introduction to Robotics (15068001), Undergraduate Course   
 * Undergraduate Research Project (13647002), Undergraduate Course   
 <br/>   
   
