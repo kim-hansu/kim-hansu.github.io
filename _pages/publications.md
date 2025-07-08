@@ -29,7 +29,7 @@ permalink: /publications/
    
 4. Kim H, Lee TH,* Song Y, Huh K. (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. [*Vehicle System Dynamics*](https://www.tandfonline.com/journals/nvsd20) 58(6):987–1005. [https://doi.org/10.1080/00423114.2019.1627375](https://doi.org/10.1080/00423114.2019.1627375) **(Grand Award)**
    
-3. Lim J, Kim H, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and Experimental Analysis of Potential Causes Degrading Contact Resistances and Forces of Sensor Connectors for Vehicles. [*IEEE Access*](https://ieeeaccess.ieee.org/) 7:126530–126538. [https://doi.org/10.1109/ACCESS.2019.2939377](https://doi.org/10.1109/ACCESS.2019.2939377)
+3. Lim J, Kim H, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and experimental analysis of potential causes degrading contact resistances and forces of sensor connectors for vehicles. [*IEEE Access*](https://ieeeaccess.ieee.org/) 7:126530–126538. [https://doi.org/10.1109/ACCESS.2019.2939377](https://doi.org/10.1109/ACCESS.2019.2939377)
    
 2. Kim H, Kim S, Kim T, Lee TH,* Ryu N, Kwon K, Min S (2018) Efficient design optimization of complex system through an integrated interface using symbolic computation. [*Advances in Engineering Software*](https://www.sciencedirect.com/journal/advances-in-engineering-software) 126:34–45. [https://doi.org/10.1016/j.advengsoft.2018.09.006](https://doi.org/10.1016/j.advengsoft.2018.09.006)
    
@@ -41,21 +41,21 @@ permalink: /publications/
 # 📄 Korean Journal Papers   
 5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) **(Recommended from KSME)**   
    
-4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design Optimization of Wheeled Military Vehicle to Minimize Elevation and Azimuth Error of Gun Barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)   
+4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)   
    
-3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an Integrated Interface for Design Optimization of a Combat Vehicle System Using Maple Symbolic Computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Outstanding Paper Award & Recommended from KSME)**   
+3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) **(Outstanding Paper Award & Recommended from KSME)**   
    
-2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging Surrogate Model-based Design Optimization of Vehicle and Adaptive Cruise Control Parameters Considering Fuel Efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**
+2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) **(Recommended from KSME)**
    
-1. Song Y, Kim H, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle Stabilization Using MPC Based on Nonlinear Tire Model. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)   
+1. Song Y, Kim H, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on nonlinear tire model. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)   
 <br/>   
    
 ***   
    
 # 🗣️ International Conference Papers
-10. Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-Stage Topology Optimization of Electric Motor for Urban Air Mobility Vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Canada.
+10. Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Canada.
    
-9.  Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-Optimized Aircraft Seat Leg Structure Considering Metal Additive Manufacturing Build Volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
+9.  Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
    
 8. Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
    
@@ -71,13 +71,13 @@ permalink: /publications/
    
 2. Kim S, Kim S, Kim J, Kim H, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. *<u>1st Joint Workshop between KSCM & GACM</u>*, October 24–25, 2018, Seoul, Korea. **(Best Poster Award)**
    
-1. Kim H, Song Y, Huh K, Lee TH* (2017) Robust Design Optimization of Vehicle and Adaptive Cruise Control Parameter Considering Fuel Efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation</u>*, June 5–9, 2017, Braunschweig, Germany.   
+1. Kim H, Song Y, Huh K, Lee TH* (2017) Robust design optimization of vehicle and adaptive cruise control parameter considering fuel efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation</u>*, June 5–9, 2017, Braunschweig, Germany.   
 <br/>   
    
 ***   
    
 # 🗣️ Korean Conference Papers   
-25. Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight Design of Electric Motor Shaft and Structure using Topology Optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
+25. Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight design of electric motor shaft and structure using topology optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
    
 24. Kim S, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
@@ -95,33 +95,33 @@ permalink: /publications/
    
 17. Kim H, Lee TH* (2019) A statistical analysis on significance of design variables by using bootstrap confidence intervals. *<u>KSME 2019 Conference</u>*, November 13–16, 2019, Jeju, Korea. **(Outstanding Paper Award)**
    
-16. Byun H, Kim H, Lee TH* (2019) Hierarchical Surrogate Model for Scale-bridging using Learning Algorithms. *<u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u>*, April 18–20, 2019, Jeju, Korea.
+16. Byun H, Kim H, Lee TH* (2019) Hierarchical surrogate model for scale-bridging using learning algorithms. *<u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u>*, April 18–20, 2019, Jeju, Korea.
    
 15. Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). *<u>Korean Congress on Computational Mechanics 2019</u>*, February 14–15, 2019, Seoul, Korea.
    
-14. Kim H, Kwon T, Lee TH* (2018) Surrogate Model-based Design Optimization Framework of Multiple Response System using Variable Screening Information with Infeasible Initial Points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
+14. Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
    
-13. Kwon T, Kim H, Lee TH* (2018) Improved Neighborhood Component Feature Selection for Variable Screening of Multiple Response System. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
+13. Kwon T, Kim H, Lee TH* (2018) Improved neighborhood component feature selection for variable screening of multiple response system. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
    
-12. Kwon T, Kim H, Lee TH* (2018) Supervised Learning-based Design Variable Screening Technique. *<u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u>*, April 26–28, 2018, Yeosu, Korea.
+12. Kwon T, Kim H, Lee TH* (2018) Supervised learning-based design variable screening technique. *<u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u>*, April 26–28, 2018, Yeosu, Korea.
    
-11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design Optimization of Military Tracked Vehicle to Minimize Elevation and Azimuth Errors of Gun Barrel. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
+11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
    
-10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design Optimization of Hydro-Pneumatic Suspension for Improving Mobility of Wheeled Military Vehicle. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
+10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
    
-9. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of Integrated Interface for Design Optimization of Combat Vehicle System using Maple Symbolic Computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
+9. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
    
-8. Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of Wheeled Combat Vehicle to Minimize Dynamic Error Related to Hit Probability. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
+8. Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
    
-7. Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability Analysis for Integrated Performance of Combat Vehicle using Kriging Surrogate Model. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
+7. Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
    
-6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary Design Optimization of Vehicle and Adaptive Cruise Controller Considering Fuel Efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Gangwon, Korea.
+6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Gangwon, Korea.
    
-5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging Surrogate Model-based Optimal Adaptive Cruise Control Design Considering Fuel Efficiency. *<u>2016 KSAE Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
+5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>2016 KSAE Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
    
-4. Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle Stabilization Using MPC Based on Optimized Parameter. *<u>2016 KSAE Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
+4. Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. *<u>2016 KSAE Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
    
-3. Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in Half-car model active suspension. *<u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u>*, April 7–9, 2016, Jeju, Korea.
+3. Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in half-car model active suspension. *<u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u>*, April 7–9, 2016, Jeju, Korea.
    
 2. Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>2016 Winter Conference of Society of CAD/CAM Engineers</u>*, January 27–29, 2016, Gangwon, Korea.
    
