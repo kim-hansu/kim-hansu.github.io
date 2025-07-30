@@ -9,7 +9,7 @@ permalink: /publications/
 *Type of author:* **Corresponding author*   
    
 # 📄 International Journal Papers
-13. (Under Review) Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training.
+13. (Under Revision) Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training.
    
 12. Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering) 432:117357. [https://doi.org/10.1016/j.cma.2024.117357](https://doi.org/10.1016/j.cma.2024.117357)
    
@@ -39,6 +39,8 @@ permalink: /publications/
 ***   
    
 # 📄 Korean Journal Papers   
+6. (Accepted) Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/).
+
 5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141)
    
 4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
