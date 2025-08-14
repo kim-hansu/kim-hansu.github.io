@@ -9,7 +9,6 @@ permalink: /teaching/
 * Engineering Statics (03874002), Undergraduate Course   
 * P-practical Project (60000015), Undergraduate Course   
 * Undergraduate Research Project (13647002), Undergraduate Course   
-* Dynamics (06702002), Undergraduate Course   
 * Introduction to Robotics (15068001), Undergraduate Course   
 <br/>   
   
