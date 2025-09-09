@@ -55,9 +55,15 @@ permalink: /publications/
 ***   
    
 # 🗣️ International Conference Papers
-10. Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Canada.
+13. Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
+
+12. Lee J, Shi Y, Gray S, Orr M, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Application of topology optimization to production-ready passenger seat components design. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
+
+11. Orr M, Shi Y, Lee J, Gray S, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) From algorithm to engineering judgment: navigating topology optimization's limits in crash applications. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
+
+10. Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Quebec, Canada.
    
-9.  Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Canada.
+9.  Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Ontario, Canada.
    
 8. Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
    
