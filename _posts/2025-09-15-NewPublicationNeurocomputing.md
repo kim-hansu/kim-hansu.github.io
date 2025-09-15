@@ -7,7 +7,7 @@ tags: Research
 ---
    
 <div style="display: flex; justify-content: center;">
-  <img src="  " 
+  <img src="https://github.com/user-attachments/assets/70cf50d8-9755-474f-84cc-bc5391e48985" 
        alt="Neurocomputing"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
