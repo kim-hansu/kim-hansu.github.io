@@ -39,7 +39,7 @@ permalink: /publications/
 ***   
    
 # 📄 Korean Journal Papers   
-6. Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 49(10):761–775.[https://doi.org/10.3795/KSME-A.2025.49.10.761](https://doi.org/10.3795/KSME-A.2025.49.10.761)
+6. Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 49(10):761–775. [https://doi.org/10.3795/KSME-A.2025.49.10.761](https://doi.org/10.3795/KSME-A.2025.49.10.761)
 
 5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141)
    
