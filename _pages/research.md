@@ -60,6 +60,9 @@ permalink: /research/
    <summary> Representative Papers</summary>
    <ul>
       <li>
+         Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <em>Neurocomputing</em> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank">[Link]</a>   
+      </li>
+      <li>
          Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <em>Neural Networks</em> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank">[Link]</a>   
       </li>
    </ul>
