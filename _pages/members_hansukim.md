@@ -88,3 +88,9 @@ permalink: /members/hansukim/
 [**Reviewer**, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)   
    
 [**Reviewer**, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)     
+<br/>   
+   
+***   
+   
+# 🗣️ Invited Presentations   
+**Design for Additive Manufacturing: From Topology Optimization toward Generative AI**, *Department of Mechanical and Robotics Engineering, GIST, Gwangju, Korea*, September 2025   
