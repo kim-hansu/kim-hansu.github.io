@@ -12,4 +12,4 @@ tags: Research
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
-Paper entitled "[Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training](https://doi.org/10.1016/j.neucom.2025.131568)" has been published in _[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing). Congratulations!  
+Paper entitled "[Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training](https://doi.org/10.1016/j.neucom.2025.131568)" has been published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing). Congratulations!  
