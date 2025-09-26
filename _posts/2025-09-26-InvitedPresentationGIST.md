@@ -12,4 +12,4 @@ tags: Notice
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
-Hansu Kim gave an invited presentation, "Design for Additive Manufacturing: From Topology Optimization toward Generative AI", at the Department of Mechanical and Robotics Engineering, GIST in Gwangju, Korea, hosted by Prof. [Jaewook Lee](https://scholar.google.com/citations?hl=en&user=KQUeilgAAAAJ). It was an honor to be invited!   
+Hansu Kim gave an invited presentation entitled "Design for Additive Manufacturing: From Topology Optimization toward Generative AI" at the Department of Mechanical and Robotics Engineering, GIST in Gwangju, Korea, hosted by Prof. [Jaewook Lee](https://scholar.google.com/citations?hl=en&user=KQUeilgAAAAJ). It was an honor to be invited!   
