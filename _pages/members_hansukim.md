@@ -77,7 +77,7 @@ permalink: /members/hansukim/
 ***   
    
 # 🖋️ Academic Activities   
-[**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/).   
+[**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)   
    
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)   
    
