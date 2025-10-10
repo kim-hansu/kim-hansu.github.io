@@ -87,9 +87,9 @@ permalink: /publications/
 ***   
    
 # 🗣️ Korean Conference Papers   
-27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–12, 2025, Jeongseon, Korea.
+27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
    
-26. Kim S, Kim H,* Kang N* (2025) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>KSME 2025 Conference</u>*, December 10–12, 2025, Jeongseon, Korea.
+26. Kim S, Kim H,* Kang N* (2025) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
    
 25. Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight design of electric motor shaft and structure using topology optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
    
