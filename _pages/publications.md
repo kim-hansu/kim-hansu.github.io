@@ -87,13 +87,17 @@ permalink: /publications/
 ***   
    
 # 🗣️ Korean Conference Papers   
+27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–12, 2025, Jeongseon, Korea.
+   
+26. Kim S, Kim H,* Kang N* (2025) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>KSME 2025 Conference</u>*, December 10–12, 2025, Jeongseon, Korea.
+   
 25. Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight design of electric motor shaft and structure using topology optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
    
 24. Kim S, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
 23. Lee TH,* Kim S, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
-22. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>2022 KSCM Conference on Computational Mechanics</u>*, June 22–24, 2022, Gangwon, Korea 
+22. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>2022 KSCM Conference on Computational Mechanics</u>*, June 22–24, 2022, Pyeongchang, Korea 
    
 21. Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
    
@@ -109,15 +113,15 @@ permalink: /publications/
    
 15. Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). *<u>Korean Congress on Computational Mechanics 2019</u>*, February 14–15, 2019, Seoul, Korea.
    
-14. Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
+14. Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Jeongseon, Korea.
    
-13. Kwon T, Kim H, Lee TH* (2018) Improved neighborhood component feature selection for variable screening of multiple response system. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Gangwon, Korea.
+13. Kwon T, Kim H, Lee TH* (2018) Improved neighborhood component feature selection for variable screening of multiple response system. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Jeongseon, Korea.
    
 12. Kwon T, Kim H, Lee TH* (2018) Supervised learning-based design variable screening technique. *<u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u>*, April 26–28, 2018, Yeosu, Korea.
    
-11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
+11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Hoengseong, Korea.
    
-10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Gangwon, Korea.
+10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Hoengseong, Korea.
    
 9. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
    
@@ -125,7 +129,7 @@ permalink: /publications/
    
 7. Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
    
-6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Gangwon, Korea.
+6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Jeongseon, Korea.
    
 5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>2016 KSAE Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
    
@@ -133,6 +137,6 @@ permalink: /publications/
    
 3. Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in half-car model active suspension. *<u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u>*, April 7–9, 2016, Jeju, Korea.
    
-2. Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>2016 Winter Conference of Society of CAD/CAM Engineers</u>*, January 27–29, 2016, Gangwon, Korea.
+2. Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>2016 Winter Conference of Society of CAD/CAM Engineers</u>*, January 27–29, 2016, Pyeongchang, Korea.
    
 1. Lee TH,* Kim S, Lim W, Kim H, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. *<u>2015 Army Modeling & Simulation Education Conference</u>*, November 17–18, 2015, Daejeon, Korea.   
