@@ -9,7 +9,7 @@ permalink: /publications/
 *Type of author:* **Corresponding author*   
    
 # 📄 International Journal Papers
-14. (Under Review) Kim H, Kim IY* (2025) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost.
+14. (Under Review) Kim H, Kim IY*. Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost.
    
 13. Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) 657:131568. [https://doi.org/10.1016/j.neucom.2025.131568](https://doi.org/10.1016/j.neucom.2025.131568)
    
