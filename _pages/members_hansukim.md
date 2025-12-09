@@ -93,4 +93,6 @@ permalink: /members/hansukim/
 ***   
    
 # 🗣️ Invited Presentations   
+**Design of an Additive Manufactured Aircraft Component Using Topology Optimization**, *Korean Society for Design Optimization (KSDO), KAIST, Daejeon, Korea*, January 2026   
+   
 **Design for Additive Manufacturing: From Topology Optimization toward Generative AI**, *Department of Mechanical and Robotics Engineering, GIST, Gwangju, Korea*, September 2025   
