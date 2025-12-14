@@ -6,10 +6,10 @@ permalink: /teaching/
 ---
 
 ## 🏛️ Gachon University, Seongnam, Korea, 2025 - Present   
-* Statics (03874002), Undergraduate Course   
-* P-practical Project (60000015), Undergraduate Course   
-* Undergraduate Research Project (13647002), Undergraduate Course   
-* Introduction to Robotics (15068001), Undergraduate Course   
+* Statics (03874), Undergraduate Course   
+* P-practical Project (60000), Undergraduate Course   
+* Undergraduate Research Project (13647), Undergraduate Course   
+* Introduction to Robotics (15068), Undergraduate Course   
 <br/>   
   
 ## 🏛️ Changwon National University, Changwon, Korea, 2022   
