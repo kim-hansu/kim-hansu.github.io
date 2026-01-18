@@ -57,6 +57,8 @@ permalink: /publications/
 ***   
    
 # 🗣️ International Conference Papers
+14. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026</u>*, May 17–21, 2026, Busan, Korea.
+   
 13. Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
 
 12. Lee J, Shi Y, Gray S, Orr M, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Application of topology optimization to production-ready passenger seat components design. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
