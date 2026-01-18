@@ -11,6 +11,7 @@ tags: Notice
        alt="Invited Presentation at KSDO - 01"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/df70ebfa-75b1-4338-af77-ed96f01c42a6" 
        alt="Invited Presentation at KSDO - 02"
