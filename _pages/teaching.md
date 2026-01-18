@@ -7,9 +7,11 @@ permalink: /teaching/
 
 ## 🏛️ Gachon University, Seongnam, Korea, 2025 - Present   
 * Statics (03874), Undergraduate Course   
+* Engineering Graphics (CAD) (14381), Undergraduate Course   
+* Introduction to Robotics (15068), Undergraduate Course   
+* Control of Intelligent Robot Systems (15767), Undergraduate Course   
 * P-practical Project (60000), Undergraduate Course   
 * Undergraduate Research Project (13647), Undergraduate Course   
-* Introduction to Robotics (15068), Undergraduate Course   
 <br/>   
   
 ## 🏛️ Changwon National University, Changwon, Korea, 2022   
