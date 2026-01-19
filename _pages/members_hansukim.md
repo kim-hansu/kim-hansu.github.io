@@ -12,14 +12,14 @@ permalink: /members/hansukim/
 </div>   
    
 # 🏛️ Academic Experience   
-### Assistant Professor, *Department of Mechanical Engineering, Gachon University, Seongnam, Korea*, March 2025 – Present   
-* Smart Factory Major   
+### Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, February 2026 – Present   
+   
+### Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025 – February 2026   
    
 ### Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025   
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)    
    
-### Assistant Professor, *School of Mechanical Engineering, Changwon National University, Changwon, Korea*, September 2022 – December 2022   
-* Smart Manufacturing Major   
+### Assistant Professor, *School of Mechanical Engineering, Smart Manufacturing Major, Changwon National University, Changwon, Korea*, September 2022 – December 2022   
    
 ### BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
