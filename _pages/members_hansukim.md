@@ -77,11 +77,15 @@ permalink: /members/hansukim/
 ***   
    
 # 🖋️ Academic Activities   
+[**Academic Director**, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)   
+   
 [**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)   
    
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)   
    
 [**Reviewer**, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)   
+   
+[**Reviewer**, *Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)   
    
 [**Reviewer**, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)   
    
