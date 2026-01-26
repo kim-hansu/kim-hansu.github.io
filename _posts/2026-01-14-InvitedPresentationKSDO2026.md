@@ -5,16 +5,21 @@ author: "Hansu Kim"
 permalink: /news/2026-01-14-InvitedPresentationKSDO2026
 tags: Notice
 ---
-
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/b3f5ba49-ee53-4c15-b923-fc4c7228e0f5" 
+  <img src="https://github.com/user-attachments/assets/abb858f5-e767-4f64-8ec3-74acec01aeb5" 
        alt="Invited Presentation at KSDO - 001"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
-
+   
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/df70ebfa-75b1-4338-af77-ed96f01c42a6" 
        alt="Invited Presentation at KSDO - 002"
+       style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
+</div>   
+   
+<div style="display: flex; justify-content: center;">
+  <img src="[https://github.com/user-attachments/assets/df70ebfa-75b1-4338-af77-ed96f01c42a6](https://github.com/user-attachments/assets/71271e3b-b810-490e-ae65-2e58f4ed8e9c)" 
+       alt="Invited Presentation at KSDO - 003"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
