@@ -79,7 +79,7 @@ permalink: /members/hansukim/
 # 🖋️ Academic Activities    
 [**Academic Director**, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)   
    
-[**Industry–Academia Collaboration Director**, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)   
+[**Industry–Academia Director**, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)   
    
 [**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)   
    
