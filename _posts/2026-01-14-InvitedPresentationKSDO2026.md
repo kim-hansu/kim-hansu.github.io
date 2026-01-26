@@ -12,13 +12,13 @@ tags: Notice
 </div>   
    
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/df70ebfa-75b1-4338-af77-ed96f01c42a6" 
+  <img src="https://github.com/user-attachments/assets/e3a9aef5-40ed-464c-b312-7a066132c526" 
        alt="Invited Presentation at KSDO - 002"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
 <div style="display: flex; justify-content: center;">
-  <img src="[https://github.com/user-attachments/assets/df70ebfa-75b1-4338-af77-ed96f01c42a6](https://github.com/user-attachments/assets/71271e3b-b810-490e-ae65-2e58f4ed8e9c)" 
+  <img src="https://github.com/user-attachments/assets/a223abf6-7ec6-4722-beeb-de8a64872a32" 
        alt="Invited Presentation at KSDO - 003"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
