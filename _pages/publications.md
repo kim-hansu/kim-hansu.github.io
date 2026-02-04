@@ -101,7 +101,7 @@ permalink: /publications/
    
 23. Lee TH,* Kim S, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
-22. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>2022 KSCM Conference on Computational Mechanics</u>*, June 22–24, 2022, Pyeongchang, Korea 
+22. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>KSCM 2022 Conference</u>*, June 22–24, 2022, Pyeongchang, Korea 
    
 21. Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
    
