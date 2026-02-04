@@ -9,7 +9,7 @@ permalink: /publications/
 *Type of author:* **Corresponding author*   
    
 # 📄 International Journal Papers
-14. (Under Review) Kim H, Kim IY* (2025) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost.
+14. (Under Review) Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost.
    
 13. Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) 657:131568. [https://doi.org/10.1016/j.neucom.2025.131568](https://doi.org/10.1016/j.neucom.2025.131568)
    
@@ -57,6 +57,8 @@ permalink: /publications/
 ***   
    
 # 🗣️ International Conference Papers
+15. Kim S, Kim H, Kang N* (2026) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
+   
 14. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026</u>*, May 17–21, 2026, Busan, Korea.
    
 13. Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA.
