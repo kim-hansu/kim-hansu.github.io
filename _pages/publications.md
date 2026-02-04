@@ -123,24 +123,24 @@ permalink: /publications/
    
 12. Kwon T, Kim H, Lee TH* (2018) Supervised learning-based design variable screening technique. *<u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u>*, April 26–28, 2018, Yeosu, Korea.
    
-11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Hoengseong, Korea.
+11. Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>CDE 2018 Winter Conference</u>*, January 23–26, 2018, Hoengseong, Korea.
    
-10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>2018 Winter Conference of CDE</u>*, January 23–26, 2018, Hoengseong, Korea.
+10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>CDE 2018 Winter Conference</u>*, January 23–26, 2018, Hoengseong, Korea.
    
 9. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
    
-8. Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
+8. Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. *<u>KIMST 2017 Conference</u>*, June 8–9, 2017, Jeju, Korea.
    
-7. Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. *<u>2017 KIMST Conference</u>*, June 8–9, 2017, Jeju, Korea.
+7. Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. *<u>KIMST 2017 Conference</u>*, June 8–9, 2017, Jeju, Korea.
    
 6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Jeongseon, Korea.
    
-5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>2016 KSAE Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
+5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>KSAE 2016 Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
    
-4. Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. *<u>2016 KSAE Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
+4. Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. *<u>KSAE 2016 Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
    
 3. Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in half-car model active suspension. *<u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u>*, April 7–9, 2016, Jeju, Korea.
    
-2. Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>2016 Winter Conference of Society of CAD/CAM Engineers</u>*, January 27–29, 2016, Pyeongchang, Korea.
+2. Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>CAD/CAM 2016 Winter Conference</u>*, January 27–29, 2016, Pyeongchang, Korea.
    
-1. Lee TH,* Kim S, Lim W, Kim H, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. *<u>2015 Army Modeling & Simulation Education Conference</u>*, November 17–18, 2015, Daejeon, Korea.   
+1. Lee TH,* Kim S, Lim W, Kim H, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. *<u>Army Modeling & Simulation Education 2015 Conference</u>*, November 17–18, 2015, Daejeon, Korea.   
