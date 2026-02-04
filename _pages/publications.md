@@ -77,7 +77,7 @@ permalink: /publications/
    
 6. Kim H, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
    
-5. Kim H, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress in Computational Mechanics and ECCOMAS Congress 2020</u>*, January 11–15, 2021, Paris, France. (Online Conference)
+5. Kim H, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, January 11–15, 2021, Paris, France. (Online Conference)
    
 4. Kim H, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020</u>*, November 23–25, 2020, Seoul, Korea. (Online Conference)
    
