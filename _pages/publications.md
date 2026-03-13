@@ -57,7 +57,7 @@ permalink: /publications/
 ***   
    
 # 🗣️ International Conference Papers
-16. Kim H, Kim IY* (2026) Multi-material Decomposition Optimization for Topology-optimized Structures under Additive Manufacturing Constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
+16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
    
 15. Kim S, Kim H, Kang N* (2026) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
    
