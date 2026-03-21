@@ -25,6 +25,8 @@ permalink: /members/hansukim/
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 <br/>   
    
+***   
+   
 # 🎓 Education   
 ### Ph.D., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021   
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)   
@@ -38,7 +40,9 @@ permalink: /members/hansukim/
 * 1st Rank Graduate in the Department of Automotive Engineering   
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization   
 * Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)   
-<br/>   
+<br/>
+   
+***   
    
 # 🏆 Honors & Awards   
 **Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023   
