@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Publication in RPJ"
-author: "Hansu Kim"
 permalink: /news/2024-05-04-NewPublicationRPJ
 tags: Research
 ---
