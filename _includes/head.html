@@ -4,6 +4,16 @@
 
   {% seo %}
 
+  <title>
+    {% if page.url == '/' or page.permalink == '/' %}
+      {{ site.title }}
+    {% elsif page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
