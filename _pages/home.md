@@ -4,7 +4,7 @@ title: "Home"
 permalink: /home/
 ---
    
-## Welcome to the CODE Lab (전산최적설계 연구실)  
+## Welcome to the CODE Lab!
    
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/2557bc6f-c0bf-47a5-b683-ac2cf1f2225a" 
