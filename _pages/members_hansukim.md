@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Hansu Kim, Ph.D."
-author: "Hansu Kim"
 permalink: /members/hansukim/
 ---
    
