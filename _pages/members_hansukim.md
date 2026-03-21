@@ -32,7 +32,7 @@ permalink: /members/hansukim/
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection   
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)   
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)   
-
+   
 ### B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015   
 * *Summa Cum Laude*   
 * 1st Rank Graduate in the Department of Automotive Engineering   
@@ -94,6 +94,25 @@ permalink: /members/hansukim/
 [**Reviewer**, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)   
    
 [**Reviewer**, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)     
+<br/>   
+   
+***   
+   
+# 🏛️ Teaching Experience   
+### Gachon University, Seongnam, Korea, 2025 - Present   
+* Statics (03874), Undergraduate Course   
+* Engineering Graphics (CAD) (14381), Undergraduate Course   
+* Introduction to Robotics (15068), Undergraduate Course   
+* Control of Intelligent Robot Systems (15767), Undergraduate Course   
+* P-Practical Project (60000), Undergraduate Course   
+* Undergraduate Research Project (13647), Undergraduate Course   
+   
+### Changwon National University, Changwon, Korea, 2022   
+* Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course   
+* Big Data Engineering (MNA0082), Undergraduate Course   
+   
+* ### Hanyang University, Seoul, Korea, 2021   
+* Design and Analysis of Computational Experiments (AUE8048), Graduate Course   
 <br/>   
    
 ***   
