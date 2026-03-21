@@ -1,13 +1,12 @@
 <nav class="nav">
   <div class="nav-container">
-    <a href="{{ site.baseurl }}/">
+    <a href="{{ '/' | relative_url }}">
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><a href="{{ '/home' | prepend: site.baseurl }}">Home</a></li>
-      <li><a href="{{ '/members' | prepend: site.baseurl }}">Members</a></li>
-      <li><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
-      <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
+      <li><a href="{{ '/members/' | relative_url }}">Members</a></li>
+      <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+      <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
     </ul>
   </div>
 </nav>
