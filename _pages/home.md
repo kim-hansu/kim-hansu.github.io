@@ -17,6 +17,4 @@ The **Computational Optimum DEsign (CODE) Lab** is dedicated to research in desi
 **We are currently seeking highly motivated graduate and undergraduate students to join CODE Lab. If you are interested, feel free to reach out at [hansukim@gachon.ac.kr](mailto:hansukim@gachon.ac.kr)** 😊   
 <br>
    
-## News
-   
 {% include news_section.html show_header=false show_clouds=false %}
