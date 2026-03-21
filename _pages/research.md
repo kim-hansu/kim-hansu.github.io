@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Research"
-author: "Hansu Kim"
 permalink: /research/
 ---
    
