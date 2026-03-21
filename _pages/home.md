@@ -20,4 +20,4 @@ The **Computational Optimum DEsign (CODE) Lab** is dedicated to research in desi
    
 ## News
    
-{% include news_section.html show_header=false show_clouds=true %}
+{% include news_section.html show_header=false show_clouds=false %}
