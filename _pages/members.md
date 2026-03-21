@@ -3,7 +3,6 @@ layout: page
 title: "Members"
 permalink: /members/
 ---
-   
 # Faculty   
 ## 👨‍🏫 [Hansu Kim, Ph.D. (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)
    
