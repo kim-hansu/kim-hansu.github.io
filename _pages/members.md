@@ -26,7 +26,7 @@ permalink: /members/
    
 ***   
    
-# 👨‍🎓 Graduate Students   
+# 👨‍🔬 Graduate Students   
 ## 🚧 To Be Updated   
 <br/>   
    
