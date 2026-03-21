@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Invited Presentation at KSDO 2026"
-author: "Hansu Kim"
 permalink: /news/2026-01-24-InvitedPresentationKSDO2026
 tags: Notice
 ---
