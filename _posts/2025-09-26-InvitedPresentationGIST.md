@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Invited Presentation at GIST"
-author: "Hansu Kim"
 permalink: /news/2025-09-26-InvitedPresentationGIST
 tags: Notice
 ---
