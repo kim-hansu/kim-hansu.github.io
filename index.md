@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "CODE Lab"
 show_title: false
 permalink: /
 ---
