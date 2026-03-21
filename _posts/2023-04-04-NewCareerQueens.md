@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Career at Queen's University"
-author: "Hansu Kim"
 permalink: /news/2023-04-04-NewCareerQueens
 tags: Members
 ---
