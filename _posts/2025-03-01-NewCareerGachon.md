@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Career at Gachon University"
-author: "Hansu Kim"
 permalink: /news/2025-03-01-NewCareerGachon
 tags: Members
 ---
