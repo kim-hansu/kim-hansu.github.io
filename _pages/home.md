@@ -15,4 +15,4 @@ permalink: /home/
    
 The **Computational Optimum DEsign (CODE) Lab** specializes in cutting-edge research in design optimization, data-driven design, design for additive manufacturing, optimization algorithms for artificial neural networks, and design for mobility components. Our research focuses on developing innovative methodologies through analytical and computational optimization techniques. We aim to address real-world challenges in smart factory systems by establishing transformative principles and publishing groundbreaking academic studies.   
    
-We are currently seeking highly motivated graduate and undergraduate students to join CODE Lab. If you are interested, feel free to reach out at [hansukim@gachon.ac.kr](mailto:hansukim@gachon.ac.kr)
+**We are currently seeking highly motivated graduate and undergraduate students to join CODE Lab. If you are interested, feel free to reach out at [hansukim@gachon.ac.kr](mailto:hansukim@gachon.ac.kr)** 😊   
