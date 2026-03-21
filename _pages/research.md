@@ -3,7 +3,6 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-   
 # 🌟 Research Interests   
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/42d82023-867a-4244-bb21-eed1dd6c9e1c"
