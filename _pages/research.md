@@ -12,6 +12,24 @@ permalink: /research/
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>   
    
+## Design for Additive Manufacturing   
+* ### Topology Optimization   
+* ### Decomposition Optimization
+* ### Multi-material and Cost-effective Structures   
+   
+<details>
+   <summary> Representative Papers</summary>
+   <ul>
+      <li>
+         Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
+      </li>
+      <li>
+         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
+      </li>
+   </ul>
+</details>   
+   
+<br/>   
 ## Data-driven Design   
 * ### Reliable Decision-making   
 * ### Global Predictive Model   
@@ -33,19 +51,19 @@ permalink: /research/
 </details>   
    
 <br/>   
-## Design for Additive Manufacturing   
-* ### Topology Optimization   
-* ### Decomposition Optimization
-* ### Multi-material and Cost-effective Structures   
-   
+## Design for Mobility Components   
+* ### Lightweight Structures   
+* ### Crashworthiness Certification   
+* ### Accelerated Life Testing
+      
 <details>
    <summary> Representative Papers</summary>
    <ul>
       <li>
-         Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
+         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
       </li>
       <li>
-         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
+         Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <em>Structural and Multidisciplinary Optimization</em> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank">[Link]</a>
       </li>
    </ul>
 </details>   
@@ -64,24 +82,6 @@ permalink: /research/
       </li>
       <li>
          Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <em>Neural Networks</em> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank">[Link]</a>   
-      </li>
-   </ul>
-</details>   
-   
-<br/>   
-## Design for Mobility Components   
-* ### Lightweight Structures   
-* ### Crashworthiness Certification   
-* ### Accelerated Life Testing
-      
-<details>
-   <summary> Representative Papers</summary>
-   <ul>
-      <li>
-         Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
-      </li>
-      <li>
-         Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <em>Structural and Multidisciplinary Optimization</em> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank">[Link]</a>
       </li>
    </ul>
 </details>   
