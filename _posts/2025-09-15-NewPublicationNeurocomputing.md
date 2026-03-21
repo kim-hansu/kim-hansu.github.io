@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Publication in Neurocomputing"
-author: "Hansu Kim"
 permalink: /news/2025-09-15-NewPublicationNeurocomputing
 tags: Research
 ---
