@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Completes Postdoctoral Fellowship"
-author: "Hansu Kim"
 permalink: /news/2025-02-11-CompletesPostdoc
 tags: Members
 ---
