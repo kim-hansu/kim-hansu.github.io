@@ -10,6 +10,9 @@ permalink: /members/hansukim/
 </div>   
    
 **Hansu Kim** is an Assistant Professor in the [Department of Smart Factory](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Prior to joining Gachon University, he was a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen’s University](https://www.queensu.ca/) in Kingston, Canada. He earned his B.S. and Ph.D. degrees in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in February 2015 and August 2021, respectively. His research interests include design optimization, design for additive manufacturing, data-driven design, design for mobility components, and optimization algorithms for artificial neural networks.
+<br/>   
+   
+***   
    
 # 🏛️ Academic Experience   
 ### Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, March 2026 – Present   
