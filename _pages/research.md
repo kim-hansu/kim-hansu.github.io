@@ -3,18 +3,18 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-# 🌟 Research Interests   
+# 🌟 Research Interests
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/42d82023-867a-4244-bb21-eed1dd6c9e1c"
-       alt="Research Interests" 
+       alt="Research Interests"
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
-</div>   
-   
-## Design for Additive Manufacturing   
-* ### Topology Optimization   
+</div>
+
+## Design for Additive Manufacturing
+* ### Topology Optimization
 * ### Decomposition Optimization
-* ### Multi-material and Cost-effective Structures   
-   
+* ### Multi-material and Cost-effective Structures
+
 <details>
    <summary> Representative Papers</summary>
    <ul>
@@ -25,14 +25,14 @@ permalink: /research/
          Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
       </li>
    </ul>
-</details>   
-   
-<br/>   
-## Data-driven Design   
-* ### Reliable Decision-making   
-* ### Global Predictive Model   
-* ### Physics-informed Machine Learning   
-   
+</details>
+
+<br/>
+## Data-driven Design
+* ### Reliable Decision-making
+* ### Global Predictive Model
+* ### Physics-informed Machine Learning
+
 <details>
    <summary> Representative Papers</summary>
    <ul>
@@ -40,20 +40,20 @@ permalink: /research/
          Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <em>Structural and Multidisciplinary Optimization</em> 65:258. <a href="https://doi.org/10.1007/s00158-022-03356-0" target="_blank">[Link]</a>
       </li>
       <li>
-         Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. <em>Knowledge-Based Systems</em> 225:107117. <a href="https://doi.org/10.1016/j.knosys.2021.107117" target="_blank">[Link]</a>   
+         Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. <em>Knowledge-Based Systems</em> 225:107117. <a href="https://doi.org/10.1016/j.knosys.2021.107117" target="_blank">[Link]</a>
       </li>
       <li>
-         Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <em>Knowledge-Based Systems</em> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank">[Link]</a>   
+         Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <em>Knowledge-Based Systems</em> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank">[Link]</a>
       </li>
    </ul>
-</details>   
-   
-<br/>   
-## Design for Mobility Components   
-* ### Lightweight Structures   
-* ### Crashworthiness Certification   
+</details>
+
+<br/>
+## Design for Mobility Components
+* ### Lightweight Structures
+* ### Crashworthiness Certification
 * ### Accelerated Life Testing
-      
+
 <details>
    <summary> Representative Papers</summary>
    <ul>
@@ -64,22 +64,22 @@ permalink: /research/
          Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <em>Structural and Multidisciplinary Optimization</em> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank">[Link]</a>
       </li>
    </ul>
-</details>   
-   
-<br/>   
-## Optimization Algorithms for ANNs   
-* ### Conjugate Gradient Methods   
-* ### Intelligent Robotic Grasping   
-* ### Digital Twin Systems   
-   
+</details>
+
+<br/>
+## Optimization Algorithms for ANNs
+* ### Conjugate Gradient Methods
+* ### Intelligent Robotic Grasping
+* ### Digital Twin Systems
+
 <details>
    <summary> Representative Papers</summary>
    <ul>
       <li>
-         Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <em>Neurocomputing</em> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank">[Link]</a>   
+         Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <em>Neurocomputing</em> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank">[Link]</a>
       </li>
       <li>
-         Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <em>Neural Networks</em> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank">[Link]</a>   
+         Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <em>Neural Networks</em> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank">[Link]</a>
       </li>
    </ul>
-</details>   
+</details>
