@@ -12,8 +12,6 @@ permalink: /members/
        style="max-width: 100%; height: auto; width: auto; max-height: 35vh; object-fit: contain;">
 </div>   
    
-### 🏛️ Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*   
-   
 ### 🎓 Education   
 * **Ph.D.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
 * **B.S.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015   
