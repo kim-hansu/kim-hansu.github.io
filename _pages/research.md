@@ -15,8 +15,8 @@ permalink: /research/
 * ### Decomposition Optimization
 * ### Multi-material and Cost-effective Structures
 
-<details>
-   <summary> Representative Papers</summary>
+<details class="rep-papers">
+   <summary>Representative Papers</summary>
    <ul>
       <li>
          Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">[Link]</a>
@@ -33,8 +33,8 @@ permalink: /research/
 * ### Global Predictive Model
 * ### Physics-informed Machine Learning
 
-<details>
-   <summary> Representative Papers</summary>
+<details class="rep-papers">
+   <summary>Representative Papers</summary>
    <ul>
       <li>
          Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <em>Structural and Multidisciplinary Optimization</em> 65:258. <a href="https://doi.org/10.1007/s00158-022-03356-0" target="_blank">[Link]</a>
@@ -54,8 +54,8 @@ permalink: /research/
 * ### Crashworthiness Certification
 * ### Accelerated Life Testing
 
-<details>
-   <summary> Representative Papers</summary>
+<details class="rep-papers">
+   <summary>Representative Papers</summary>
    <ul>
       <li>
          Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <em>Rapid Prototyping Journal</em> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">[Link]</a>
@@ -72,8 +72,8 @@ permalink: /research/
 * ### Intelligent Robotic Grasping
 * ### Digital Twin Systems
 
-<details>
-   <summary> Representative Papers</summary>
+<details class="rep-papers">
+   <summary>Representative Papers</summary>
    <ul>
       <li>
          Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <em>Neurocomputing</em> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank">[Link]</a>
