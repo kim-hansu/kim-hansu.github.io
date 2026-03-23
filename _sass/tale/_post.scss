@@ -62,21 +62,38 @@
   }
 }
 
-.rep-papers summary {
+details.rep-papers summary {
   cursor: pointer;
   display: inline-block;
   font-weight: 600;
   padding: 0.15rem 0.35rem;
   border-radius: 4px;
+  list-style: none;
   transition: color 0.2s ease, background-color 0.2s ease;
 }
 
-.rep-papers summary:hover {
+details.rep-papers summary:hover {
   color: $blue;
   background-color: #f5f8fc;
   text-decoration: underline;
 }
 
-.rep-papers[open] summary {
+details.rep-papers summary::-webkit-details-marker {
+  display: none;
+}
+
+details.rep-papers summary::before {
+  content: "▸";
   color: $blue;
+  margin-right: 0.45rem;
+  font-size: 0.95em;
+}
+
+details.rep-papers[open] summary::before {
+  content: "▾";
+}
+
+details.rep-papers[open] summary {
+  color: $blue;
+  margin-bottom: 0.5rem;
 }
