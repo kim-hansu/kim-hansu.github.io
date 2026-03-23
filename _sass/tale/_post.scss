@@ -85,8 +85,11 @@ details.rep-papers summary::-webkit-details-marker {
 details.rep-papers summary::before {
   content: "▸";
   color: $blue;
-  margin-right: 0.45rem;
-  font-size: 0.95em;
+  margin-right: 0.55rem;
+  font-size: 1.25em;
+  font-weight: 700;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 details.rep-papers[open] summary::before {
