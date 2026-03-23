@@ -102,3 +102,26 @@ details.rep-papers[open] summary {
   margin-bottom: 0.5rem;
   text-decoration: underline;
 }
+
+details.rep-papers ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+  padding-left: 1.4rem;
+}
+
+details.rep-papers li {
+  margin-bottom: 0.6rem;
+  line-height: 1.55;
+}
+
+details.rep-papers li:last-child {
+  margin-bottom: 0;
+}
+
+details.rep-papers li a {
+  margin-left: 0.2rem;
+}
+
+details.rep-papers a {
+  white-space: nowrap;
+}
