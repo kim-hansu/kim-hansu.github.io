@@ -16,9 +16,15 @@
   }
 
   &-message {
-    max-width: 44rem;
+    max-width: 42rem;
     margin: 0 auto;
     line-height: 1.5;
+  }
+
+  &-divider {
+    border-top: .5px solid $grey-2;
+    margin: 3rem 0 0;
+    width: 100%;
   }
 }
 
