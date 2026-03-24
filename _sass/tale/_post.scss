@@ -134,3 +134,9 @@ details.rep-papers li a {
 details.rep-papers a {
   white-space: nowrap;
 }
+
+.post hr {
+  border: 0;
+  border-top: .5px solid $grey-2;
+  margin: 1.5rem 0;
+}
