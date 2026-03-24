@@ -16,7 +16,18 @@
   }
 
   &-message {
-    max-width: 25rem;
+    max-width: 44rem;
     margin: 0 auto;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 600px) {
+  .notfound-message {
+    max-width: 90%;
+  }
+
+  .notfound-message br {
+    display: none;
   }
 }
