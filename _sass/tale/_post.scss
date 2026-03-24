@@ -103,6 +103,10 @@ details.rep-papers[open] summary {
   text-decoration: none;
 }
 
+details.rep-papers[open] summary:hover {
+  text-decoration: underline;
+}
+
 details.rep-papers ul {
   margin-top: 0.5rem;
   margin-bottom: 0.75rem;
