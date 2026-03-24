@@ -70,13 +70,14 @@ details.rep-papers summary {
   padding: 0.15rem 0.35rem;
   border-radius: 4px;
   list-style: none;
-  text-decoration: underline;
-  transition: color 0.2s ease, background-color 0.2s ease;
+  text-decoration: none;
+  transition: color 0.2s ease, background-color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 details.rep-papers summary:hover {
   color: $blue;
   background-color: #f5f8fc;
+  text-decoration: underline;
 }
 
 details.rep-papers summary::-webkit-details-marker {
@@ -100,7 +101,7 @@ details.rep-papers[open] summary::before {
 details.rep-papers[open] summary {
   color: $blue;
   margin-bottom: 0.5rem;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 details.rep-papers ul {
