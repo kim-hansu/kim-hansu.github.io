@@ -71,12 +71,11 @@ details.rep-papers summary {
   border-radius: 4px;
   list-style: none;
   text-decoration: none;
-  transition: color 0.2s ease, background-color 0.2s ease, text-decoration-color 0.2s ease;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 details.rep-papers summary:hover {
   color: $blue;
-  background-color: #f5f8fc;
   text-decoration: underline;
 }
 
