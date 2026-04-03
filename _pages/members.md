@@ -42,3 +42,18 @@ permalink: /members/
 ### 📬 Contact
 * Lab: Room 326, Vision Tower, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
 * Email: [minsang1102@gachon.ac.kr](mailto:minsang1102@gachon.ac.kr)
+
+## Geonung Jo (조건웅)
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/4ca4beb7-e9aa-4ca4-8336-5267a5c6c834"
+       alt="GJo"
+       style="max-width: 100%; height: auto; width: auto; max-height: 25vh; object-fit: contain;">
+</div>!
+
+### 🎓 Education
+* **B.S.**, *Department of Smart Factory, Gachon University, Seongnam, Korea*, Present
+
+### 📬 Contact
+* Lab: Room 326, Vision Tower, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
+* Email: [jack4665@gachon.ac.kr](mailto:jack4665@gachon.ac.kr)
