@@ -49,7 +49,7 @@ permalink: /members/
   <img src="https://github.com/user-attachments/assets/4ca4beb7-e9aa-4ca4-8336-5267a5c6c834"
        alt="GJo"
        style="max-width: 100%; height: auto; width: auto; max-height: 25vh; object-fit: contain;">
-</div>!
+</div>
 
 ### 🎓 Education
 * **B.S.**, *Department of Smart Factory, Gachon University, Seongnam, Korea*, Present
