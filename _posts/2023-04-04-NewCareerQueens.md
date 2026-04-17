@@ -17,4 +17,4 @@ tags: Members
        style="max-width: 100%; height: auto; width: auto; max-height: 15vh; object-fit: contain;">
 </div>   
    
-Hansu Kim has started a Postdoctoral Fellow position in the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) directed by Prof. [Il Yong Kim](https://scholar.google.com/citations?hl=en&user=9nbcizgAAAAJ) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. Good luck!  
+Dr. Hansu Kim has started a Postdoctoral Fellow position in the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) directed by Prof. [Il Yong Kim](https://scholar.google.com/citations?hl=en&user=9nbcizgAAAAJ) at [Queen's University](https://www.queensu.ca/) in Kingston, Canada. Good luck!  
