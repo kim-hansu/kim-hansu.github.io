@@ -11,4 +11,4 @@ tags: Members
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
-Hansu Kim has started an Assistant Professor position in the [Department of Mechanical Engineering, Smart Factory Major](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Good luck!  
+Dr. Hansu Kim has started an Assistant Professor position in the [Department of Mechanical Engineering, Smart Factory Major](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Good luck!  
