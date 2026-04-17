@@ -46,6 +46,8 @@ permalink: /members/hansukim/
 ***
 
 # 🏆 Honors & Awards
+**Outstanding Presentation Award for Early Career Researchers**, *COSEIK 2026 Conference*, April 2026
+
 **Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
 
 **Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
