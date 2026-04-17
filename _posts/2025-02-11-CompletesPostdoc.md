@@ -11,4 +11,4 @@ tags: Members
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
-Hansu Kim has completed his Postdoctoral Fellowship with the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) at [Queen's University](https://www.queensu.ca/), Kingston, Canada. Congratulations! For more details, click [here](https://ilyongkim.ca/hansu-kim-completes-postdoc/).
+Dr. Hansu Kim has completed his Postdoctoral Fellowship with the [Structural and Multidisciplinary Systems Design (SMSD) Group](https://ilyongkim.ca/) at [Queen's University](https://www.queensu.ca/), Kingston, Canada. Congratulations! For more details, click [here](https://ilyongkim.ca/hansu-kim-completes-postdoc/).
