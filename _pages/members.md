@@ -3,7 +3,7 @@ layout: page
 title: "Members"
 permalink: /members/
 ---
-# 👨‍🏫 Faculty
+# 👨‍🏫 Principal Investigator
 ## [Hansu Kim, Ph.D. (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)<span> · </span>[Bio](https://kim-hansu.github.io/members/hansukim/)
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg"
@@ -27,7 +27,7 @@ permalink: /members/
 
 ***
 
-# 👨‍🎓 Undergraduate Students
+# 👨‍🎓 Undergraduate Researchers
 ## Minsang Cho (조민상)
 
 <div style="display: flex; justify-content: center;">
