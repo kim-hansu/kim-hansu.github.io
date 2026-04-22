@@ -48,6 +48,8 @@ permalink: /members/hansukim/
 # 🏆 Honors & Awards
 **Outstanding Presentation Award for Early Career Researchers**, *COSEIK 2026 Conference*, April 2026
 
+**Certificate of Appreciation for Early Career Researchers**, *KSDO 2026 Conference*, January 2026
+
 **Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
 
 **Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
@@ -64,7 +66,7 @@ permalink: /members/hansukim/
 
 **Grand Award**, *1st Future Automobile Outstanding Paper Contest*, October 2019
 
-**Best Poster Award**, *KSCM-GACM International Workshop 2018*, October 2018
+**Best Poster Award**, *KSCM-GACM 2018 International Workshop*, October 2018
 
 **BK21 Plus Scholarship**, *National Research Foundation of Korea*, September 2015 – August 2017 & March 2018 – August 2020
 
