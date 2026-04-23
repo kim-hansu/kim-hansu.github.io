@@ -7,7 +7,7 @@ permalink: /
 ## Welcome to the CODE Lab!
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/2557bc6f-c0bf-47a5-b683-ac2cf1f2225a"
+  <img src="https://github.com/user-attachments/assets/1832198f-f58c-4b1c-bc79-2c808d41b564"
        alt="Home"
        style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
 </div>
