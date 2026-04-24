@@ -8,7 +8,7 @@ permalink: /news/
   <head>
     <meta charset="utf-8">
     <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+    <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}#notice">
     <link rel="canonical" href="{{ '/' | absolute_url }}">
     <script>
       window.location.replace("{{ '/' | relative_url }}");
