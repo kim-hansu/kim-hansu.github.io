@@ -89,7 +89,9 @@ permalink: /publications/
 ***
 
 # 🗣️ Korean Conference Papers
-28. Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+29. Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+
+28. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
 
 27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
 
