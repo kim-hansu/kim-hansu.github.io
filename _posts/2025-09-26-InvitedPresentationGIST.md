@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Invited Presentation at GIST"
-permalink: /news/2025-09-26-InvitedPresentationGIST
+permalink: /news/notice/2025-09-26-InvitedPresentationGIST
 tags: Notice
 ---
    
