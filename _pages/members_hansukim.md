@@ -128,7 +128,7 @@ permalink: /members/hansukim/
 ***
 
 # 🗣️ Invited Presentations
-**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization**, *Smart & Soft 2026, Jeju, Korea*, November 2026
+**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization**, *9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026), Jeju, Korea*, November 2026
 
 **Decomposition Optimization and Multi-material Design for Additive Manufacturing**, *COSEIK 2026 Conference, Gwangju, Korea*, April 2026
 
