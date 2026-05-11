@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Publication in Neurocomputing"
-permalink: /news/2025-09-15-NewPublicationNeurocomputing
+permalink: /news/research/2025-09-15-NewPublicationNeurocomputing
 tags: Research
 ---
    
