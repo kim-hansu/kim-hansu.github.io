@@ -54,6 +54,8 @@ permalink: /publications/
 ***
 
 # 🗣️ International Conference Papers
+18. Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.
+
 17. Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. *<u>ASME International Mechanical Engineering Congress & Exposition 2026 (IMECE 2026)</u>*, November 8–12, 2026, Vancouver, British Columbia, Canada.
 
 16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
@@ -91,9 +93,13 @@ permalink: /publications/
 ***
 
 # 🗣️ Korean Conference Papers
-29. Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+31. Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
 
-28. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+30. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+
+29. Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.
+
+28. Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.
 
 27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
 
