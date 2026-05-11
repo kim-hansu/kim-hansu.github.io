@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Participation in KSCM 2026"
-permalink: /news/2026-03-04-ParticipationKSCM2026
+permalink: /news/notice/2026-03-04-ParticipationKSCM2026
 tags: Notice
 ---
    
