@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Publication in RPJ"
-permalink: /news/2024-05-04-NewPublicationRPJ
+permalink: /news/research/2024-05-04-NewPublicationRPJ
 tags: Research
 ---
    
