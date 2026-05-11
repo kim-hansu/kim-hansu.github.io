@@ -41,7 +41,11 @@
         <line x1="7" y1="7" x2="7.01" y2="7"></line>
       </svg>
 
-      <h2 class="tags-item-label">{{ tag_name }}</h2>
+      <h2 class="tags-item-label">
+        <a href="/news/{{ tag_name | downcase }}/">
+          {{ tag_name }}
+        </a>
+      </h2>
 
       {% for post in posts limit %}
       <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
