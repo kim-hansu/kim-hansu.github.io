@@ -56,6 +56,12 @@
         </span>
       </a>
       {% endfor %}
+
+      {% if posts.size > 5 %}
+      <p class="tags-more">
+        <a href="{{ '/news/' | relative_url }}">View all news →</a>
+      </p>
+      {% endif %}
     </div>
     {% endif %}
   {% endfor %}
