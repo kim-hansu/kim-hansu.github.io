@@ -89,7 +89,7 @@ permalink: /members/hansukim/
 
 [**Industry–Academia Collaboration Director**, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)
 
-[**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)
+[**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)
 
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
 
