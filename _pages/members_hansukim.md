@@ -93,6 +93,8 @@ permalink: /members/hansukim/
 
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
 
+[**Reviewer**, *Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
+
 [**Reviewer**, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
 
 [**Reviewer**, *Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
