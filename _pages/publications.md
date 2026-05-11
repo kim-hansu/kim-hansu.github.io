@@ -54,6 +54,8 @@ permalink: /publications/
 ***
 
 # 🗣️ International Conference Papers
+17. Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. *<u>ASME IMECE 2026</u>*, November 8–12, 2026, Vancouver, British Columbia, Canada.
+
 16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
 
 15. Kim S, Kim H, Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
