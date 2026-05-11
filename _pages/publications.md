@@ -54,13 +54,13 @@ permalink: /publications/
 ***
 
 # 🗣️ International Conference Papers
-17. Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. *<u>ASME IMECE 2026</u>*, November 8–12, 2026, Vancouver, British Columbia, Canada.
+17. Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. *<u>ASME International Mechanical Engineering Congress & Exposition 2026 (IMECE 2026)</u>*, November 8–12, 2026, Vancouver, British Columbia, Canada.
 
-16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
+16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
 
-15. Kim S, Kim H, Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, July 19–24, 2026, Munich, Germany.
+15. Kim S, Kim H, Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
 
-14. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026</u>*, May 17–21, 2026, Busan, Korea.
+14. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</u>*, May 17–21, 2026, Busan, Korea.
 
 13. Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. *<u>WCX 2026 World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. [https://doi.org/10.4271/2026-01-0493](https://doi.org/10.4271/2026-01-0493)
 
@@ -72,21 +72,21 @@ permalink: /publications/
 
 9.  Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. *<u>Canadian Aeronautics and Space Institute AERO 2023</u>*, November 14–16, 2023, Ottawa, Ontario, Canada.
 
-8. Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
+8. Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization (WCSMO-15)</u>*, June 5–9, 2023, Cork, Ireland.
 
-7. Kim H, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022</u>*, May 22–26, 2022, Matsue, Japan. (Offline & Online Conference)
+7. Kim H, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022 (ACSMO 2022)</u>*, May 22–26, 2022, Matsue, Japan. (Offline & Online Conference)
 
-6. Kim H, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
+6. Kim H, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization (WCSMO-14)</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
 
-5. Kim H, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Sciences and Engineering</u>*, January 11–15, 2021, Paris, France. (Online Conference)
+5. Kim H, Lee TH* (2020) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2020)</u>*, January 11–15, 2021, Paris, France. (Online Conference)
 
-4. Kim H, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020</u>*, November 23–25, 2020, Seoul, Korea. (Online Conference)
+4. Kim H, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020 (ACSMO 2020)</u>*, November 23–25, 2020, Seoul, Korea. (Online Conference)
 
-3. Kim H, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. *<u>13th World Congress of Structural and Multidisciplinary Optimization</u>*, May 20–24, 2019, Beijing, China.
+3. Kim H, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. *<u>13th World Congress of Structural and Multidisciplinary Optimization (WCSMO-13)</u>*, May 20–24, 2019, Beijing, China.
 
 2. Kim S, Kim S, Kim J, Kim H, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. *<u>1st Joint Workshop between KSCM & GACM</u>*, October 24–25, 2018, Seoul, Korea.
 
-1. Kim H, Song Y, Huh K, Lee TH* (2017) Robust design optimization of vehicle and adaptive cruise control parameter considering fuel efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation</u>*, June 5–9, 2017, Braunschweig, Germany.
+1. Kim H, Song Y, Huh K, Lee TH* (2017) Robust design optimization of vehicle and adaptive cruise control parameter considering fuel efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation (WCSMO-12)</u>*, June 5–9, 2017, Braunschweig, Germany.
 
 ***
 
