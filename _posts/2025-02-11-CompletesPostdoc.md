@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Completes Postdoctoral Fellowship"
-permalink: /news/2025-02-11-CompletesPostdoc
+permalink: /news/members/2025-02-11-CompletesPostdoc
 tags: Members
 ---
    
