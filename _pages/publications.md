@@ -119,7 +119,7 @@ permalink: /publications/
 
 16. Byun H, Kim H, Lee TH* (2019) Hierarchical surrogate model for scale-bridging using learning algorithms. *<u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u>*, April 18–20, 2019, Jeju, Korea.
 
-15. Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). *<u>Korean Congress on Computational Mechanics 2019</u>*, February 14–15, 2019, Seoul, Korea.
+15. Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). *<u>Korean Congress on Computational Mechanics 2019 (KCCM 2019)</u>*, February 14–15, 2019, Seoul, Korea.
 
 14. Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Jeongseon, Korea.
 
@@ -139,7 +139,7 @@ permalink: /publications/
 
 6. Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Jeongseon, Korea.
 
-5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>KSAE 2016 Autumn Conference</u>*, November 16–19, 2016, Daegu, Korea.
+5. Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>KSAE 2016 Fall Conference</u>*, November 16–19, 2016, Daegu, Korea.
 
 4. Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. *<u>KSAE 2016 Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
 
