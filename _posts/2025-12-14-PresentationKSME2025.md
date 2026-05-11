@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Presentations at KSME 2025"
-permalink: /news/2025-12-14-KSME2025
+title: "Presentation at KSME 2025"
+permalink: /news/2025-12-14-PresentationKSME2025
 tags: Notice
 ---
 
