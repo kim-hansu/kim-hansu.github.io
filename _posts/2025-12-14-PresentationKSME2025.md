@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation at KSME 2025"
-permalink: /news/2025-12-14-PresentationKSME2025
+permalink: /news/notice/2025-12-14-PresentationKSME2025
 tags: Notice
 ---
 
@@ -12,26 +12,14 @@ tags: Notice
 </div>   
    
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/69d3204e-bbc5-4360-bc4b-53a7a794ed2a" 
+  <img src="https://github.com/user-attachments/assets/65a1b20a-8e9b-453a-984a-376d0c4fecdd" 
        alt="Presentations at KSME 2025 - 002"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/65a1b20a-8e9b-453a-984a-376d0c4fecdd" 
-       alt="Presentations at KSME 2025 - 003"
-       style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
-</div>   
-   
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/94978063-ae28-43f9-8bed-03770e73c6e1" 
-       alt="Presentations at KSME 2025 - 004"
-       style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
-</div>   
-   
-<div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/e66f33ef-901d-49fd-8139-a521ca9edb5d" 
-       alt="Presentations at KSME 2025 - 005"
+       alt="Presentations at KSME 2025 - 003"
        style="max-width: 100%; height: auto; width: auto; max-height: 50vh; object-fit: contain;">
 </div>   
    
