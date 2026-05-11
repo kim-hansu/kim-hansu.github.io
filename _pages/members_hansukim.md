@@ -128,10 +128,10 @@ permalink: /members/hansukim/
 ***
 
 # 🗣️ Invited Presentations
-**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization**, *Smart & Soft 2026, Shinhwa World, Jeju, Korea*, November 2026
+**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization**, *Smart & Soft 2026, Jeju, Korea*, November 2026
 
-**Decomposition Optimization and Multi-material Design for Additive Manufacturing**, *Computational Structural Engineering Institute of Korea (COSEIK), GIST, Gwangju, Korea*, April 2026
+**Decomposition Optimization and Multi-material Design for Additive Manufacturing**, *Computational Structural Engineering Institute of Korea (COSEIK) 2026 Conference, Gwangju, Korea*, April 2026
 
-**Design of an Additive Manufactured Aircraft Component Using Topology Optimization**, *Korean Society for Design Optimization (KSDO), KAIST, Daejeon, Korea*, January 2026
+**Design of an Additive Manufactured Aircraft Component Using Topology Optimization**, *Korean Society for Design Optimization (KSDO) 2026 Conference, Daejeon, Korea*, January 2026
 
 **Design for Additive Manufacturing: From Topology Optimization toward Generative AI**, *Department of Mechanical and Robotics Engineering, GIST, Gwangju, Korea*, September 2025
