@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Career at Gachon University"
-permalink: /news/2025-03-01-NewCareerGachon
+permalink: /news/members/2025-03-01-NewCareerGachon
 tags: Members
 ---
    
