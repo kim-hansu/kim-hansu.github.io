@@ -47,7 +47,7 @@
         </a>
       </h2>
 
-      {% for post in posts limit %}
+      {% for post in posts limit:5 %}
       <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
         <div>
           <span class="tags-post-title">{{ post.title }}</span>
