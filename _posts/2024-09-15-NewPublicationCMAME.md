@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Publication in CMAME"
-permalink: /news/2024-09-15-NewPublicationCMAME
+permalink: /news/research/2024-09-15-NewPublicationCMAME
 tags: Research
 ---
    
