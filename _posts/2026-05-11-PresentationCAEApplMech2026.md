@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation at CAE & Appl Mech 2026"
-permalink: /news/2026-05-11-PresentationCAEApplMech2026
+permalink: /news/notice/2026-05-11-PresentationCAEApplMech2026
 tags: Notice
 ---
 
