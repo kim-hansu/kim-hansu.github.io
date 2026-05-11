@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Invited Presentation at COSEIK 2026"
-permalink: /news/2026-04-17-InvitedPresentationCOSEIK2026
+permalink: /news/notice/2026-04-17-InvitedPresentationCOSEIK2026
 tags: Notice
 ---
 <div style="display: flex; justify-content: center;">
