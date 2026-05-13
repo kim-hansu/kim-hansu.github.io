@@ -18,7 +18,7 @@ tags: Notice
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/e66f33ef-901d-49fd-8139-a521ca9edb5d"
+  <img src="https://github.com/user-attachments/assets/34f856ed-c92e-45b2-ae68-a86f463808cc"
        alt="Presentation at KSME 2025 - 003"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
