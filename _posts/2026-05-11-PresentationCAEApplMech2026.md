@@ -12,13 +12,13 @@ tags: Notice
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/c2558802-8b78-493d-908f-2e20204829a7"
+  <img src="https://github.com/user-attachments/assets/ce70adbb-2cc0-44bf-b985-3dccb4a8b72d"
        alt="Presentations at KSME CAE & Appl Mech 2026 - 002"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/a28ee1e2-03af-4134-97a2-b8eecbad78dc"
+  <img src="https://github.com/user-attachments/assets/2938d168-239c-4a11-a765-fcb3f9bc26e9"
        alt="Presentations at KSME CAE & Appl Mech 2026 - 003"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
