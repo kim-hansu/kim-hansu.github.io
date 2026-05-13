@@ -11,4 +11,4 @@ tags: Research
        style="max-width: 100%; max-height: 50vh; height: auto; width: auto;">
 </div>
 
-Paper entitled "[3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing](https://doi.org/10.1016/j.cma.2024.117357)" has been published in _[Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering).
+Paper entitled "[3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing](https://doi.org/10.1016/j.cma.2024.117357)" has been published in [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering).
