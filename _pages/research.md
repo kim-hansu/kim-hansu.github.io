@@ -4,10 +4,10 @@ title: "Research"
 permalink: /research/
 ---
 # 🌟 Research Interests
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://github.com/user-attachments/assets/737d33fc-8e99-4551-a61e-e586e9d1a13c"
        alt="Research Interests"
-       style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
+       style="max-width: 100%; max-height: 75vh; height: auto; width: auto;">
 </div>
 
 ## Design for Additive Manufacturing
