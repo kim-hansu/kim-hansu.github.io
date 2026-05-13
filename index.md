@@ -6,10 +6,10 @@ permalink: /
 ---
 ## Welcome to the CODE Lab!
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://github.com/user-attachments/assets/bda4e083-9962-47a8-97c4-d1637eb86d70"
        alt="Home"
-       style="max-width: 100%; height: auto; width: auto; max-height: 75vh; object-fit: contain;">
+       style="max-width: 100%; max-height: 75vh; height: auto; width: auto;">
 </div>
 
 The **Computational Optimum DEsign (CODE) Lab (전산최적설계 연구실)** is dedicated to research in design optimization, with a particular emphasis on design for additive manufacturing (DfAM), as well as data-driven design, design for mobility components, and optimization algorithms for artificial neural networks. Our research develops analytical and computational methods to solve practical engineering problems in smart factory systems and related applications.
