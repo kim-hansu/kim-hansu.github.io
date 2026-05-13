@@ -3,12 +3,13 @@ layout: page
 title: "Members"
 permalink: /members/
 ---
+
 # 👨‍🏫 Principal Investigator
 ## [Hansu Kim, Ph.D. (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)<span> · </span>[Bio](https://kim-hansu.github.io/members/hansukim/)
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg"
-       alt="HKim"
-       style="max-width: 100%; height: auto; width: auto; max-height: 35vh; object-fit: contain;">
+       alt="Hansu Kim"
+       style="max-width: 100%; max-height: 35vh; height: auto; width: auto;">
 </div>
 
 ### 🎓 Education
@@ -30,10 +31,10 @@ permalink: /members/
 # 👨‍🎓 Undergraduate Researchers
 ## Minsang Cho (조민상)
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://github.com/user-attachments/assets/b7957176-3571-48ec-b272-458b52c1fda6"
-       alt="MCho"
-       style="max-width: 100%; height: auto; width: auto; max-height: 25vh; object-fit: contain;">
+       alt="Minsang Cho"
+       style="max-width: 100%; max-height: 25vh; height: auto; width: auto;">
 </div>
 
 ### 🎓 Education
@@ -45,10 +46,10 @@ permalink: /members/
 
 ## Geonung Jo (조건웅)
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://github.com/user-attachments/assets/4ca4beb7-e9aa-4ca4-8336-5267a5c6c834"
-       alt="GJo"
-       style="max-width: 100%; height: auto; width: auto; max-height: 25vh; object-fit: contain;">
+       alt="Geonung Jo"
+       style="max-width: 100%; max-height: 25vh; height: auto; width: auto;">
 </div>
 
 ### 🎓 Education
