@@ -23,4 +23,4 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim gave an invited presentation (Early Career Researcher Session) entitled “Design of an Additive Manufactured Aircraft Component Using Topology Optimization” at the [KSDO 2026 Conference](https://ksdo.net/), held at KAIST, Daejeon, Korea. In recognition of this invited presentation, he received a Certificate of Appreciation.
+Prof. Hansu Kim gave an invited presentation (Early Career Researcher Session) entitled “Design of an Additive Manufactured Aircraft Component Using Topology Optimization” at the [KSDO 2026 Conference](https://ksdo.net/), held at KAIST, Daejeon, Korea. In recognition of this invited presentation, he received a Certificate of Appreciation for Early Career Researchers.
