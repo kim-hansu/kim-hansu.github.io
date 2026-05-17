@@ -91,6 +91,8 @@ permalink: /members/hansukim/
 
 [**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)
 
+[**Reviewer**, *Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
+
 [**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
 
 [**Reviewer**, *Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
