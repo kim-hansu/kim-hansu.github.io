@@ -103,6 +103,8 @@ permalink: /members/hansukim/
 
 [**Reviewer**, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
 
+[**Reviewer**, *Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
+
 [**Reviewer**, *Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
 
 [**Reviewer**, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
