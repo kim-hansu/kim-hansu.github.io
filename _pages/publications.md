@@ -60,7 +60,7 @@ permalink: /publications/
 
 16. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
 
-15. Kim S, Kim H, Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
+15. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
 
 14. Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</u>*, May 17–21, 2026, Busan, Korea.
 
