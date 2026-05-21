@@ -116,7 +116,7 @@ Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, 
 ***
 
 ## 🏛️ Teaching Experience
-*Gachon University, Seongnam, Korea*, 2025 - Present
+Gachon University, Seongnam, Korea, 2025 - Present
 * Statics (03874), Undergraduate Course
 * Engineering Graphics (CAD) (14381), Undergraduate Course
 * Introduction to Robotics (15068), Undergraduate Course
@@ -124,11 +124,11 @@ Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, 
 * P-Practical Project (60000), Undergraduate Course
 * Undergraduate Research Project (13647), Undergraduate Course
 
-*Changwon National University, Changwon, Korea*, 2022
+Changwon National University, Changwon, Korea, 2022
 * Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course
 * Big Data Engineering (MNA0082), Undergraduate Course
 
-*Hanyang University, Seoul, Korea*, 2021
+Hanyang University, Seoul, Korea, 2021
 * Design and Analysis of Computational Experiments (AUE8048), Graduate Course
 
 ***
