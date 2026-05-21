@@ -46,6 +46,8 @@ permalink: /members/hansukim/
 ***
 
 # 🏆 Honors & Awards
+**Young Scientist Award**, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
+
 **Outstanding Presentation Award for Early Career Researchers**, *COSEIK 2026 Conference*, April 2026
 
 **Certificate of Appreciation for Early Career Researchers**, *KSDO 2026 Conference*, January 2026
