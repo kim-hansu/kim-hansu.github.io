@@ -20,7 +20,7 @@ permalink: /members/hansukim/
 * Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025 – February 2026
 
 * Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025
-** Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)
+  - Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)
 
 * Assistant Professor, *School of Mechanical Engineering, Smart Manufacturing Major, Changwon National University, Changwon, Korea*, September 2022 – December 2022
 
