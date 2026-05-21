@@ -13,7 +13,7 @@ permalink: /members/
 </div>
 
 ### 🎓 Education
-* **Ph.D.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
+* Ph.D., Department of Automotive Engineering, Hanyang University, Seoul, Korea, August 2021
 * **B.S.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015
 
 ### 📬 Contact
