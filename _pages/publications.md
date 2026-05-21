@@ -20,7 +20,7 @@ permalink: /publications/
 
 9. Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
 
-8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (Special issue for the 14th WCSMO)
+8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (Special issue for the WCSMO-14)
 
 7. Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. [*Knowledge-Based Systems*](https://www.sciencedirect.com/journal/knowledge-based-systems) 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
 
