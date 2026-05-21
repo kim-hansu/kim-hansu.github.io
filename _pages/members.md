@@ -14,7 +14,7 @@ permalink: /members/
 
 ### 🎓 Education
 * Ph.D., Department of Automotive Engineering, Hanyang University, Seoul, Korea, August 2021
-* **B.S.**, *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015
+* B.S., Department of Automotive Engineering, Hanyang University, Seoul, Korea, February 2015
 
 ### 📬 Contact
 * Office: Room 216, College of Engineering 2, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
@@ -38,7 +38,7 @@ permalink: /members/
 </div>
 
 ### 🎓 Education
-* **B.S.**, *Department of Smart Factory, Gachon University, Seongnam, Korea*, Present
+* B.S., Department of Smart Factory, Gachon University, Seongnam, Korea, Present
 
 ### 📬 Contact
 * Lab: Room 326, Vision Tower, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
@@ -53,7 +53,7 @@ permalink: /members/
 </div>
 
 ### 🎓 Education
-* **B.S.**, *Department of Smart Factory, Gachon University, Seongnam, Korea*, Present
+* B.S., Department of Smart Factory, Gachon University, Seongnam, Korea, Present
 
 ### 📬 Contact
 * Lab: Room 326, Vision Tower, Gachon University, 1342 Seongnam-daero, Sujeong-gu, Seongnam 13120, Korea
