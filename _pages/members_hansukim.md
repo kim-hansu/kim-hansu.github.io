@@ -14,8 +14,8 @@ permalink: /members/hansukim/
 
 ***
 
-# 🏛️ Academic Experience
-### Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, March 2026 – Present
+## 🏛️ Academic Experience
+#### Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, March 2026 – Present
 
 ### Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025 – February 2026
 
