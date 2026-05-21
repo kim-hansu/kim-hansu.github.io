@@ -46,43 +46,43 @@ B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, 
 ***
 
 ## 🏆 Honors & Awards
-**Young Scientist Award**, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
+Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
 
-**Outstanding Presentation Award for Early Career Researchers**, *COSEIK 2026 Conference*, April 2026
+Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026
 
-**Certificate of Appreciation for Early Career Researchers**, *KSDO 2026 Conference*, January 2026
+Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026
 
-**Outstanding Paper Award**, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
+Outstanding Paper Award, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
 
-**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
+Outstanding Student Presentation Award, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
 
-**Outstanding Doctoral Dissertation Award**, *Korean Society for Design Optimization (KSDO)*, January 2022
+Outstanding Doctoral Dissertation Award, *Korean Society for Design Optimization (KSDO)*, January 2022
 
-**Outstanding Doctoral Dissertation Award**, *Hanyang University, Seoul, Korea*, August 2021
+Outstanding Doctoral Dissertation Award, *Hanyang University, Seoul, Korea*, August 2021
 
-**Outstanding Student Presentation Award**, *KSME CAE & Applied Mechanics Division 2020 Spring Conference*, August 2020
+Outstanding Student Presentation Award, *KSME CAE & Applied Mechanics Division 2020 Spring Conference*, August 2020
 
-**Outstanding Paper Award**, *KSME 2019 Conference*, August 2020
+Outstanding Paper Award, *KSME 2019 Conference*, August 2020
 
-**Outstanding Paper Award**, *Transactions of the KSME A*, November 2019
+Outstanding Paper Award, *Transactions of the KSME A*, November 2019
 
-**Grand Award**, *1st Future Automobile Outstanding Paper Contest*, October 2019
+Grand Award, *1st Future Automobile Outstanding Paper Contest*, October 2019
 
-**Best Poster Award**, *KSCM-GACM 2018 International Workshop*, October 2018
+Best Poster Award, *KSCM-GACM 2018 International Workshop*, October 2018
 
-**BK21 Plus Scholarship**, *National Research Foundation of Korea*, September 2015 – August 2017 & March 2018 – August 2020
+BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015 – August 2017 & March 2018 – August 2020
 
-**M.S. & Ph.D. Full Scholarship**, *Hanyang University, Seoul, Korea*, March 2015 – February 2016
+M.S. & Ph.D. Full Scholarship, *Hanyang University, Seoul, Korea*, March 2015 – February 2016
 
-***Summa Cum Laude***, *Hanyang University, Seoul, Korea*, February 2015
+*Summa Cum Laude*, *Hanyang University, Seoul, Korea*, February 2015
 
-**Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, October 2014
+Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, October 2014
 
-**Outstanding Award**, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013
+Outstanding Award, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013
 
-**Hanyang Academic Grand Award**, *Hanyang University, Seoul, Korea*, April 2013
+Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, April 2013
 
-**Hanyang Science and Technology Scholarship**, *Hanyang University, Seoul, Korea*, March 2011 – February 2015
+Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, March 2011 – February 2015
 
 ***
 
