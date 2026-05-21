@@ -10,7 +10,7 @@ permalink: /members/hansukim/
        style="max-width: 100%; height: auto; width: auto; max-height: 35vh; object-fit: contain;">
 </div>
 
-**Hansu Kim** is an Assistant Professor in the [Department of Smart Factory](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Prior to joining Gachon University, he was a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen’s University](https://www.queensu.ca/) in Kingston, Canada. He earned his B.S. and Ph.D. degrees in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in February 2015 and August 2021, respectively. His research interests include design optimization, design for additive manufacturing, data-driven design, design for mobility components, and optimization algorithms for artificial neural networks.
+Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Prior to joining Gachon University, he was a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen’s University](https://www.queensu.ca/) in Kingston, Canada. He earned his B.S. and Ph.D. degrees in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in February 2015 and August 2021, respectively. His research interests include design optimization, design for additive manufacturing, data-driven design, design for mobility components, and optimization algorithms for artificial neural networks.
 
 ***
 
@@ -29,15 +29,15 @@ BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Co
 
 ***
 
-# 🎓 Education
-### Ph.D., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
+## 🎓 Education
+Ph.D., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)
 * Outstanding Doctoral Dissertation Award from Hanyang University in Seoul, Korea
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
 * Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)
 
-### B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015
+B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015
 * *Summa Cum Laude*
 * 1st Rank Graduate in the Department of Automotive Engineering
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization
@@ -45,7 +45,7 @@ BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Co
 
 ***
 
-# 🏆 Honors & Awards
+## 🏆 Honors & Awards
 **Young Scientist Award**, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
 
 **Outstanding Presentation Award for Early Career Researchers**, *COSEIK 2026 Conference*, April 2026
@@ -86,37 +86,37 @@ BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Co
 
 ***
 
-# 🖋️ Academic Activities
-[**Academic Director**, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)
+## 🖋️ Academic Activities
+[Academic Director, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)
 
-[**Industry–Academia Collaboration Director**, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)
+[Industry–Academia Collaboration Director, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)
 
-[**Local Organizing Committee**, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)
+[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)
 
-[**Reviewer**, *Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
+[Reviewer, *Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
 
-[**Reviewer**, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
+[Reviewer, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
 
-[**Reviewer**, *Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
+[Reviewer, *Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
 
-[**Reviewer**, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
+[Reviewer, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
 
-[**Reviewer**, *Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
+[Reviewer, *Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
 
-[**Reviewer**, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
+[Reviewer, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
 
-[**Reviewer**, *Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
+[Reviewer, *Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
 
-[**Reviewer**, *Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
+[Reviewer, *Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
 
-[**Reviewer**, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
+[Reviewer, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
 
-[**Reviewer**, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
+[Reviewer, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
 
 ***
 
-# 🏛️ Teaching Experience
-### Gachon University, Seongnam, Korea, 2025 - Present
+## 🏛️ Teaching Experience
+*Gachon University, Seongnam, Korea*, 2025 - Present
 * Statics (03874), Undergraduate Course
 * Engineering Graphics (CAD) (14381), Undergraduate Course
 * Introduction to Robotics (15068), Undergraduate Course
@@ -124,20 +124,20 @@ BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Co
 * P-Practical Project (60000), Undergraduate Course
 * Undergraduate Research Project (13647), Undergraduate Course
 
-### Changwon National University, Changwon, Korea, 2022
+*Changwon National University, Changwon, Korea*, 2022
 * Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course
 * Big Data Engineering (MNA0082), Undergraduate Course
 
-### Hanyang University, Seoul, Korea, 2021
+*Hanyang University, Seoul, Korea*, 2021
 * Design and Analysis of Computational Experiments (AUE8048), Graduate Course
 
 ***
 
-# 🗣️ Invited Presentations
-**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization**, *9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026), Jeju, Korea*, November 2026
+## 🗣️ Invited Presentations
+Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.
 
-**Decomposition Optimization and Multi-material Design for Additive Manufacturing**, *COSEIK 2026 Conference, Gwangju, Korea*, April 2026
+Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.
 
-**Design of an Additive Manufactured Aircraft Component Using Topology Optimization**, *KSDO 2026 Conference, Daejeon, Korea*, January 2026
+Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.
 
-**Design for Additive Manufacturing: From Topology Optimization toward Generative AI**, *Department of Mechanical and Robotics Engineering, GIST, Gwangju, Korea*, September 2025
+Design for additive manufacturing: From topology optimization toward generative AI, *<u>Department of Mechanical and Robotics Engineering, GIST</u>*, September 25, 2025, Gwangju, Korea.
