@@ -97,9 +97,9 @@ permalink: /publications/
 
 30. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
 
-29. Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea. (Invited Presentation)
+29. Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea. (Invited Presentation) (Outstanding Presentation Award for Early Career Researchers)
 
-28. Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea. (Invited Presentation)
+28. Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea. (Invited Presentation) (Certificate of Appreciation for Early Career Researchers)
 
 27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
 
@@ -113,7 +113,7 @@ permalink: /publications/
 
 22. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>KSCM 2022 Conference</u>*, June 22–24, 2022, Pyeongchang, Korea.
 
-21. Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
+21. Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea. (Outstanding Paper Award)
 
 20. Kim H, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference) (Outstanding Student Presentation Award)
 
