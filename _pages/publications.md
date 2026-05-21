@@ -45,7 +45,7 @@ permalink: /publications/
 
 4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
 
-3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Outstanding Paper Award & Recommended from KSME)
+3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Recommended from KSME & Outstanding Paper Award)
 
 2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) (Recommended from KSME)
 
