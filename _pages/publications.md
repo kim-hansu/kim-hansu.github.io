@@ -45,7 +45,7 @@ permalink: /publications/
 
 4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
 
-3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Recommended by KSME; Outstanding Paper Award)
+3. Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Recommended by KSME; Outstanding Paper Award)
 
 2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) (Recommended by KSME)
 
@@ -137,7 +137,7 @@ permalink: /publications/
 
 10. Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>CDE 2018 Winter Conference</u>*, January 23–26, 2018, Hoengseong, Korea.
 
-9. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
+9. Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
 
 8. Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. *<u>KIMST 2017 Conference</u>*, June 8–9, 2017, Jeju, Korea.
 
