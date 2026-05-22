@@ -79,21 +79,21 @@ permalink: /members/hansukim/
 **[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**
 
 **Reviewer**
-* [Reviewer, *Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
-* [Reviewer, *IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
-* [Reviewer, *Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
-* [Reviewer, *Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
-* [Reviewer, *Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
-* [Reviewer, *Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
-* [Reviewer, *Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
-* [Reviewer, *Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
-* [Reviewer, *Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
-* [Reviewer, *Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
+* [*Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
+* [*IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
+* [*Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
+* [*Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
+* [*Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
+* [*Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
+* [*Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
+* [*Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
+* [*Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
+* [*Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
 
 ***
 
 ## 🏛️ Teaching Experience
-**Gachon University, Seongnam, Korea, 2025 - Present**
+**Gachon University, Seongnam, Korea, 2025 – Present**
 * Statics (03874), Undergraduate Course
 * Engineering Graphics (CAD) (14381), Undergraduate Course
 * Introduction to Robotics (15068), Undergraduate Course
