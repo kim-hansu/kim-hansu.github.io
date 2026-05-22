@@ -20,7 +20,7 @@ permalink: /publications/
 
 9. Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
 
-8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (Special issue for the WCSMO-14)
+8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (Special issue for WCSMO-14)
 
 7. Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. [*Knowledge-Based Systems*](https://www.sciencedirect.com/journal/knowledge-based-systems) 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
 
@@ -41,13 +41,13 @@ permalink: /publications/
 # 📄 Korean Journal Papers
 6. Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 49(10):761–775. [https://doi.org/10.3795/KSME-A.2025.49.10.761](https://doi.org/10.3795/KSME-A.2025.49.10.761)
 
-5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) (Recommended from KSME)
+5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 45(2):141–148. [https://doi.org/10.3795/KSME-A.2021.45.2.141](https://doi.org/10.3795/KSME-A.2021.45.2.141) (Recommended by KSME)
 
 4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 27(4):245–251. [https://doi.org/10.7467/KSAE.2019.27.4.245](https://doi.org/10.7467/KSAE.2019.27.4.245)
 
-3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Recommended from KSME & Outstanding Paper Award)
+3. Kim H, Kim S, Kim, T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 42(4):353–361. [https://doi.org/10.3795/KSME-A.2018.42.4.353](https://doi.org/10.3795/KSME-A.2018.42.4.353) (Recommended by KSME & Outstanding Paper Award)
 
-2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) (Recommended from KSME)
+2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. [*Transactions of the Korean Society of Mechanical Engineers A*](http://journal.ksme.or.kr/) 41(9):817–823. [https://doi.org/10.3795/KSME-A.2017.41.9.817](https://doi.org/10.3795/KSME-A.2017.41.9.817) (Recommended by KSME)
 
 1. Song Y, Kim H, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on nonlinear tire model. [*Transactions of the Korean Society of Automotive Engineers*](http://journal.ksae.org/) 24(6):730–736. [https://doi.org/10.7467/KSAE.2016.24.6.730](https://doi.org/10.7467/KSAE.2016.24.6.730)
 
@@ -97,9 +97,9 @@ permalink: /publications/
 
 30. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
 
-29. Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea. (Invited Presentation) (Outstanding Presentation Award for Early Career Researchers)
+29. Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea. (Invited Presentation; Outstanding Presentation Award for Early Career Researchers)
 
-28. Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea. (Invited Presentation) (Certificate of Appreciation for Early Career Researchers)
+28. Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea. (Invited Presentation; Certificate of Appreciation for Early Career Researchers)
 
 27. Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
 
@@ -115,7 +115,7 @@ permalink: /publications/
 
 21. Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea. (Outstanding Paper Award)
 
-20. Kim H, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference) (Outstanding Student Presentation Award)
+20. Kim H, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference; Outstanding Student Presentation Award)
 
 19. Kim T, Kim H, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference)
 
