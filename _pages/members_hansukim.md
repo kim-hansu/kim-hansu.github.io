@@ -78,7 +78,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 
 **[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**
 
-**Reviewer**
+**Reviewer for Peer-reviewed Journal including:**
 * [*Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
 * [*IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
 * [*Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
