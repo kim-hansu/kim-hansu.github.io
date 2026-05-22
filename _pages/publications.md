@@ -20,7 +20,7 @@ permalink: /publications/
 
 9. Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:353. [https://doi.org/10.1007/s00158-022-03374-y](https://doi.org/10.1007/s00158-022-03374-y)
 
-8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (Special issue for WCSMO-14)
+8. Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. [*Structural and Multidisciplinary Optimization*](https://www.springer.com/journal/158) 65:258. [https://doi.org/10.1007/s00158-022-03356-0](https://doi.org/10.1007/s00158-022-03356-0) (WCSMO-14 Special Issue)
 
 7. Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. [*Knowledge-Based Systems*](https://www.sciencedirect.com/journal/knowledge-based-systems) 225:107117. [https://doi.org/10.1016/j.knosys.2021.107117](https://doi.org/10.1016/j.knosys.2021.107117)
 
@@ -28,7 +28,7 @@ permalink: /publications/
 
 5. Kwon K, Seo M, Kim H, Lee TH, Lee J, Min S* (2020) Multi-objective optimisation of hydro-pneumatic suspension with gas-oil emulsion for heavy-duty vehicles. [*Vehicle System Dynamics*](https://www.tandfonline.com/journals/nvsd20) 58(7):1146–1165. [https://doi.org/10.1080/00423114.2019.1609050](https://doi.org/10.1080/00423114.2019.1609050)
 
-4. Kim H, Lee TH,* Song Y, Huh K (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. [*Vehicle System Dynamics*](https://www.tandfonline.com/journals/nvsd20) 58(6):987–1005. [https://doi.org/10.1080/00423114.2019.1627375](https://doi.org/10.1080/00423114.2019.1627375) (Grand Award from the 1st Future Automobile Outstanding Paper Contest)
+4. Kim H, Lee TH,* Song Y, Huh K (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. [*Vehicle System Dynamics*](https://www.tandfonline.com/journals/nvsd20) 58(6):987–1005. [https://doi.org/10.1080/00423114.2019.1627375](https://doi.org/10.1080/00423114.2019.1627375) (Grand Award, 1st Future Automobile Outstanding Paper Contest)
 
 3. Lim J, Kim H, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and experimental analysis of potential causes degrading contact resistances and forces of sensor connectors for vehicles. [*IEEE Access*](https://ieeeaccess.ieee.org/) 7:126530–126538. [https://doi.org/10.1109/ACCESS.2019.2939377](https://doi.org/10.1109/ACCESS.2019.2939377)
 
