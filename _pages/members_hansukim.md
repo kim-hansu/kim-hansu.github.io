@@ -41,7 +41,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * *Summa Cum Laude*
 * 1st Rank Graduate in the Department of Automotive Engineering
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization
-* Advisors: Profs. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)
+* Advisors: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)
 
 ***
 
