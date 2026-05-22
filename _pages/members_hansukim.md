@@ -90,6 +90,18 @@ permalink: /members/hansukim/
 * [*Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
 * [*Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
 
+
+***
+
+## 🗣️ Invited Presentations
+**Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.**
+
+**Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
+
+**Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.**
+
+**Design for additive manufacturing: From topology optimization toward generative AI, *<u>Department of Mechanical and Robotics Engineering, GIST</u>*, September 25, 2025, Gwangju, Korea.**
+
 ***
 
 ## 🏛️ Teaching Experience
@@ -107,14 +119,3 @@ permalink: /members/hansukim/
 
 **Hanyang University, Seoul, Korea, 2021**
 * Design and Analysis of Computational Experiments (AUE8048), Graduate Course
-
-***
-
-## 🗣️ Invited Presentations
-**Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.**
-
-**Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
-
-**Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.**
-
-**Design for additive manufacturing: From topology optimization toward generative AI, *<u>Department of Mechanical and Robotics Engineering, GIST</u>*, September 25, 2025, Gwangju, Korea.**
