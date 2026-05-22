@@ -74,9 +74,9 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ## 🖋️ Academic Activities
 **[Academic Director, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)**
 
-**[Industry–Academia Collaboration Director, *Korean Society of Mechanical Engineers (KSME), CAE & Applied Mechanics Division*](https://ksme.or.kr/)**
+**[Industry–Academia Collaboration Director, *Korean Society of Mechanical Engineers (KSME) CAE & Applied Mechanics Division*](https://ksme.or.kr/)**
 
-**[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**
+**[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*(http://assmo.org/)**
 
 **Reviewer for Peer-Reviewed Journals including:**
 * [Big Data Research, *Elsevier*](https://www.sciencedirect.com/journal/big-data-research)
