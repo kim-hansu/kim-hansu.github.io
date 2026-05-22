@@ -46,7 +46,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏆 Honors & Awards
-**Professional Career**
+**Academic Career**
 * Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
 * Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026
 * Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026
@@ -79,16 +79,16 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 **[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, Asian Society for Structural and Multidisciplinary Optimization (ASSMO)](http://assmo.org/)**
 
 **Reviewer for Peer-Reviewed Journals including:**
-* [*Big Data Research*, Elsevier](https://www.sciencedirect.com/journal/big-data-research)
-* [*IEEE Access*, Institute of Electrical and Electronics Engineers (IEEE)](https://ieeeaccess.ieee.org/)
-* [*Journal of Computational Design and Engineering*, Oxford University Press](https://academic.oup.com/jcde)
-* [*Journal of Mechanical Science and Technology*, Springer](https://www.springer.com/journal/12206)
-* [*Knowledge-Based Systems*, Elsevier](https://www.sciencedirect.com/journal/knowledge-based-systems)
-* [*Mechanics Based Design of Structures and Machines*, Taylor & Francis](https://www.tandfonline.com/journals/lmbd20)
-* [*Neurocomputing*, Elsevier](https://www.sciencedirect.com/journal/neurocomputing)
-* [*Pattern Recognition*, Elsevier](https://www.sciencedirect.com/journal/pattern-recognition)
-* [*Structural and Multidisciplinary Optimization*, Springer](https://www.springer.com/journal/158/)
-* [*Transactions of the KSME*, Korean Society of Mechanical Engineers (KSME)](http://journal.ksme.or.kr/)
+* [Big Data Research, *Elsevier*](https://www.sciencedirect.com/journal/big-data-research)
+* [IEEE Access, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)
+* [Journal of Computational Design and Engineering, *Oxford University Press*](https://academic.oup.com/jcde)
+* [Journal of Mechanical Science and Technology, *Springer*](https://www.springer.com/journal/12206)
+* [Knowledge-Based Systems, *Elsevier*](https://www.sciencedirect.com/journal/knowledge-based-systems)
+* [Mechanics Based Design of Structures and Machines, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)
+* [Neurocomputing, *Elsevier*](https://www.sciencedirect.com/journal/neurocomputing)
+* [Pattern Recognition, *Elsevier*](https://www.sciencedirect.com/journal/pattern-recognition)
+* [Structural and Multidisciplinary Optimization, *Springer*](https://www.springer.com/journal/158/)
+* [Transactions of the KSME, *Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)
 
 
 ***
