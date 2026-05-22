@@ -15,16 +15,16 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏛️ Academic Experience
-**Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, March 2026 – Present**
+**Assistant Professor, *Department of Smart Factory, Gachon University, Seongnam, Korea*, March 2026–Present**
 
-**Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025 – February 2026**
+**Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025–February 2026**
 
-**Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023 – January 2025**
+**Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023–January 2025**
 * Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)
 
-**Assistant Professor, *School of Mechanical Engineering, Smart Manufacturing Major, Changwon National University, Changwon, Korea*, September 2022 – December 2022**
+**Assistant Professor, *School of Mechanical Engineering, Smart Manufacturing Major, Changwon National University, Changwon, Korea*, September 2022–December 2022**
 
-**BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021 – August 2022**
+**BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021–August 2022**
 * Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
 
 ***
@@ -61,13 +61,13 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * Outstanding Paper Award, *Transactions of the KSME A*, November 2019
 * Grand Award, *1st Future Automobile Outstanding Paper Contest*, October 2019
 * Best Poster Award, *KSCM-GACM 2018 International Workshop*, October 2018
-* BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015 – August 2017 & March 2018 – August 2020
-* M.S. & Ph.D. Full Scholarship, *Hanyang University, Seoul, Korea*, March 2015 – February 2016
+* BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015–August 2017 & March 2018–August 2020
+* M.S. & Ph.D. Full Scholarship, *Hanyang University, Seoul, Korea*, March 2015–February 2016
 * *Summa Cum Laude*, *Hanyang University, Seoul, Korea*, February 2015
 * Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, October 2014
 * Outstanding Award, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013
 * Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, April 2013
-* Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, March 2011 – February 2015
+* Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, March 2011–February 2015
 
 ***
 
@@ -105,7 +105,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏛️ Teaching Experience
-**Gachon University, Seongnam, Korea, 2025 – Present**
+**Gachon University, Seongnam, Korea, 2025–Present**
 * Statics (03874), Undergraduate Course
 * Engineering Graphics (CAD) (14381), Undergraduate Course
 * Introduction to Robotics (15068), Undergraduate Course
