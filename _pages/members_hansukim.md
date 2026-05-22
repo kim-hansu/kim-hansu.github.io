@@ -61,7 +61,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * Outstanding Paper Award, *Transactions of the KSME A*, November 2019
 * Grand Award, *1st Future Automobile Outstanding Paper Contest*, October 2019
 * Best Poster Award, *KSCM-GACM 2018 International Workshop*, October 2018
-* BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015–August 2017 & March 2018–August 2020
+* BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015–August 2020
 * M.S. & Ph.D. Full Scholarship, *Hanyang University, Seoul, Korea*, March 2015–February 2016
 * *Summa Cum Laude*, *Hanyang University, Seoul, Korea*, February 2015
 * Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, October 2014
