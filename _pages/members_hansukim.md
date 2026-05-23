@@ -46,12 +46,12 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏆 Honors & Awards
-**Academic Career**
+**Post-PhD**
 * Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
 * Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026
 * Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026
 
-**Student & Graduate Research**
+**Pre-PhD**
 * Outstanding Paper Award, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
 * Outstanding Student Presentation Award, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
 * Outstanding Doctoral Dissertation Award, *Korean Society for Design Optimization (KSDO)*, January 2022
