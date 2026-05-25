@@ -125,6 +125,8 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
       </li>
    </ul>
 
+<br>
+
    <p><strong>Hanyang University</strong>, Seoul, Korea, 2021</p>
    <ul>
       <li>
