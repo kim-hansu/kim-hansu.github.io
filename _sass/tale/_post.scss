@@ -68,7 +68,7 @@ details.view-more summary {
   display: inline-block;
   font-weight: 600;
   color: $blue;
-  padding: 0.15rem 0.35rem;
+  padding: 0.15rem 0.35rem 0.15rem 0;
   border-radius: 4px;
   list-style: none;
   text-decoration: none;
@@ -115,7 +115,7 @@ details.view-more[open] summary:hover {
 details.view-more ul {
   margin-top: 0.5rem;
   margin-bottom: 0.75rem;
-  padding-left: 0rem;
+  padding-left: 1.4rem;
 }
 
 details.view-more li {
