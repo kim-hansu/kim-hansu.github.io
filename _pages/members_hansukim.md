@@ -46,27 +46,65 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏆 Honors & Awards
-* Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
-* Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026
-* Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026
+**Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026**
 
-**Pre-PhD**
-* Outstanding Paper Award, *KSME CAE & Applied Mechanics Division 2022 Spring Conference*, May 2023
-* Outstanding Student Presentation Award, *KSME CAE & Applied Mechanics Division 2021 Spring Conference*, May 2022
-* Outstanding Doctoral Dissertation Award, *Korean Society for Design Optimization (KSDO)*, January 2022
-* Outstanding Doctoral Dissertation Award, *Hanyang University, Seoul, Korea*, August 2021
-* Outstanding Student Presentation Award, *KSME CAE & Applied Mechanics Division 2020 Spring Conference*, August 2020
-* Outstanding Paper Award, *KSME 2019 Conference*, August 2020
-* Outstanding Paper Award, *Transactions of the KSME A*, November 2019
-* Grand Award, *1st Future Automobile Outstanding Paper Contest*, October 2019
-* Best Poster Award, *KSCM-GACM 2018 International Workshop*, October 2018
-* BK21 Plus Scholarship, *National Research Foundation of Korea*, September 2015–August 2020
-* M.S. & Ph.D. Full Scholarship, *Hanyang University, Seoul, Korea*, March 2015–February 2016
-* *Summa Cum Laude*, *Hanyang University, Seoul, Korea*, February 2015
-* Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, October 2014
-* Outstanding Award, *2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea*, December 2013
-* Hanyang Academic Grand Award, *Hanyang University, Seoul, Korea*, April 2013
-* Hanyang Science and Technology Scholarship, *Hanyang University, Seoul, Korea*, March 2011–February 2015
+**Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026**
+
+**Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026**
+
+<details class="view-more">
+   <summary>View More</summary>
+   <ul>
+      <li>
+         Outstanding Paper Award, <em>KSME CAE & Applied Mechanics Division 2022 Spring Conference</em>, May 2023
+      </li>
+      <li>
+         Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2021 Spring Conference</em>, May 2022
+      </li>
+      <li>
+         Outstanding Doctoral Dissertation Award, <em>Korean Society for Design Optimization (KSDO)</em>, January 2022
+      </li>
+      <li>
+         Outstanding Doctoral Dissertation Award, <em>Hanyang University, Seoul, Korea</em>, August 2021
+      </li>
+      <li>
+         Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2020 Spring Conference</em>, August 2020
+      </li>
+      <li>
+         Outstanding Paper Award, <em>KSME 2019 Conference</em>, August 2020
+      </li>
+      <li>
+         Outstanding Paper Award, <em>Transactions of the KSME A</em>, November 2019
+      </li>
+      <li>
+         Grand Award, <em>1st Future Automobile Outstanding Paper Contest</em>, October 2019
+      </li>
+      <li>
+         Best Poster Award, <em>KSCM-GACM 2018 International Workshop</em>, October 2018
+      </li>
+      <li>
+         BK21 Plus Scholarship, <em>National Research Foundation of Korea</em>, September 2015–August 2020
+      </li>
+      <li>
+         M.S. & Ph.D. Full Scholarship, <em>Hanyang University, Seoul, Korea</em>, March 2015–February 2016
+      </li>
+      <li>
+         <em>Summa Cum Laude</em>, <em>Hanyang University, Seoul, Korea</em>, February 2015
+      </li>
+      <li>
+         Hanyang Academic Grand Award, <em>Hanyang University, Seoul, Korea</em>, October 2014
+      </li>
+      <li>
+         Outstanding Award, <em>2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea</em>, December 2013
+      </li>
+      <li>
+         Hanyang Academic Grand Award, <em>Hanyang University, Seoul, Korea</em>, April 2013
+      </li>
+      <li>
+         Hanyang Science and Technology Scholarship, <em>Hanyang University, Seoul, Korea</em>, March 2011–February 2015
+      </li>
+   </ul>
+</details>
 
 ***
 
