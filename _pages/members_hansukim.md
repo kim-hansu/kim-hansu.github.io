@@ -82,57 +82,56 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
    <ul>
       <li>
          <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank">
-            Big Data Research
-         </a>, <em>Elsevier</em>
+            Big Data Research, <em>Elsevier</em>
+         </a>
       </li>
       <li>
          <a href="https://ieeeaccess.ieee.org/" target="_blank">
-            IEEE Access
-         </a>, <em>Institute of Electrical and Electronics Engineers (IEEE)</em>
+            IEEE Access, <em>Institute of Electrical and Electronics Engineers (IEEE)</em>
+         </a>
       </li>
       <li>
          <a href="https://academic.oup.com/jcde" target="_blank">
-            Journal of Computational Design and Engineering
-         </a>, <em>Oxford University Press</em>
+            Journal of Computational Design and Engineering, <em>Oxford University Press</em>
+         </a>
       </li>
       <li>
          <a href="https://www.springer.com/journal/12206" target="_blank">
-            Journal of Mechanical Science and Technology
-         </a>, <em>Springer</em>
+            Journal of Mechanical Science and Technology, <em>Springer</em>
+         </a>
       </li>
       <li>
          <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank">
-            Knowledge-Based Systems
-         </a>, <em>Elsevier</em>
+            Knowledge-Based Systems, <em>Elsevier</em>
+         </a>
       </li>
       <li>
          <a href="https://www.tandfonline.com/journals/lmbd20" target="_blank">
-            Mechanics Based Design of Structures and Machines
-         </a>, <em>Taylor & Francis</em>
+            Mechanics Based Design of Structures and Machines, <em>Taylor & Francis</em>
+         </a>
       </li>
       <li>
          <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank">
-            Neurocomputing
-         </a>, <em>Elsevier</em>
+            Neurocomputing, <em>Elsevier</em>
+         </a>
       </li>
       <li>
          <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank">
-            Pattern Recognition
-         </a>, <em>Elsevier</em>
+            Pattern Recognition, <em>Elsevier</em>
+         </a>
       </li>
       <li>
          <a href="https://www.springer.com/journal/158/" target="_blank">
-            Structural and Multidisciplinary Optimization
-         </a>, <em>Springer</em>
+            Structural and Multidisciplinary Optimization, <em>Springer</em>
+         </a>
       </li>
       <li>
          <a href="http://journal.ksme.or.kr/" target="_blank">
-            Transactions of the KSME
-         </a>, <em>Korean Society of Mechanical Engineers (KSME)</em>
+            Transactions of the KSME, <em>Korean Society of Mechanical Engineers (KSME)</em>
+         </a>
       </li>
    </ul>
 </details>
-
 
 ***
 
