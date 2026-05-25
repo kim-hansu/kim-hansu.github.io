@@ -161,7 +161,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 
 <details class="view-more">
    <summary>View More</summary>
-   <p><strong>Changwon National University</strong>, Changwon, Korea, 2022</p>
+   <p><strong>Changwon National University, Changwon, Korea, 2022</strong></p>
    <ul>
       <li>
          Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course
@@ -170,7 +170,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
          Big Data Engineering (MNA0082), Undergraduate Course
       </li>
    </ul>
-   <p><strong>Hanyang University</strong>, Seoul, Korea, 2021</p>
+   <p><strong>Hanyang University, Seoul, Korea, 2021</strong></p>
    <ul>
       <li>
          Design and Analysis of Computational Experiments (AUE8048), Graduate Course
