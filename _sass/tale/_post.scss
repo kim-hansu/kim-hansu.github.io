@@ -66,6 +66,7 @@
 details.view-more summary {
   cursor: pointer;
   display: inline-block;
+  align-items: center;
   font-weight: 600;
   color: $blue;
   padding: 0.15rem 0.35rem 0.15rem 0rem;
@@ -93,7 +94,6 @@ details.view-more summary::before {
   font-weight: 700;
   display: inline-block;
   line-height: 1;
-  vertical-align: middle;
   position: relative;
   top: -0.08em;
   left: -0.17em;
