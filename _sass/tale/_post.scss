@@ -88,6 +88,8 @@ details.view-more summary::before {
   content: "▶";
   color: $blue;
   margin-right: 0.55rem;
+  width: 1em;
+  text-align: center;
   font-size: 1em;
   font-weight: 700;
   display: inline-block;
