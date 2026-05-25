@@ -60,7 +60,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
    <p><strong>Outstanding Doctoral Dissertation Award, <em>Hanyang University, Seoul, Korea</em>, August 2021</strong></p>
    <p><strong>Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2020 Spring Conference</em>, August 2020</strong></p>
    <p><strong>Outstanding Paper Award</strong>, <em>KSME 2019 Conference</em>, August 2020</p>
-   <p>Outstanding Paper Award</strong>, <em>Transactions of the KSME A</em>, November 2019</strong></p>
+   <p><strong>Outstanding Paper Award, <em>Transactions of the KSME A</em>, November 2019</strong></p>
    <p><strong>Grand Award, <em>1st Future Automobile Outstanding Paper Contest</em>, October 2019</strong></p>
    <p><strong>Best Poster Award, <em>KSCM-GACM 2018 International Workshop</em>, October 2018</strong></p>
    <p><strong>BK21 Plus Scholarship, <em>National Research Foundation of Korea</em>, September 2015–August 2020</strong></p>
