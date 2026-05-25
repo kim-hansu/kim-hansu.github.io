@@ -97,6 +97,7 @@ details.view-more summary::before {
   vertical-align: middle;
   position: relative;
   top: -0.08em;
+  transform-origin: center;
   transition: transform 0.2s ease;
 }
 
