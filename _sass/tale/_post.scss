@@ -63,7 +63,7 @@
   }
 }
 
-details.rep-papers summary {
+details.view-more summary {
   cursor: pointer;
   display: inline-block;
   font-weight: 600;
@@ -75,16 +75,16 @@ details.rep-papers summary {
   transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
-details.rep-papers summary:hover {
+details.view-more summary:hover {
   color: $blue;
   text-decoration: underline;
 }
 
-details.rep-papers summary::-webkit-details-marker {
+details.view-more summary::-webkit-details-marker {
   display: none;
 }
 
-details.rep-papers summary::before {
+details.view-more summary::before {
   content: "▸";
   color: $blue;
   margin-right: 0.55rem;
@@ -97,41 +97,41 @@ details.rep-papers summary::before {
   top: -0.08em;
 }
 
-details.rep-papers[open] summary::before {
+details.view-more[open] summary::before {
   content: "▾";
   top: -0.04em;
 }
 
-details.rep-papers[open] summary {
+details.view-more[open] summary {
   color: $blue;
   margin-bottom: 0.5rem;
   text-decoration: none;
 }
 
-details.rep-papers[open] summary:hover {
+details.view-more[open] summary:hover {
   text-decoration: underline;
 }
 
-details.rep-papers ul {
+details.view-more ul {
   margin-top: 0.5rem;
   margin-bottom: 0.75rem;
   padding-left: 1.4rem;
 }
 
-details.rep-papers li {
+details.view-more li {
   margin-bottom: 0.6rem;
   line-height: 1.55;
 }
 
-details.rep-papers li:last-child {
+details.view-more li:last-child {
   margin-bottom: 0;
 }
 
-details.rep-papers li a {
+details.view-more li a {
   margin-left: 0.2rem;
 }
 
-details.rep-papers a {
+details.view-more a {
   white-space: nowrap;
 }
 
