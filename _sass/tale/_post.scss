@@ -108,18 +108,6 @@ details.view-more[open] summary::before {
   left: -0.2em;
 }
 
-/* Mobile only */
-@media (max-width: 768px) {
-  /* closed */
-  details.view-more summary::before {
-    top: -0.08em;
-  }
-  /* open */
-  details.view-more[open] summary::before {
-    top: 0.02em;
-  }
-}
-
 details.view-more[open] summary {
   color: $blue;
   margin-bottom: 0.5rem;
