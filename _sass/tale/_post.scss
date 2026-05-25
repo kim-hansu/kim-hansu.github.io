@@ -87,8 +87,8 @@ details.view-more summary::-webkit-details-marker {
 details.view-more summary::before {
   content: "▸";
   color: $blue;
-  width: 0em;
-  margin-right: 0.55rem;
+  width: 0.85em;
+  margin-right: 0.25rem;
   font-size: 2em;
   font-weight: 700;
   text-align: center;
