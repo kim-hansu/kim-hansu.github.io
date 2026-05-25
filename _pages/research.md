@@ -15,7 +15,7 @@ permalink: /research/
 * ### Decomposition Optimization
 * ### Multi-material and Cost-effective Structures
 
-<details class="rep-papers">
+<details class="view-more">
    <summary>Representative Papers</summary>
    <ul>
       <li>
@@ -33,7 +33,7 @@ permalink: /research/
 * ### Global Predictive Model
 * ### Physics-informed Machine Learning
 
-<details class="rep-papers">
+<details class="view-more">
    <summary>Representative Papers</summary>
    <ul>
       <li>
@@ -54,7 +54,7 @@ permalink: /research/
 * ### Crashworthiness Certification
 * ### Accelerated Life Testing
 
-<details class="rep-papers">
+<details class="view-more">
    <summary>Representative Papers</summary>
    <ul>
       <li>
@@ -72,7 +72,7 @@ permalink: /research/
 * ### Intelligent Robotic Grasping
 * ### Digital Twin Systems
 
-<details class="rep-papers">
+<details class="view-more">
    <summary>Representative Papers</summary>
    <ul>
       <li>
