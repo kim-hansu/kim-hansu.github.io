@@ -112,7 +112,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * P-Practical Project (60000), Undergraduate Course
 * Undergraduate Research Project (13647), Undergraduate Course
 
-<details class="teaching-experience">
+<details class="view-more">
    <summary>View More</summary>
 
    <p><strong>Changwon National University</strong>, Changwon, Korea, 2022</p>
