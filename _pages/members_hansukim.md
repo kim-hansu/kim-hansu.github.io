@@ -77,17 +77,61 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 
 **[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*](http://assmo.org/)**
 
-**Reviewer for Peer-Reviewed Journals including:**
-* [Big Data Research, *Elsevier*](https://www.sciencedirect.com/journal/big-data-research)
-* [IEEE Access, *Institute of Electrical and Electronics Engineers (IEEE)*](https://ieeeaccess.ieee.org/)
-* [Journal of Computational Design and Engineering, *Oxford University Press*](https://academic.oup.com/jcde)
-* [Journal of Mechanical Science and Technology, *Springer*](https://www.springer.com/journal/12206)
-* [Knowledge-Based Systems, *Elsevier*](https://www.sciencedirect.com/journal/knowledge-based-systems)
-* [Mechanics Based Design of Structures and Machines, *Taylor & Francis*](https://www.tandfonline.com/journals/lmbd20)
-* [Neurocomputing, *Elsevier*](https://www.sciencedirect.com/journal/neurocomputing)
-* [Pattern Recognition, *Elsevier*](https://www.sciencedirect.com/journal/pattern-recognition)
-* [Structural and Multidisciplinary Optimization, *Springer*](https://www.springer.com/journal/158/)
-* [Transactions of the KSME, *Korean Society of Mechanical Engineers (KSME)*](http://journal.ksme.or.kr/)
+<details class="view-more">
+   <summary>Reviewer for Peer-Reviewed Journals including:</summary>
+   <ul>
+      <li>
+         <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank">
+            Big Data Research
+         </a>, <em>Elsevier</em>
+      </li>
+      <li>
+         <a href="https://ieeeaccess.ieee.org/" target="_blank">
+            IEEE Access
+         </a>, <em>Institute of Electrical and Electronics Engineers (IEEE)</em>
+      </li>
+      <li>
+         <a href="https://academic.oup.com/jcde" target="_blank">
+            Journal of Computational Design and Engineering
+         </a>, <em>Oxford University Press</em>
+      </li>
+      <li>
+         <a href="https://www.springer.com/journal/12206" target="_blank">
+            Journal of Mechanical Science and Technology
+         </a>, <em>Springer</em>
+      </li>
+      <li>
+         <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank">
+            Knowledge-Based Systems
+         </a>, <em>Elsevier</em>
+      </li>
+      <li>
+         <a href="https://www.tandfonline.com/journals/lmbd20" target="_blank">
+            Mechanics Based Design of Structures and Machines
+         </a>, <em>Taylor & Francis</em>
+      </li>
+      <li>
+         <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank">
+            Neurocomputing
+         </a>, <em>Elsevier</em>
+      </li>
+      <li>
+         <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank">
+            Pattern Recognition
+         </a>, <em>Elsevier</em>
+      </li>
+      <li>
+         <a href="https://www.springer.com/journal/158/" target="_blank">
+            Structural and Multidisciplinary Optimization
+         </a>, <em>Springer</em>
+      </li>
+      <li>
+         <a href="http://journal.ksme.or.kr/" target="_blank">
+            Transactions of the KSME
+         </a>, <em>Korean Society of Mechanical Engineers (KSME)</em>
+      </li>
+   </ul>
+</details>
 
 
 ***
@@ -114,7 +158,6 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 
 <details class="view-more">
    <summary>View More</summary>
-
    <p><strong>Changwon National University</strong>, Changwon, Korea, 2022</p>
    <ul>
       <li>
@@ -124,14 +167,10 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
          Big Data Engineering (MNA0082), Undergraduate Course
       </li>
    </ul>
-
-<br>
-
    <p><strong>Hanyang University</strong>, Seoul, Korea, 2021</p>
    <ul>
       <li>
          Design and Analysis of Computational Experiments (AUE8048), Graduate Course
       </li>
    </ul>
-
 </details>
