@@ -46,7 +46,6 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏆 Honors & Awards
-**Post-PhD**
 * Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026
 * Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026
 * Certificate of Appreciation for Early Career Researchers, *KSDO 2026 Conference*, January 2026
@@ -113,9 +112,24 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * P-Practical Project (60000), Undergraduate Course
 * Undergraduate Research Project (13647), Undergraduate Course
 
-**Changwon National University, Changwon, Korea, 2022**
-* Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course
-* Big Data Engineering (MNA0082), Undergraduate Course
+<details class="teaching-experience">
+   <summary>View More</summary>
 
-**Hanyang University, Seoul, Korea, 2021**
-* Design and Analysis of Computational Experiments (AUE8048), Graduate Course
+   <p><strong>Changwon National University</strong>, Changwon, Korea, 2022</p>
+   <ul>
+      <li>
+         Manufacturing Artificial Intelligence (SMA0001), Undergraduate Course
+      </li>
+      <li>
+         Big Data Engineering (MNA0082), Undergraduate Course
+      </li>
+   </ul>
+
+   <p><strong>Hanyang University</strong>, Seoul, Korea, 2021</p>
+   <ul>
+      <li>
+         Design and Analysis of Computational Experiments (AUE8048), Graduate Course
+      </li>
+   </ul>
+
+</details>
