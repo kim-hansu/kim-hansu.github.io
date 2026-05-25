@@ -54,22 +54,22 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 
 <details class="view-more">
    <summary>View More</summary>
-   <p><strong>Outstanding Paper Award</strong>, <em>KSME CAE & Applied Mechanics Division 2022 Spring Conference</em>, May 2023</p>
-   <p><strong>Outstanding Student Presentation Award</strong>, <em>KSME CAE & Applied Mechanics Division 2021 Spring Conference</em>, May 2022</p>
-   <p><strong>Outstanding Doctoral Dissertation Award</strong>, <em>Korean Society for Design Optimization (KSDO)</em>, January 2022</p>
-   <p><strong>Outstanding Doctoral Dissertation Award</strong>, <em>Hanyang University, Seoul, Korea</em>, August 2021</p>
-   <p><strong>Outstanding Student Presentation Award</strong>, <em>KSME CAE & Applied Mechanics Division 2020 Spring Conference</em>, August 2020</p>
+   <p><strong>Outstanding Paper Award, <em>KSME CAE & Applied Mechanics Division 2022 Spring Conference</em>, May 2023</strong></p>
+   <p><strong>Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2021 Spring Conference</em>, May 2022</strong></p>
+   <p><strong>Outstanding Doctoral Dissertation Award, <em>Korean Society for Design Optimization (KSDO)</em>, January 2022</strong></p>
+   <p><strong>Outstanding Doctoral Dissertation Award, <em>Hanyang University, Seoul, Korea</em>, August 2021</strong></p>
+   <p><strong>Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2020 Spring Conference</em>, August 2020</strong></p>
    <p><strong>Outstanding Paper Award</strong>, <em>KSME 2019 Conference</em>, August 2020</p>
-   <p><strong>Outstanding Paper Award</strong>, <em>Transactions of the KSME A</em>, November 2019</p>
-   <p><strong>Grand Award</strong>, <em>1st Future Automobile Outstanding Paper Contest</em>, October 2019</p>
-   <p><strong>Best Poster Award</strong>, <em>KSCM-GACM 2018 International Workshop</em>, October 2018</p>
-   <p><strong>BK21 Plus Scholarship</strong>, <em>National Research Foundation of Korea</em>, September 2015–August 2020</p>
-   <p><strong>M.S. & Ph.D. Full Scholarship</strong>, <em>Hanyang University, Seoul, Korea</em>, March 2015–February 2016</p>
-   <p><strong><em>Summa Cum Laude</em></strong>, <em>Hanyang University, Seoul, Korea</em>, February 2015</p>
-   <p><strong>Hanyang Academic Grand Award</strong>, <em>Hanyang University, Seoul, Korea</em>, October 2014</p>
-   <p><strong>Outstanding Award</strong>, <em>2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea</em>, December 2013</p>
-   <p><strong>Hanyang Academic Grand Award</strong>, <em>Hanyang University, Seoul, Korea</em>, April 2013</p>
-   <p><strong>Hanyang Science and Technology Scholarship</strong>, <em>Hanyang University, Seoul, Korea</em>, March 2011–February 2015</p>
+   <p>Outstanding Paper Award</strong>, <em>Transactions of the KSME A</em>, November 2019</strong></p>
+   <p><strong>Grand Award, <em>1st Future Automobile Outstanding Paper Contest</em>, October 2019</strong></p>
+   <p><strong>Best Poster Award, <em>KSCM-GACM 2018 International Workshop</em>, October 2018</strong></p>
+   <p><strong>BK21 Plus Scholarship, <em>National Research Foundation of Korea</em>, September 2015–August 2020</strong></p>
+   <p><strong>M.S. & Ph.D. Full Scholarship, <em>Hanyang University, Seoul, Korea</em>, March 2015–February 2016</strong></p>
+   <p><strong><em>Summa Cum Laude</em>, <em>Hanyang University, Seoul, Korea</em>, February 2015</strong></p>
+   <p><strong>Hanyang Academic Grand Award, <em>Hanyang University, Seoul, Korea</em>, October 2014</strong></p>
+   <p><strong>Outstanding Award, <em>2nd Technology and Management Capstone Design CEO Camp, Hanyang University, Seoul, Korea</em>, December 2013</strong></p>
+   <p><strong>Hanyang Academic Grand Award, <em>Hanyang University, Seoul, Korea</em>, April 2013</strong></p>
+   <p><strong>Hanyang Science and Technology Scholarship, <em>Hanyang University, Seoul, Korea</em>, March 2011–February 2015</strong></p>
 </details>
 
 ***
