@@ -25,7 +25,7 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
       ACSMO is a biennial congress officially endorsed by the 
       <a href="https://www.issmo.net/" target="_blank">International Society for Structural and Multidisciplinary Optimization (ISSMO)</a>, 
       publisher of 
-      <a href="https://link.springer.com/journal/158" target="_blank">Structural and Multidisciplinary Optimization (SMO)</a>, 
+      <a href="https://link.springer.com/journal/158" target="_blank"><em>Structural and Multidisciplinary Optimization (SMO)</em></a>, 
       and organized by ASSMO. The Young Scientist Award is a highly selective honor presented to only three or four researchers under the age of 40 at each biennial congress, recognizing outstanding early-career researchers with significant potential to contribute to the field of structural and multidisciplinary optimization.
    </p>
 
