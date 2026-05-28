@@ -1,4 +1,4 @@
-<img width="6000" height="4000" alt="Young Scientist Award at ACSMO 2026 - 002" src="https://github.com/user-attachments/assets/42facd03-0dc6-4b8b-8086-72bf89d81d21" />---
+---
 layout: post
 title: "Young Scientist Award at ACSMO 2026"
 permalink: /news/notice/2026-05-28-YoungScientistAwardACSMO2026
