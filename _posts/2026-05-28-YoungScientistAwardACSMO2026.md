@@ -30,23 +30,23 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
    </p>
 
    <p>
-      During his time in the 
+      This research journey began through a collaborative project between the 
       <a href="https://ilyongkim.ca/" target="_blank">SMSD Lab</a> 
       at 
-      <a href="https://www.queensu.ca/" target="_blank">Queen's University</a>, 
-      he contributed to multiple research projects related to additive manufacturing and decomposition-based design methods. This research journey began through a collaborative project between the SMSD Lab and the 
+      <a href="https://www.queensu.ca/" target="_blank">Queen's University</a> 
+      and the 
       <a href="https://www.kitech.re.kr/" target="_blank">Korea Institute of Industrial Technology (KITECH)</a>, 
       carried out with Dr. 
       <a href="https://scholar.google.com/citations?user=munbGkkAAAAJ&hl=en&oi=ao" target="_blank">Si Mo Yeon</a> 
       and Dr. 
       <a href="https://scholar.google.com/citations?user=zG0N0wgAAAAJ&hl=en&oi=ao" target="_blank">Yong Son</a>. 
-      Conducted in collaboration with fellow SMSD researchers 
+      The project, conducted in collaboration with fellow SMSD researchers 
       <a href="https://scholar.google.com/citations?user=p1KEUvQAAAAJ&hl=en&oi=ao" target="_blank">Luke Crispo</a> 
-      (now Dr. Crispo), Anuj Patel, and Nicholas Galley, the project led to a publication in 
+      (now Dr. Crispo), Anuj Patel, and Nicholas Galley, led to a publication in 
       <a href="https://www.emeraldgrouppublishing.com/journal/rpj" target="_blank"><em>Rapid Prototyping Journal</em></a> 
       on 
       <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">topology optimization and part decomposition for metal additive manufacturing</a>. 
-      He subsequently expanded this line of research into 
+      Prof. Kim subsequently expanded this line of research into 
       <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">3D decomposition optimization considering additive manufacturing build volume constraints</a>, 
       resulting in a publication in 
       <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" target="_blank"><em>Computer Methods in Applied Mechanics and Engineering (CMAME)</em></a>. 
