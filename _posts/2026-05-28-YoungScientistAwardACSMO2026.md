@@ -52,7 +52,7 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
       <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">3D decomposition optimization considering additive manufacturing build volume constraints</a>, 
       resulting in a publication in 
       <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" target="_blank"><em>Computer Methods in Applied Mechanics and Engineering (CMAME)</em></a>. 
-      This body of work laid the foundation for the research presented at ACSMO 2026, which was ultimately recognized with the Young Scientist Award.
+      This body of work laid the foundation for the research presented at ACSMO 2026.
    </p>
 
    <p>
