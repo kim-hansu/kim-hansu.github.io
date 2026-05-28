@@ -31,6 +31,6 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
 
    <p>
       For more details, please see Gachon News or 
-      <a href="https://ilyongkim.ca/assmo-young-scientist-award-for-former-smsd-member/" target="_blank">SMSD Lab Alumni News</a>.
+      <a href="https://ilyongkim.ca/assmo-young-scientist-award-for-former-smsd-member/" target="_blank">SMSD Lab News</a>.
    </p>
 </details>
