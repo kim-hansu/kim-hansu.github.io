@@ -32,8 +32,8 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
    <p>
       This research journey began through a collaborative project between the 
       <a href="https://ilyongkim.ca/" target="_blank">SMSD Lab</a>, 
-      directed by 
-      <a href="https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ" target="_blank">Prof. Il Yong Kim</a>, 
+      directed by Prof. 
+      <a href="https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ" target="_blank">Il Yong Kim</a>, 
       at 
       <a href="https://www.queensu.ca/" target="_blank">Queen's University</a> 
       in Kingston, Canada, and the 
