@@ -40,9 +40,9 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
       <a href="https://scholar.google.com/citations?user=munbGkkAAAAJ&hl=en&oi=ao" target="_blank">Si Mo Yeon</a> 
       and Dr. 
       <a href="https://scholar.google.com/citations?user=zG0N0wgAAAAJ&hl=en&oi=ao" target="_blank">Yong Son</a>. 
-      The project, conducted in collaboration with fellow SMSD researchers 
+      Conducted in collaboration with fellow SMSD researchers 
       <a href="https://scholar.google.com/citations?user=p1KEUvQAAAAJ&hl=en&oi=ao" target="_blank">Luke Crispo</a> 
-      (now Dr. Crispo), Anuj Patel, and Nicholas Galley, led to a publication in 
+      (now Dr. Crispo), Anuj Patel, and Nicholas Galley, the project led to a publication in 
       <a href="https://www.emeraldgrouppublishing.com/journal/rpj" target="_blank"><em>Rapid Prototyping Journal</em></a> 
       on 
       <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank">topology optimization and part decomposition for metal additive manufacturing</a>. 
@@ -50,11 +50,11 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
       <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank">3D decomposition optimization considering additive manufacturing build volume constraints</a>, 
       resulting in a publication in 
       <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" target="_blank"><em>Computer Methods in Applied Mechanics and Engineering (CMAME)</em></a>. 
-      This body of research conducted at the SMSD Lab laid the foundation for the work presented at ACSMO 2026, which was ultimately recognized through the Young Scientist Award.
+      This body of work laid the foundation for the research presented at ACSMO 2026, which was ultimately recognized with the Young Scientist Award.
    </p>
 
    <p>
-      Additional details are also available in Gachon News and 
+      Related news is also available via Gachon News and 
       <a href="https://ilyongkim.ca/assmo-young-scientist-award-for-former-smsd-member/" target="_blank">SMSD Lab News</a>.
    </p>
 </details>
