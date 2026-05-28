@@ -31,10 +31,12 @@ Prof. Hansu Kim received the Young Scientist Award from the [Asian Society for S
 
    <p>
       This research journey began through a collaborative project between the 
-      <a href="https://ilyongkim.ca/" target="_blank">SMSD Lab</a> 
+      <a href="https://ilyongkim.ca/" target="_blank">SMSD Lab</a>, 
+      directed by 
+      <a href="https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ" target="_blank">Prof. Il Yong Kim</a>, 
       at 
       <a href="https://www.queensu.ca/" target="_blank">Queen's University</a> 
-      and the 
+      in Kingston, Canada, and the 
       <a href="https://www.kitech.re.kr/" target="_blank">Korea Institute of Industrial Technology (KITECH)</a>, 
       carried out with Dr. 
       <a href="https://scholar.google.com/citations?user=munbGkkAAAAJ&hl=en&oi=ao" target="_blank">Si Mo Yeon</a> 
