@@ -29,4 +29,5 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim gave an invited presentation (Early Career Researcher Session) entitled “Decomposition Optimization and Multi-material Design for Additive Manufacturing” at the [COSEIK 2026 Conference](https://www.coseik.or.kr/), held at GIST, Gwangju, Korea. In recognition of this invited presentation, he received the Outstanding Presentation Award for Early Career Researchers.
+Prof. Hansu Kim gave an invited presentation (Early Career Researcher Session) entitled “Decomposition Optimization and Multi-material Design for Additive Manufacturing” at the <a href="https://www.coseik.or.kr/" target="_blank" rel="noopener noreferrer">COSEIK 2026 Conference</a>, held at GIST, Gwangju, Korea. In recognition of this invited presentation, he received the Outstanding Presentation Award for Early Career Researchers.
+
