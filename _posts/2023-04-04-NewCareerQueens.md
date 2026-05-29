@@ -5,9 +5,6 @@ permalink: /news/members/2023-04-04-NewCareerQueens
 tags: Members
 ---
 
-아래처럼 수정하면 됩니다. 외부 링크 3개에 모두 `target="_blank" rel="noopener noreferrer"`를 추가했습니다.
-
-```html
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
   <img src="https://user-images.githubusercontent.com/54526956/230099209-94437726-4cf9-4c9c-a94b-7f7277dd5998.jpg"
        alt="Queen's University"
@@ -21,4 +18,3 @@ tags: Members
 </div>
 
 Dr. Hansu Kim has started a Postdoctoral Fellow position in the <a href="https://ilyongkim.ca/" target="_blank" rel="noopener noreferrer">Structural and Multidisciplinary Systems Design (SMSD) Group</a> directed by Prof. <a href="https://scholar.google.com/citations?hl=en&user=9nbcizgAAAAJ" target="_blank" rel="noopener noreferrer">Il Yong Kim</a> at <a href="https://www.queensu.ca/" target="_blank" rel="noopener noreferrer">Queen's University</a> in Kingston, Canada.
-```
