@@ -11,4 +11,4 @@ tags: Research
        style="max-width: 100%; max-height: 50vh; height: auto; width: auto;">
 </div>
 
-Paper entitled "[Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition](https://doi.org/10.1108/RPJ-11-2023-0400)" has been published in [Rapid Prototyping Journal](https://www.emeraldgrouppublishing.com/journal/rpj).
+Paper entitled "<a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank" rel="noopener noreferrer">Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition</a>" has been published in <a href="https://www.emeraldgrouppublishing.com/journal/rpj" target="_blank" rel="noopener noreferrer"><em>Rapid Prototyping Journal</em></a>.
