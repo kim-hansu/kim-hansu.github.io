@@ -6,7 +6,7 @@ tags: Notice
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/2d55ccd7-13b5-4d45-b5be-cd523899616e"
+  <img src="https://github.com/user-attachments/assets/64ec9f0a-bfa2-4e5a-a4fc-8d89c309f922"
        alt="Young Scientist Award at ACSMO 2026 - 001"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
