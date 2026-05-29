@@ -23,4 +23,4 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim and [Sanghyuk Kim](https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao) gave presentations entitled "Decomposition optimization of topology-optimized structures considering additive manufacturing build volume" and "Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing," respectively, at the [KSME 2025 Conference](https://ksme.or.kr/), held in Jeongseon, Korea.
+Prof. Hansu Kim and <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> gave presentations entitled "Decomposition optimization of topology-optimized structures considering additive manufacturing build volume" and "Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing," respectively, at the <a href="https://ksme.or.kr/" target="_blank" rel="noopener noreferrer">KSME 2025 Conference</a>, held in Jeongseon, Korea.
