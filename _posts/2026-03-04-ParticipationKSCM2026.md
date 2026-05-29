@@ -11,4 +11,4 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim participated in the [KSCM 2026 Conference](https://kscm-society.org/), held at KAIST, Daejeon, Korea.
+Prof. Hansu Kim participated in the <a href="https://kscm-society.org/" target="_blank" rel="noopener noreferrer">KSCM 2026 Conference</a>, held at KAIST, Daejeon, Korea.
