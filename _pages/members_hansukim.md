@@ -46,7 +46,7 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🏆 Honors & Awards
-**Young Scientist Award, *Asian Society for Structural and Multidisciplinary Optimization (ASSMO)*, May 2026**
+**Young Scientist Award, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, May 2026**
 
 **Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026**
 
