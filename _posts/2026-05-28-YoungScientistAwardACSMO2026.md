@@ -12,8 +12,8 @@ tags: Notice
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/6b297a0d-5343-4616-aacf-364c8ed36f89"
-       alt="Young Scientist Award at ACSMO 2026 - 001"
+  <img src="https://github.com/user-attachments/assets/72bd7567-4f59-4522-8c19-0ab0c609e1d5"
+       alt="Young Scientist Award at ACSMO 2026 - 002"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
