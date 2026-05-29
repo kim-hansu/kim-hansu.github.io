@@ -4,6 +4,7 @@ title: "CODE Lab"
 show_title: false
 permalink: /
 ---
+
 ## Welcome to the CODE Lab!
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
