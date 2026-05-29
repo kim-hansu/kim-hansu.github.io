@@ -3,14 +3,15 @@ layout: page
 title: "Hansu Kim, Ph.D."
 permalink: /members/hansukim/
 ---
-# [Hansu Kim, Ph.D. (김한수)](https://www.gachon.ac.kr/smart_factory/8077/subview.do)
+# <a href="https://www.gachon.ac.kr/smart_factory/8077/subview.do" target="_blank" rel="noopener noreferrer">Hansu Kim, Ph.D. (김한수)</a>
+
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/54526956/185015952-2b93fed0-d64c-4fe7-b2d5-03f732a21a7b.jpg"
        alt="HKim"
        style="max-width: 100%; height: auto; width: auto; max-height: 35vh; object-fit: contain;">
 </div>
 
-Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https://www.gachon.ac.kr/smart_factory/index.do) at [Gachon University](https://www.gachon.ac.kr/kor/index.do) in Seongnam, Korea. Prior to joining Gachon University, he was a Postdoctoral Fellow in the [Department of Mechanical and Materials Engineering](https://smithengineering.queensu.ca/mme/) at [Queen’s University](https://www.queensu.ca/) in Kingston, Canada. He earned his B.S. and Ph.D. degrees in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in February 2015 and August 2021, respectively. His research interests include design optimization, design for additive manufacturing, data-driven design, design for mobility components, and optimization algorithms for artificial neural networks.
+Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/smart_factory/index.do" target="_blank" rel="noopener noreferrer">Department of Smart Factory</a> at <a href="https://www.gachon.ac.kr/kor/index.do" target="_blank" rel="noopener noreferrer">Gachon University</a> in Seongnam, Korea. Prior to joining Gachon University, he was a Postdoctoral Fellow in the <a href="https://smithengineering.queensu.ca/mme/" target="_blank" rel="noopener noreferrer">Department of Mechanical and Materials Engineering</a> at <a href="https://www.queensu.ca/" target="_blank" rel="noopener noreferrer">Queen’s University</a> in Kingston, Canada. He earned his B.S. and Ph.D. degrees in <a href="https://ae.hanyang.ac.kr/" target="_blank" rel="noopener noreferrer">Automotive Engineering</a> from <a href="https://www.hanyang.ac.kr/" target="_blank" rel="noopener noreferrer">Hanyang University</a> in Seoul, Korea, in February 2015 and August 2021, respectively. His research interests include design optimization, design for additive manufacturing, data-driven design, design for mobility components, and optimization algorithms for artificial neural networks.
 
 ***
 
@@ -20,12 +21,12 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 **Assistant Professor, *Department of Mechanical Engineering, Smart Factory Major, Gachon University, Seongnam, Korea*, March 2025–February 2026**
 
 **Postdoctoral Fellow, *Department of Mechanical and Materials Engineering, Queen's University, Kingston, Canada*, April 2023–January 2025**
-* Advisor: Prof. [Il Yong Kim](https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ)
+* Advisor: Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=9nbcizgAAAAJ" target="_blank" rel="noopener noreferrer">Il Yong Kim</a>
 
 **Assistant Professor, *School of Mechanical Engineering, Smart Manufacturing Major, Changwon National University, Changwon, Korea*, September 2022–December 2022**
 
 **BK Post-Doc., *BK21 Four Education & Research Program for Automotive-Software Convergence, Hanyang University, Seoul, Korea*, September 2021–August 2022**
-* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
+* Advisor: Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ" target="_blank" rel="noopener noreferrer">Tae Hee Lee</a>
 
 ***
 
@@ -34,14 +35,14 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 * Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)
 * Outstanding Doctoral Dissertation Award from Hanyang University in Seoul, Korea
 * Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
-* Advisor: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ)
-* Committee: Prof. [Kunsoo Huh](https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en), Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en), Dr. [Youngsoo Choi](https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ) (LLNL), and Prof. [Ikjin Lee](https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ) (KAIST)
+* Advisor: Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ" target="_blank" rel="noopener noreferrer">Tae Hee Lee</a>
+* Committee: Prof. <a href="https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Kunsoo Huh</a>, Prof. <a href="https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Seungjae Min</a>, Dr. <a href="https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ" target="_blank" rel="noopener noreferrer">Youngsoo Choi</a> (LLNL), and Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ" target="_blank" rel="noopener noreferrer">Ikjin Lee</a> (KAIST)
 
 **B.S., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, February 2015**
 * *Summa Cum Laude*
 * 1st Rank Graduate in the Department of Automotive Engineering
 * Thesis: The concept of combat vehicle systems integrated performance for design optimization
-* Advisors: Prof. [Tae Hee Lee](https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ) and Prof. [Seungjae Min](https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en)
+* Advisors: Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ" target="_blank" rel="noopener noreferrer">Tae Hee Lee</a> and Prof. <a href="https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Seungjae Min</a>
 
 ***
 
@@ -75,62 +76,62 @@ Hansu Kim is an Assistant Professor in the [Department of Smart Factory](https:/
 ***
 
 ## 🖋️ Academic Activities
-**[Academic Director, *Korean Society for Design Optimization (KSDO)*](https://ksdo.net/)**
+<strong><a href="https://ksdo.net/" target="_blank" rel="noopener noreferrer">Academic Director, <em>Korean Society for Design Optimization (KSDO)</em></a></strong>
 
-**[Industry–Academia Collaboration Director, *Korean Society of Mechanical Engineers (KSME) CAE & Applied Mechanics Division*](https://ksme.or.kr/)**
+<strong><a href="https://ksme.or.kr/" target="_blank" rel="noopener noreferrer">Industry–Academia Collaboration Director, <em>Korean Society of Mechanical Engineers (KSME) CAE & Applied Mechanics Division</em></a></strong>
 
-**[Local Organizing Committee, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*](http://assmo.org/)**
+<strong><a href="http://assmo.org/" target="_blank" rel="noopener noreferrer">Local Organizing Committee, <em>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</em></a></strong>
 
 <details class="view-more">
    <summary>Reviewer for Peer-Reviewed Journals including:</summary>
    <ul>
       <li>
-         <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank">
+         <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank" rel="noopener noreferrer">
             Big Data Research, <em>Elsevier</em>
          </a>
       </li>
       <li>
-         <a href="https://ieeeaccess.ieee.org/" target="_blank">
+         <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer">
             IEEE Access, <em>Institute of Electrical and Electronics Engineers (IEEE)</em>
          </a>
       </li>
       <li>
-         <a href="https://academic.oup.com/jcde" target="_blank">
+         <a href="https://academic.oup.com/jcde" target="_blank" rel="noopener noreferrer">
             Journal of Computational Design and Engineering, <em>Oxford University Press</em>
          </a>
       </li>
       <li>
-         <a href="https://www.springer.com/journal/12206" target="_blank">
+         <a href="https://www.springer.com/journal/12206" target="_blank" rel="noopener noreferrer">
             Journal of Mechanical Science and Technology, <em>Springer</em>
          </a>
       </li>
       <li>
-         <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank">
+         <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer">
             Knowledge-Based Systems, <em>Elsevier</em>
          </a>
       </li>
       <li>
-         <a href="https://www.tandfonline.com/journals/lmbd20" target="_blank">
+         <a href="https://www.tandfonline.com/journals/lmbd20" target="_blank" rel="noopener noreferrer">
             Mechanics Based Design of Structures and Machines, <em>Taylor & Francis</em>
          </a>
       </li>
       <li>
-         <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank">
+         <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank" rel="noopener noreferrer">
             Neurocomputing, <em>Elsevier</em>
          </a>
       </li>
       <li>
-         <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank">
+         <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank" rel="noopener noreferrer">
             Pattern Recognition, <em>Elsevier</em>
          </a>
       </li>
       <li>
-         <a href="https://www.springer.com/journal/158/" target="_blank">
+         <a href="https://www.springer.com/journal/158/" target="_blank" rel="noopener noreferrer">
             Structural and Multidisciplinary Optimization, <em>Springer</em>
          </a>
       </li>
       <li>
-         <a href="http://journal.ksme.or.kr/" target="_blank">
+         <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer">
             Transactions of the KSME, <em>Korean Society of Mechanical Engineers (KSME)</em>
          </a>
       </li>
