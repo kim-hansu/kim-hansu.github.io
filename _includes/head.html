@@ -9,6 +9,21 @@
     {% seo %}
   {% endif %}
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "가천대학교 전산최적설계 연구실",
+    "alternateName": [
+      "CODE Lab",
+      "Computational Optimum DEsign Lab",
+      "CODE Lab at Gachon University",
+      "전산최적설계 연구실"
+    ],
+    "url": "https://codelab.gachon.ac.kr/"
+  }
+  </script>
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
@@ -23,7 +38,7 @@
   <!-- RSS -->
   {% feed_meta %}
 
-  <!-- Google Analytics-->
+  <!-- Google Analytics -->
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
