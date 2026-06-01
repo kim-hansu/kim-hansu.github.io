@@ -2,12 +2,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% if page.url == '/' or page.permalink == '/' %}
-    <title>{{ site.description }}</title>
-    <meta name="description" content="{{ site.description }}">
-  {% else %}
-    {% seo %}
-  {% endif %}
+  <title>
+    {% if page.url == '/' or page.permalink == '/' %}
+      {{ site.description }}
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+    {% endif %}
+  </title>
+
+  {% seo title=false %}
 
   <script type="application/ld+json">
   {
