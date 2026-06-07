@@ -69,7 +69,7 @@ permalink: /publications/
 
 12. Lee J, Shi Y, Gray S, Orr M, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Application of topology optimization to production-ready passenger seat components design. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0498" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0498</a>
 
-11. Orr M, Shi Y, Lee J, Gray S, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) From algorithm to engineering judgment: navigating topology optimization's limits in crash applications. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0189" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0189</a>
+11. Orr M, Shi Y, Lee J, Gray S, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) From algorithm to engineering judgment: Navigating topology optimization's limits in crash applications. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0189" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0189</a>
 
 10. Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Quebec, Canada.
 
