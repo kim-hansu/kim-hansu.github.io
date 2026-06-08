@@ -12,7 +12,7 @@ tags: Notice
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/ce70adbb-2cc0-44bf-b985-3dccb4a8b72d"
+  <img src="https://github.com/user-attachments/assets/e6378015-e18d-400f-9131-ec4ee66797a0"
        alt="Presentations at KSME CAE & Appl Mech 2026 - 002"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
