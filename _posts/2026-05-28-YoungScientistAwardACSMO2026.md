@@ -17,6 +17,12 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
+<div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
+  <img src="https://github.com/user-attachments/assets/79ab2547-3d87-4a02-a1e5-1f7cc6858cdc"
+       alt="Young Scientist Award at ACSMO 2026 - 003"
+       style="display: block; width: 100%; max-width: 750px; height: auto;">
+</div>
+
 Prof. Hansu Kim received the Young Scientist Award from the <a href="http://assmo.org/" target="_blank" rel="noopener noreferrer">Asian Society for Structural and Multidisciplinary Optimization (ASSMO)</a> in recognition of his outstanding presentation entitled “Multi-material Decomposition Optimization for Topology-optimized Structures Considering Additive Manufacturing Build Volume and Material Cost” at the <a href="https://acsmo2026.org/" target="_blank" rel="noopener noreferrer">Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</a>, held at BEXCO, Busan, Korea.
 
 <details class="view-more">
