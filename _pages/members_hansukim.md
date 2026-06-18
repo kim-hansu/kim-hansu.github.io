@@ -155,9 +155,8 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 ## 🏛️ Teaching Experience
 **Gachon University, Seongnam, Korea, 2025–Present**
 * Statics (03874), Undergraduate Course
-* Engineering Graphics (CAD) (14381), Undergraduate Course
-* Introduction to Robotics (15068), Undergraduate Course
-* Control of Intelligent Robot Systems (15767), Undergraduate Course
+* CAD (14381), Undergraduate Course
+* CAE-AI (15892), Undergraduate Course
 * P-Practical Project (60000), Undergraduate Course
 * Undergraduate Research Project (13647), Undergraduate Course
 
