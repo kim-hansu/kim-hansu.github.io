@@ -94,6 +94,8 @@ permalink: /publications/
 ***
 
 # 🗣️ Korean Conference Papers
+32. Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea. (Invited Presentation)
+
 31. Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
 
 30. Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
