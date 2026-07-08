@@ -144,6 +144,8 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 ## 🗣️ Invited Presentations
 **Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.**
 
+**Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.**
+
 **Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
 
 **Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.**
