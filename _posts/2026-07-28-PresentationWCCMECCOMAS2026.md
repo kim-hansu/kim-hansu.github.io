@@ -30,7 +30,7 @@ tags: Notice
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
-  <img src="https://github.com/user-attachments/assets/2820d5ec-8a00-42e8-b57f-13a2d4864604"
+  <img src="https://github.com/user-attachments/assets/fdaf4630-1a7a-4760-a938-7ea888e41d08"
        alt="Presentation at WCCM-ECCOMAS 2026 - 005"
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
