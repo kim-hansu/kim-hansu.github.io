@@ -58,9 +58,7 @@ Prof. Hansu Kim and <a href="https://scholar.google.com/citations?user=RpcCyLQAA
    <p>
      WCCM is a biennial congress organized by the 
      <a href="https://iacm.info/" target="_blank" rel="noopener noreferrer">International Association for Computational Mechanics (IACM)</a>. 
-     The 17th WCCM was held jointly with the 
-     <a href="https://eccomas.org/" target="_blank" rel="noopener noreferrer">10th European Congress on Computational Methods in Applied Sciences and Engineering</a>.
-     The joint congress was co-organized by the 
+     The 17th WCCM was held jointly with the 10th European Congress on Computational Methods in Applied Sciences and Engineering. The joint congress was co-organized by the 
      <a href="https://eccomas.org/" target="_blank" rel="noopener noreferrer">European Community on Computational Methods in Applied Sciences and Engineering (ECCOMAS)</a> 
      and the 
      <a href="https://www.gacm.de/" target="_blank" rel="noopener noreferrer">German Association for Computational Mechanics (GACM)</a>.
