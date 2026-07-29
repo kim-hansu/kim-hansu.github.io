@@ -52,7 +52,7 @@ Prof. Hansu Kim and <a href="https://scholar.google.com/citations?user=RpcCyLQAA
       organized by Prof. 
       <a href="https://scholar.google.com/citations?user=I5sAZ6cAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Seunghwa Ryu</a> 
       and Prof. 
-      <a href="https://scholar.google.com/citations?user=GExK7EIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">YuanTong Gu</a>.
+      <a href="https://scholar.google.com/citations?user=GExK7EIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Yuan Tong Gu</a>.
    </p>
 
    <p>
