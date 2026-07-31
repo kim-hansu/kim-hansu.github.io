@@ -55,7 +55,7 @@ permalink: /publications/
 ***
 
 # 🗣️ International Conference Papers
-19. Kim H, Kim IY* (2027) Simultaneous topology and decomposition optimization under an additive manufacturing build volume constraint. *<u>4th IACM Digital Twins in Engineering Conference (DTE 2027)</u>*, March 8–12, 2027, Yokohama, Japan.
+19. Kim H, Kim IY* (2027) Topology and Decomposition Optimization of Multi-component Structures for Additive Manufacturing. *<u>4th IACM Digital Twins in Engineering Conference (DTE 2027)</u>*, March 8–12, 2027, Yokohama, Japan.
 
 18. Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea. (Invited Presentation)
 
