@@ -117,6 +117,11 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
          </a>
       </li>
       <li>
+         <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" rel="noopener noreferrer">
+            Neural Networks, <em>Elsevier</em>
+         </a>
+      </li>
+      <li>
          <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank" rel="noopener noreferrer">
             Neurocomputing, <em>Elsevier</em>
          </a>
