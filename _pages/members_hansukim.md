@@ -151,7 +151,7 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 
 **Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.**
 
-**Topology optimization: Fundamentals and structural design applications, Eco-friendly Ocean Development Research Division, KRISO, August 27, 2026, Daejeon, Korea.**
+**Topology optimization: Fundamentals and structural design applications, *<u>Eco-friendly Ocean Development Research Division, KRISO</u>*, August 27, 2026, Daejeon, Korea.**
 
 **Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
 
