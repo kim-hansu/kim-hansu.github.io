@@ -98,7 +98,7 @@ permalink: /publications/
 # 🗣️ Korean Conference Papers
 35. Jo G, Cho M, Kim H* (2026) Conceptual design of a lower control arm for additive manufacturing using multi-objective topology optimization under different build orientations. *<u>KSAE 2026 Fall Conference</u>*, November 18–21, 2026, Yeosu, Korea.
 
-34. Kim H*, Jo G, Cho M (2026) Topology optimization of mobility components considering additive manufacturing design considerations. *<u>KSAE 2026 Fall Conference</u>*, November 18–21, 2026, Yeosu, Korea.
+34. Kim H,* Jo G, Cho M (2026) Topology optimization of mobility components considering additive manufacturing design considerations. *<u>KSAE 2026 Fall Conference</u>*, November 18–21, 2026, Yeosu, Korea.
 
 33. Cho M, Jo G, Kim H* (2026) Multi-objective topology optimization considering overhang area under different build orientation in additive manufacturing. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.
 
