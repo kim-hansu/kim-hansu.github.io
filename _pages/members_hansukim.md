@@ -147,17 +147,17 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 ***
 
 ## 🗣️ Invited Presentations
-**Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.**
+**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea.**
 
-**Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.**
+**Design for Additive Manufacturing: From Industrial Challenges to Multi-material Decomposition Optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.**
 
-**Topology optimization: Fundamentals and structural design applications, *<u>Eco-friendly Ocean Development Research Division, KRISO</u>*, August 27, 2026, Daejeon, Korea.**
+**Topology Optimization: Fundamentals and Structural Design Applications, *<u>Eco-friendly Ocean Development Research Division, KRISO</u>*, August 27, 2026, Daejeon, Korea.**
 
-**Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
+**Decomposition Optimization and Multi-material Design for Additive Manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea.**
 
-**Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.**
+**Design of an Additive Manufactured Aircraft Component Using Topology Optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea.**
 
-**Design for additive manufacturing: From topology optimization toward generative AI, *<u>Department of Mechanical and Robotics Engineering, GIST</u>*, September 25, 2025, Gwangju, Korea.**
+**Design for Additive Manufacturing: From Topology Optimization Toward Generative AI, *<u>Department of Mechanical and Robotics Engineering, GIST</u>*, September 25, 2025, Gwangju, Korea.**
 
 ***
 
