@@ -20,6 +20,11 @@ permalink: /research/
    <summary>Representative Papers</summary>
    <ul>
       <li>
+         <a href="https://doi.org/10.1007/s00158-026-04401-y" target="_blank" rel="noopener noreferrer">
+            Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. <em>Structural and Multidisciplinary Optimization</em> 69:218.
+         </a>
+      </li>
+      <li>
          <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank" rel="noopener noreferrer">
             Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <em>Computer Methods in Applied Mechanics and Engineering</em> 432:117357.
          </a>
