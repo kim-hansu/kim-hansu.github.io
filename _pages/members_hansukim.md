@@ -87,7 +87,7 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
    <summary>Graduate Thesis Committees</summary>
    <ul>
       <li>
-         Ph.D., <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> (Advisor: Prof. <a href="https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Namwoo Kang</a>), Department of Mechanical Engineering, KAIST, Daejeon, Korea, In Progress
+         Ph.D., <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> (Advisor: Prof. <a href="https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Namwoo Kang</a>), <em>Department of Mechanical Engineering, KAIST, Daejeon, Korea</em>, In Progress
       </li>
    </ul>
 </details>
