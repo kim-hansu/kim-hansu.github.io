@@ -93,7 +93,7 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 </details>
 
 <details class="view-more">
-   <summary>Reviewer for Peer-Reviewed Journals including:</summary>
+   <summary>Reviewer for Peer-Reviewed Journals</summary>
    <ul>
       <li>
          <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank" rel="noopener noreferrer">
