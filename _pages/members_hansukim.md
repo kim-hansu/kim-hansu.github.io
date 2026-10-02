@@ -33,9 +33,9 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 
 ## 🎓 Education
 **Ph.D., *Department of Automotive Engineering, Hanyang University, Seoul, Korea*, August 2021**
-* Outstanding Doctoral Dissertation Award from the Korean Society for Design Optimization (KSDO)
-* Outstanding Doctoral Dissertation Award from Hanyang University in Seoul, Korea
-* Dissertation: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
+* Outstanding Doctoral Thesis Award from the Korean Society for Design Optimization (KSDO)
+* Outstanding Doctoral Thesis Award from Hanyang University in Seoul, Korea
+* Thesis: Design-target-based Optimization of High-dimensional Problems using Input Variable Selection
 * Advisor: Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=JxC_VGgAAAAJ" target="_blank" rel="noopener noreferrer">Tae Hee Lee</a>
 * Committee: Prof. <a href="https://scholar.google.co.kr/citations?user=iRQAwt8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Kunsoo Huh</a>, Prof. <a href="https://scholar.google.co.kr/citations?user=1umyIqAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Seungjae Min</a>, Dr. <a href="https://scholar.google.co.kr/citations?hl=en&user=sR5IHFQAAAAJ" target="_blank" rel="noopener noreferrer">Youngsoo Choi</a> (LLNL), and Prof. <a href="https://scholar.google.co.kr/citations?hl=en&user=XoXGvT8AAAAJ" target="_blank" rel="noopener noreferrer">Ikjin Lee</a> (KAIST)
 
@@ -58,8 +58,8 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
    <summary>View More</summary>
    <p><strong>Outstanding Paper Award, <em>KSME CAE & Applied Mechanics Division 2022 Spring Conference</em>, May 2023</strong></p>
    <p><strong>Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2021 Spring Conference</em>, May 2022</strong></p>
-   <p><strong>Outstanding Doctoral Dissertation Award, <em>Korean Society for Design Optimization (KSDO)</em>, January 2022</strong></p>
-   <p><strong>Outstanding Doctoral Dissertation Award, <em>Hanyang University, Seoul, Korea</em>, August 2021</strong></p>
+   <p><strong>Outstanding Doctoral Thesis Award, <em>Korean Society for Design Optimization (KSDO)</em>, January 2022</strong></p>
+   <p><strong>Outstanding Doctoral Thesis Award, <em>Hanyang University, Seoul, Korea</em>, August 2021</strong></p>
    <p><strong>Outstanding Student Presentation Award, <em>KSME CAE & Applied Mechanics Division 2020 Spring Conference</em>, August 2020</strong></p>
    <p><strong>Outstanding Paper Award, <em>KSME 2019 Conference</em>, August 2020</strong></p>
    <p><strong>Outstanding Paper Award, <em>Transactions of the KSME A</em>, November 2019</strong></p>
@@ -140,6 +140,15 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
          <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer">
             Transactions of the KSME, <em>Korean Society of Mechanical Engineers (KSME)</em>
          </a>
+      </li>
+   </ul>
+</details>
+
+<details class="view-more">
+   <summary>Graduate Thesis Committees</summary>
+   <ul>
+      <li>
+         Ph.D., <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> (Advisor: Prof. <a href="https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Namwoo Kang</a>), Department of Mechanical Engineering, KAIST, Daejeon, Korea, In Progress
       </li>
    </ul>
 </details>
