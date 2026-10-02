@@ -84,7 +84,7 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 <strong><a href="http://assmo.org/" target="_blank" rel="noopener noreferrer">Local Organizing Committee, <em>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</em></a></strong>
 
 <details class="view-more">
-   <summary>Graduate Thesis Committees</summary>
+   <summary>Graduate Thesis Committee</summary>
    <ul>
       <li>
          Ph.D., <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> (Advisor: Prof. <a href="https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Namwoo Kang</a>), <em>Department of Mechanical Engineering, KAIST, Daejeon, Korea</em>, In Progress
@@ -93,7 +93,7 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 </details>
 
 <details class="view-more">
-   <summary>Reviewer for Peer-Reviewed Journals</summary>
+   <summary>Academic Journal Reviewer</summary>
    <ul>
       <li>
          <a href="https://www.sciencedirect.com/journal/big-data-research" target="_blank" rel="noopener noreferrer">
