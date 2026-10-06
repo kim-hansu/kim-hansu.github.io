@@ -55,6 +55,8 @@ permalink: /publications/
 ***
 
 # 🗣️ International Conference Papers
+20. Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures under additive manufacturing constraints. *<u>17th World Congress of Structural and Multidisciplinary Optimization (WCSMO-17)</u>*, May 16–21, 2027, Foz do Iguaçu, Brazil.
+
 19. Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures for additive manufacturing. *<u>4th IACM Digital Twins in Engineering Conference (DTE 2027)</u>*, March 8–12, 2027, Yokohama, Japan.
 
 18. Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea. (Invited Presentation)
