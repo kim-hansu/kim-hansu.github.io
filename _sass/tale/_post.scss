@@ -149,11 +149,22 @@ details.view-more li a {
   .pub-list {
     list-style: none;
     padding-left: 2rem;
+    margin-bottom: 0;
+  }
+
+  > .pub-list {
+    margin-bottom: 0.75rem;
   }
 
   .pub-list > li {
     counter-increment: publication;
     position: relative;
+    margin: 0;
+    line-height: 1.55;
+  }
+
+  .pub-list > li + li {
+    margin-top: 1rem;
   }
 
   .pub-list > li::before {
@@ -162,5 +173,13 @@ details.view-more li a {
     left: -2rem;
     width: 1.5rem;
     text-align: right;
+  }
+
+  details.view-more[open] summary {
+    margin-bottom: 0;
+  }
+
+  details.view-more > .pub-list {
+    margin-top: 0.25rem;
   }
 }
