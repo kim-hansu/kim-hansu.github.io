@@ -9,56 +9,59 @@ permalink: /publications/
 *Type of author:* **Corresponding author*
 
 # 📄 International Journal Papers
-<ol reversed start="14">
-  <li>
-    Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 69:218. <a href="https://doi.org/10.1007/s00158-026-04401-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-026-04401-y</a>
-  </li>
-  <li>
-    Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank" rel="noopener noreferrer"><em>Neurocomputing</em></a> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.neucom.2025.131568</a>
-  </li>
-</ol>
-
-<details class="view-more">
-  <summary>View More</summary>
-  <ol reversed start="12">
+<div class="numbered-publications">
+  <ol class="pub-list">
     <li>
-      Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" target="_blank" rel="noopener noreferrer"><em>Computer Methods in Applied Mechanics and Engineering</em></a> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cma.2024.117357</a>
+      Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 69:218. <a href="https://doi.org/10.1007/s00158-026-04401-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-026-04401-y</a>
     </li>
     <li>
-      Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <a href="https://www.emeraldgrouppublishing.com/journal/rpj" target="_blank" rel="noopener noreferrer"><em>Rapid Prototyping Journal</em></a> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank" rel="noopener noreferrer">https://doi.org/10.1108/RPJ-11-2023-0400</a>
-    </li>
-    <li>
-      Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" rel="noopener noreferrer"><em>Neural Networks</em></a> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.neunet.2022.12.001</a>
-    </li>
-    <li>
-      Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-022-03374-y</a>
-    </li>
-    <li>
-      Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 65:258. <a href="https://doi.org/10.1007/s00158-022-03356-0" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-022-03356-0</a> (WCSMO-14 Special Issue)
-    </li>
-    <li>
-      Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer"><em>Knowledge-Based Systems</em></a> 225:107117. <a href="https://doi.org/10.1016/j.knosys.2021.107117" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.knosys.2021.107117</a>
-    </li>
-    <li>
-      Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer"><em>Knowledge-Based Systems</em></a> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.knosys.2021.106855</a>
-    </li>
-    <li>
-      Kwon K, Seo M, Kim H, Lee TH, Lee J, Min S* (2020) Multi-objective optimisation of hydro-pneumatic suspension with gas-oil emulsion for heavy-duty vehicles. <a href="https://www.tandfonline.com/journals/nvsd20" target="_blank" rel="noopener noreferrer"><em>Vehicle System Dynamics</em></a> 58(7):1146–1165. <a href="https://doi.org/10.1080/00423114.2019.1609050" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/00423114.2019.1609050</a>
-    </li>
-    <li>
-      Kim H, Lee TH,* Song Y, Huh K (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. <a href="https://www.tandfonline.com/journals/nvsd20" target="_blank" rel="noopener noreferrer"><em>Vehicle System Dynamics</em></a> 58(6):987–1005. <a href="https://doi.org/10.1080/00423114.2019.1627375" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/00423114.2019.1627375</a> (Grand Award, 1st Future Automobile Outstanding Paper Contest)
-    </li>
-    <li>
-      Lim J, Kim H, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and experimental analysis of potential causes degrading contact resistances and forces of sensor connectors for vehicles. <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer"><em>IEEE Access</em></a> 7:126530–126538. <a href="https://doi.org/10.1109/ACCESS.2019.2939377" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/ACCESS.2019.2939377</a>
-    </li>
-    <li>
-      Kim H, Kim S, Kim T, Lee TH,* Ryu N, Kwon K, Min S (2018) Efficient design optimization of complex system through an integrated interface using symbolic computation. <a href="https://www.sciencedirect.com/journal/advances-in-engineering-software" target="_blank" rel="noopener noreferrer"><em>Advances in Engineering Software</em></a> 126:34–45. <a href="https://doi.org/10.1016/j.advengsoft.2018.09.006" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.advengsoft.2018.09.006</a>
-    </li>
-    <li>
-      Kim S, Lim W, Kim H, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. <a href="https://www.springer.com/journal/12206" target="_blank" rel="noopener noreferrer"><em>Journal of Mechanical Science and Technology</em></a> 30(12):5577–5586. <a href="https://doi.org/10.1007/s12206-016-1126-1" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s12206-016-1126-1</a>
+      Kim S, Kim H,* Kang N, Lee TH* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. <a href="https://www.sciencedirect.com/journal/neurocomputing" target="_blank" rel="noopener noreferrer"><em>Neurocomputing</em></a> 657:131568. <a href="https://doi.org/10.1016/j.neucom.2025.131568" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.neucom.2025.131568</a>
     </li>
   </ol>
-</details>
+
+  <details class="view-more">
+    <summary>View More</summary>
+    <ol class="pub-list">
+      <li>
+        Kim H, Kim IY* (2024) 3D decomposition optimization of topology-optimized structures considering a build volume constraint for additive manufacturing. <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" target="_blank" rel="noopener noreferrer"><em>Computer Methods in Applied Mechanics and Engineering</em></a> 432:117357. <a href="https://doi.org/10.1016/j.cma.2024.117357" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cma.2024.117357</a>
+      </li>
+      <li>
+        Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2024) Design of a metal additive manufactured aircraft seat leg using topology optimization and part decomposition. <a href="https://www.emeraldgrouppublishing.com/journal/rpj" target="_blank" rel="noopener noreferrer"><em>Rapid Prototyping Journal</em></a> 30(5):947–969. <a href="https://doi.org/10.1108/RPJ-11-2023-0400" target="_blank" rel="noopener noreferrer">https://doi.org/10.1108/RPJ-11-2023-0400</a>
+      </li>
+      <li>
+        Kim H, Wang C, Byun H, Hu W,* Kim S, Jiao Q, Lee TH* (2023) Variable three-term conjugate gradient method for training artificial neural networks. <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" rel="noopener noreferrer"><em>Neural Networks</em></a> 159:125–136. <a href="https://doi.org/10.1016/j.neunet.2022.12.001" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.neunet.2022.12.001</a>
+      </li>
+      <li>
+        Ha DH, Kim H,* Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 65:353. <a href="https://doi.org/10.1007/s00158-022-03374-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-022-03374-y</a>
+      </li>
+      <li>
+        Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 65:258. <a href="https://doi.org/10.1007/s00158-022-03356-0" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-022-03356-0</a> (WCSMO-14 Special Issue)
+      </li>
+      <li>
+        Kim H, Lee TH* (2021) A robust elastic net via bootstrap method under sampling uncertainty for significance analysis of high-dimensional design problems. <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer"><em>Knowledge-Based Systems</em></a> 225:107117. <a href="https://doi.org/10.1016/j.knosys.2021.107117" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.knosys.2021.107117</a>
+      </li>
+      <li>
+        Kim H, Lee TH,* Kwon T (2021) Normalized neighborhood component feature selection and feasible-improved weight allocation for input variable selection. <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer"><em>Knowledge-Based Systems</em></a> 218:106855. <a href="https://doi.org/10.1016/j.knosys.2021.106855" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.knosys.2021.106855</a>
+      </li>
+      <li>
+        Kwon K, Seo M, Kim H, Lee TH, Lee J, Min S* (2020) Multi-objective optimisation of hydro-pneumatic suspension with gas-oil emulsion for heavy-duty vehicles. <a href="https://www.tandfonline.com/journals/nvsd20" target="_blank" rel="noopener noreferrer"><em>Vehicle System Dynamics</em></a> 58(7):1146–1165. <a href="https://doi.org/10.1080/00423114.2019.1609050" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/00423114.2019.1609050</a>
+      </li>
+      <li>
+        Kim H, Lee TH,* Song Y, Huh K (2020) Robust design optimisation of adaptive cruise controller considering uncertainties of vehicle parameters and occupants. <a href="https://www.tandfonline.com/journals/nvsd20" target="_blank" rel="noopener noreferrer"><em>Vehicle System Dynamics</em></a> 58(6):987–1005. <a href="https://doi.org/10.1080/00423114.2019.1627375" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/00423114.2019.1627375</a> (Grand Award, 1st Future Automobile Outstanding Paper Contest)
+      </li>
+      <li>
+        Lim J, Kim H, Kim JK, Park SJ, Lee TH, Yoon SW* (2019) Numerical and experimental analysis of potential causes degrading contact resistances and forces of sensor connectors for vehicles. <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer"><em>IEEE Access</em></a> 7:126530–126538. <a href="https://doi.org/10.1109/ACCESS.2019.2939377" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/ACCESS.2019.2939377</a>
+      </li>
+      <li>
+        Kim H, Kim S, Kim T, Lee TH,* Ryu N, Kwon K, Min S (2018) Efficient design optimization of complex system through an integrated interface using symbolic computation. <a href="https://www.sciencedirect.com/journal/advances-in-engineering-software" target="_blank" rel="noopener noreferrer"><em>Advances in Engineering Software</em></a> 126:34–45. <a href="https://doi.org/10.1016/j.advengsoft.2018.09.006" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.advengsoft.2018.09.006</a>
+      </li>
+      <li>
+        Kim S, Lim W, Kim H, Ryu N, Kwon K, Lim S, Min S, Lee TH* (2016) Robust target cascading for improving firing accuracy of combat vehicle. <a href="https://www.springer.com/journal/12206" target="_blank" rel="noopener noreferrer"><em>Journal of Mechanical Science and Technology</em></a> 30(12):5577–5586. <a href="https://doi.org/10.1007/s12206-016-1126-1" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s12206-016-1126-1</a>
+      </li>
+    </ol>
+  </details>
+</div>
+
 
 ***
 
