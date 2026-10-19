@@ -338,3 +338,19 @@ permalink: /publications/
     </ol>
   </details>
 </div>
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.numbered-publications').forEach(function (section) {
+    const visibleList = section.querySelector(':scope > .pub-list');
+    const details = section.querySelector(':scope > details.view-more');
+
+    if (visibleList && details) {
+      const count = visibleList.querySelectorAll(':scope > li').length;
+      details.style.counterReset = 'publication ' + count;
+    }
+  });
+});
+</script>
