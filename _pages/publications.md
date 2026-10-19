@@ -101,47 +101,47 @@ permalink: /publications/
 <div class="numbered-publications">
   <ol class="pub-list">
     <li>
-      Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures under additive manufacturing constraints. *<u>17th World Congress of Structural and Multidisciplinary Optimization (WCSMO-17)</u>*, May 16–21, 2027, Foz do Iguaçu, Brazil.
+      Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures under additive manufacturing constraints. <em><u>17th World Congress of Structural and Multidisciplinary Optimization (WCSMO-17)</u></em>, May 16–21, 2027, Foz do Iguaçu, Brazil.
     </li>
 
     <li>
-      Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures for additive manufacturing. *<u>4th IACM Digital Twins in Engineering Conference (DTE 2027)</u>*, March 8–12, 2027, Yokohama, Japan.
+      Kim H, Kim IY* (2027) Topology and decomposition optimization of multi-component structures for additive manufacturing. <em><u>4th IACM Digital Twins in Engineering Conference (DTE 2027)</u></em>, March 8–12, 2027, Yokohama, Japan.
     </li>
 
     <li>
-      Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u>*, November 21–25, 2026, Jeju, Korea. (Invited Presentation)
+      Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. <em><u>9th Smart Materials and Nanotechnology in Engineering and 8th Active Materials and Soft Mechatronics (Smart & Soft 2026)</u></em>, November 21–25, 2026, Jeju, Korea. (Invited Presentation)
     </li>
 
     <li>
-      Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. *<u>ASME International Mechanical Engineering Congress & Exposition 2026 (IMECE 2026)</u>*, November 8–12, 2026, Vancouver, British Columbia, Canada.
+      Ha DH, Kim H, Karkaria V, Chen W* (2026) Development of a system-level pre-validation framework for durability performance assessment of electrified vehicle powertrain systems. <em><u>ASME International Mechanical Engineering Congress & Exposition 2026 (IMECE 2026)</u></em>, November 8–12, 2026, Vancouver, British Columbia, Canada.
     </li>
 
     <li>
-      Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
+      Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints. <em><u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u></em>, July 19–24, 2026, Munich, Germany.
     </li>
 
     <li>
-      Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u>*, July 19–24, 2026, Munich, Germany.
+      Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. <em><u>17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</u></em>, July 19–24, 2026, Munich, Germany.
     </li>
 
     <li>
-      Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</u>*, May 17–21, 2026, Busan, Korea. (Young Scientist Award)
+      Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. <em><u>Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</u></em>, May 17–21, 2026, Busan, Korea. (Young Scientist Award)
     </li>
 
     <li>
-      Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0493" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0493</a>
+      Gray S, Orr M, Lee J, Shi Y, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Effective design method for lightweight suite of seats considering crashworthiness and cost. <em><u>2026 WCX SAE World Congress Experience</u></em>, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0493" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0493</a>
     </li>
 
     <li>
-      Lee J, Shi Y, Gray S, Orr M, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Application of topology optimization to production-ready passenger seat components design. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0498" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0498</a>
+      Lee J, Shi Y, Gray S, Orr M, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) Application of topology optimization to production-ready passenger seat components design. <em><u>2026 WCX SAE World Congress Experience</u></em>, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0498" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0498</a>
     </li>
 
     <li>
-      Orr M, Shi Y, Lee J, Gray S, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) From algorithm to engineering judgment: Navigating topology optimization's limits in crash applications. *<u>2026 WCX SAE World Congress Experience</u>*, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0189" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0189</a>
+      Orr M, Shi Y, Lee J, Gray S, Park T, Wotten E, LeFrancois R, Huang Y, Patel A, Kim H, Burns N, Jalayer S, Grant R, Kok L, Hansen E, Kim IY* (2026) From algorithm to engineering judgment: Navigating topology optimization's limits in crash applications. <em><u>2026 WCX SAE World Congress Experience</u></em>, April 14–16, 2026, Detroit, Michigan, USA. <a href="https://doi.org/10.4271/2026-01-0189" target="_blank" rel="noopener noreferrer">https://doi.org/10.4271/2026-01-0189</a>
     </li>
 
     <li>
-      Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. *<u>CSME-CFDSC-CSR 2025 International Congress</u>*, May 25–28, 2025, Montreal, Quebec, Canada.
+      Huang Y, Jalayer S, Kim H, Huh J, Kim IY* (2025) Multi-stage topology optimization of electric motor for urban air mobility vehicle. <em><u>CSME-CFDSC-CSR 2025 International Congress</u></em>, May 25–28, 2025, Montreal, Quebec, Canada.
     </li>
   </ol>
 
@@ -149,39 +149,39 @@ permalink: /publications/
     <summary>View More</summary>
     <ol class="pub-list">
       <li>
-        Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. *<u>Canadian Aeronautics and Space Institute AERO 2023 (CASI AERO 2023)</u>*, November 14–16, 2023, Ottawa, Ontario, Canada.
+        Patel A, Kim H, Crispo L, Galley N, Yeon SM, Son Y, Kim IY* (2023) Topology-optimized aircraft seat leg structure considering metal additive manufacturing build volume. <em><u>Canadian Aeronautics and Space Institute AERO 2023 (CASI AERO 2023)</u></em>, November 14–16, 2023, Ottawa, Ontario, Canada.
       </li>
 
       <li>
-        Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization (WCSMO-15)</u>*, June 5–9, 2023, Cork, Ireland.
+        Kim S, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. <em><u>15th World Congress of Structural and Multidisciplinary Optimization (WCSMO-15)</u></em>, June 5–9, 2023, Cork, Ireland.
       </li>
 
       <li>
-        Kim H, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2022 (ACSMO 2022)</u>*, May 22–26, 2022, Matsue, Japan. (Offline & Online Conference)
+        Kim H, Ha DH, Lee TH* (2022) Scenario-based multidisciplinary optimization for a new accelerated life testing of electric traction motor and inverter system. <em><u>Asian Congress of Structural and Multidisciplinary Optimization 2022 (ACSMO 2022)</u></em>, May 22–26, 2022, Matsue, Japan. (Offline & Online Conference)
       </li>
 
       <li>
-        Kim H, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. *<u>14th World Congress of Structural and Multidisciplinary Optimization (WCSMO-14)</u>*, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
+        Kim H, Kim T, Lee TH* (2021) Significant input variable selection for design optimization of piezoelectric energy harvester. <em><u>14th World Congress of Structural and Multidisciplinary Optimization (WCSMO-14)</u></em>, June 13–18, 2021, Boulder, Colorado, USA. (Online Conference)
       </li>
 
       <li>
-        Kim H, Lee TH* (2021) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. *<u>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2020)</u>*, January 11–15, 2021, Paris, France. (Online Conference)
+        Kim H, Lee TH* (2021) A significant input variable selection strategy for high-dimensional expensive black-box constrained optimization problems. <em><u>14th World Congress on Computational Mechanics and 8th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2020)</u></em>, January 11–15, 2021, Paris, France. (Online Conference)
       </li>
 
       <li>
-        Kim H, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. *<u>Asian Congress of Structural and Multidisciplinary Optimization 2020 (ACSMO 2020)</u>*, November 23–25, 2020, Seoul, Korea. (Online Conference)
+        Kim H, Lee TH* (2020) Constraint-boundary-based weight allocation for significant input variable selection of HEB constrained optimization problems. <em><u>Asian Congress of Structural and Multidisciplinary Optimization 2020 (ACSMO 2020)</u></em>, November 23–25, 2020, Seoul, Korea. (Online Conference)
       </li>
 
       <li>
-        Kim H, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. *<u>13th World Congress of Structural and Multidisciplinary Optimization (WCSMO-13)</u>*, May 20–24, 2019, Beijing, China.
+        Kim H, Kwon T, Lee TH,* Ryu N, Min S (2019) Variable screening of multiple response system using nonparametric neighborhood component feature selection. <em><u>13th World Congress of Structural and Multidisciplinary Optimization (WCSMO-13)</u></em>, May 20–24, 2019, Beijing, China.
       </li>
 
       <li>
-        Kim S, Kim S, Kim J, Kim H, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. *<u>1st Joint Workshop between KSCM & GACM</u>*, October 24–25, 2018, Seoul, Korea. (Best Poster Award)
+        Kim S, Kim S, Kim J, Kim H, Lee TH* (2018) Uncertainty based design optimization framework for multidisciplinary system. <em><u>1st Joint Workshop between KSCM & GACM</u></em>, October 24–25, 2018, Seoul, Korea. (Best Poster Award)
       </li>
 
       <li>
-        Kim H, Song Y, Huh K, Lee TH* (2017) Robust design optimization of vehicle and adaptive cruise control parameter considering fuel efficiency. *<u>12th World Congress of Structural and Multidisciplinary Optimisation (WCSMO-12)</u>*, June 5–9, 2017, Braunschweig, Germany.
+        Kim H, Song Y, Huh K, Lee TH* (2017) Robust design optimization of vehicle and adaptive cruise control parameter considering fuel efficiency. <em><u>12th World Congress of Structural and Multidisciplinary Optimisation (WCSMO-12)</u></em>, June 5–9, 2017, Braunschweig, Germany.
       </li>
     </ol>
   </details>
@@ -193,47 +193,47 @@ permalink: /publications/
 <div class="numbered-publications">
   <ol class="pub-list">
     <li>
-      Jo G, Cho M, Kim H* (2026) Conceptual design of a lower control arm for additive manufacturing using multi-objective topology optimization under different build orientations. *<u>KSAE 2026 Fall Conference</u>*, November 18–21, 2026, Yeosu, Korea.
+      Jo G, Cho M, Kim H* (2026) Conceptual design of a lower control arm for additive manufacturing using multi-objective topology optimization under different build orientations. <em><u>KSAE 2026 Fall Conference</u></em>, November 18–21, 2026, Yeosu, Korea.
     </li>
 
     <li>
-      Kim H,* Cho M, Jo G (2026) Topology optimization of mobility components considering additive manufacturing design considerations. *<u>KSAE 2026 Fall Conference</u>*, November 18–21, 2026, Yeosu, Korea.
+      Kim H,* Cho M, Jo G (2026) Topology optimization of mobility components considering additive manufacturing design considerations. <em><u>KSAE 2026 Fall Conference</u></em>, November 18–21, 2026, Yeosu, Korea.
     </li>
 
     <li>
-      Cho M, Jo G, Kim H* (2026) Multi-objective topology optimization considering overhang area under different build orientation in additive manufacturing. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea.
+      Cho M, Jo G, Kim H* (2026) Multi-objective topology optimization considering overhang area under different build orientation in additive manufacturing. <em><u>KSME 2026 Conference</u></em>, November 11–14, 2026, Jeju, Korea.
     </li>
 
     <li>
-      Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. *<u>KSME 2026 Conference</u>*, November 11–14, 2026, Jeju, Korea. (Invited Presentation)
+      Kim H* (2026) Design for additive manufacturing: From industrial challenges to multi-material decomposition optimization. <em><u>KSME 2026 Conference</u></em>, November 11–14, 2026, Jeju, Korea. (Invited Presentation)
     </li>
 
     <li>
-      Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+      Kim H, Crispo L, Patel A, Galley N, Yeon SM, Son Y, Kim IY* (2026) Design of an aircraft seat leg using topology optimization considering additive manufacturing constraints. <em><u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u></em>, May 6–9, 2026, Yeosu, Korea.
     </li>
 
     <li>
-      Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. *<u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u>*, May 6–9, 2026, Yeosu, Korea.
+      Kim S, Kim H,* Kang N* (2026) Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS. <em><u>KSME CAE & Applied Mechanics Division 2026 Spring Conference</u></em>, May 6–9, 2026, Yeosu, Korea.
     </li>
 
     <li>
-      Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. *<u>COSEIK 2026 Conference</u>*, April 16–17, 2026, Gwangju, Korea. (Invited Presentation; Outstanding Presentation Award for Early Career Researchers)
+      Kim H* (2026) Decomposition optimization and multi-material design for additive manufacturing. <em><u>COSEIK 2026 Conference</u></em>, April 16–17, 2026, Gwangju, Korea. (Invited Presentation; Outstanding Presentation Award for Early Career Researchers)
     </li>
 
     <li>
-      Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. *<u>KSDO 2026 Conference</u>*, January 14–15, 2026, Daejeon, Korea. (Invited Presentation; Certificate of Appreciation for Early Career Researchers)
+      Kim H* (2026) Design of an additive manufactured aircraft component using topology optimization. <em><u>KSDO 2026 Conference</u></em>, January 14–15, 2026, Daejeon, Korea. (Invited Presentation; Certificate of Appreciation for Early Career Researchers)
     </li>
 
     <li>
-      Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
+      Kim H, Kim IY* (2025) Decomposition optimization of topology-optimized structures considering additive manufacturing build volume. <em><u>KSME 2025 Conference</u></em>, December 10–13, 2025, Jeongseon, Korea.
     </li>
 
     <li>
-      Kim S, Kim H,* Kang N* (2025) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. *<u>KSME 2025 Conference</u>*, December 10–13, 2025, Jeongseon, Korea.
+      Kim S, Kim H,* Kang N* (2025) Generative AI-driven mixture-of-experts framework using implicit neural representations for additive manufacturing. <em><u>KSME 2025 Conference</u></em>, December 10–13, 2025, Jeongseon, Korea.
     </li>
 
     <li>
-      Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight design of electric motor shaft and structure using topology optimization. *<u>KSAS 2025 Spring Conference</u>*, April 2–4, 2025, Jeju, Korea.
+      Huh J, Huang Y, Jalayer S, Kim H, Kim IY* (2025) Lightweight design of electric motor shaft and structure using topology optimization. <em><u>KSAS 2025 Spring Conference</u></em>, April 2–4, 2025, Jeju, Korea.
     </li>
   </ol>
 
@@ -241,99 +241,99 @@ permalink: /publications/
     <summary>View More</summary>
     <ol class="pub-list">
       <li>
-        Kim S, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
+        Kim S, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. <em><u>KSME 2022 Conference</u></em>, November 9–12, 2022, Jeju, Korea.
       </li>
 
       <li>
-        Lee TH,* Kim S, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
+        Lee TH,* Kim S, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. <em><u>KSME 2022 Conference</u></em>, November 9–12, 2022, Jeju, Korea.
       </li>
 
       <li>
-        Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>KSCM 2022 Conference</u>*, June 22–24, 2022, Pyeongchang, Korea.
+        Kim H, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. <em><u>KSCM 2022 Conference</u></em>, June 22–24, 2022, Pyeongchang, Korea.
       </li>
 
       <li>
-        Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea. (Outstanding Paper Award)
+        Kim S, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. <em><u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u></em>, May 19–21, 2022, Busan, Korea. (Outstanding Paper Award)
       </li>
 
       <li>
-        Kim H, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference; Outstanding Student Presentation Award)
+        Kim H, Byun H, Lee TH,* Wang C, Hu W (2021) Adaptive three-term conjugate gradient method for mini-batch-based learning or artificial neural networks. <em><u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u></em>, August 25–27, 2021, Jeju, Korea. (Online Conference; Outstanding Student Presentation Award)
       </li>
 
       <li>
-        Kim T, Kim H, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. *<u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u>*, August 25–27, 2021, Jeju, Korea. (Online Conference)
+        Kim T, Kim H, Lee TH,* Park JC, Woo SW, Lim MS, Park S, Oh J, Cho SG (2021) Space-time surrogate modeling of synchronous generator physical model for digital twin of wave energy converter. <em><u>KSME CAE & Applied Mechanics Division 2021 Spring Conference</u></em>, August 25–27, 2021, Jeju, Korea. (Online Conference)
       </li>
 
       <li>
-        Kim H, Lee TH* (2020) Significance analysis of input variables using bootstrap confidence intervals for elastic net under sampling uncertainty. *<u>KSME CAE & Applied Mechanics Division 2020 Spring Conference</u>*, August 19–21, 2020, Gyeongju, Korea. (Outstanding Student Presentation Award)
+        Kim H, Lee TH* (2020) Significance analysis of input variables using bootstrap confidence intervals for elastic net under sampling uncertainty. <em><u>KSME CAE & Applied Mechanics Division 2020 Spring Conference</u></em>, August 19–21, 2020, Gyeongju, Korea. (Outstanding Student Presentation Award)
       </li>
 
       <li>
-        Kim H, Lee TH* (2019) A statistical analysis on significance of design variables by using bootstrap confidence intervals. *<u>KSME 2019 Conference</u>*, November 13–16, 2019, Jeju, Korea. (Outstanding Paper Award)
+        Kim H, Lee TH* (2019) A statistical analysis on significance of design variables by using bootstrap confidence intervals. <em><u>KSME 2019 Conference</u></em>, November 13–16, 2019, Jeju, Korea. (Outstanding Paper Award)
       </li>
 
       <li>
-        Byun H, Kim H, Lee TH* (2019) Hierarchical surrogate model for scale-bridging using learning algorithms. *<u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u>*, April 18–20, 2019, Jeju, Korea.
+        Byun H, Kim H, Lee TH* (2019) Hierarchical surrogate model for scale-bridging using learning algorithms. <em><u>KSME CAE & Applied Mechanics Division 2019 Spring Conference</u></em>, April 18–20, 2019, Jeju, Korea.
       </li>
 
       <li>
-        Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). *<u>Korean Congress on Computational Mechanics 2019 (KCCM 2019)</u>*, February 14–15, 2019, Seoul, Korea.
+        Kim H, Kwon T, Ryu N, Min S, Lee TH* (2019) Kriging surrogate model-based design optimization of unmanned ground vehicle using neighborhood component feature selection (NCFS). <em><u>Korean Congress on Computational Mechanics 2019 (KCCM 2019)</u></em>, February 14–15, 2019, Seoul, Korea.
       </li>
 
       <li>
-        Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Jeongseon, Korea.
+        Kim H, Kwon T, Lee TH* (2018) Surrogate model-based design optimization framework of multiple response system using variable screening information with infeasible initial points. <em><u>KSME 2018 Conference</u></em>, December 12–15, 2018, Jeongseon, Korea.
       </li>
 
       <li>
-        Kwon T, Kim H, Lee TH* (2018) Improved neighborhood component feature selection for variable screening of multiple response system. *<u>KSME 2018 Conference</u>*, December 12–15, 2018, Jeongseon, Korea.
+        Kwon T, Kim H, Lee TH* (2018) Improved neighborhood component feature selection for variable screening of multiple response system. <em><u>KSME 2018 Conference</u></em>, December 12–15, 2018, Jeongseon, Korea.
       </li>
 
       <li>
-        Kwon T, Kim H, Lee TH* (2018) Supervised learning-based design variable screening technique. *<u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u>*, April 26–28, 2018, Yeosu, Korea.
+        Kwon T, Kim H, Lee TH* (2018) Supervised learning-based design variable screening technique. <em><u>KSME CAE & Applied Mechanics Division 2018 Spring Conference</u></em>, April 26–28, 2018, Yeosu, Korea.
       </li>
 
       <li>
-        Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. *<u>CDE 2018 Winter Conference</u>*, January 23–26, 2018, Hoengseong, Korea.
+        Ryu N, Kim G, Min S,* Kim H, Lee TH (2018) Design optimization of military tracked vehicle to minimize elevation and azimuth errors of gun barrel. <em><u>CDE 2018 Winter Conference</u></em>, January 23–26, 2018, Hoengseong, Korea.
       </li>
 
       <li>
-        Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. *<u>CDE 2018 Winter Conference</u>*, January 23–26, 2018, Hoengseong, Korea.
+        Kwon K, Yi J, Ryu N, Kim H, Kim S, Lee TH, Min S* (2018) Design optimization of hydro-pneumatic suspension for improving mobility of wheeled military vehicle. <em><u>CDE 2018 Winter Conference</u></em>, January 23–26, 2018, Hoengseong, Korea.
       </li>
 
       <li>
-        Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. *<u>KSME 2017 Conference</u>*, November 1–3, 2017, Jeju, Korea.
+        Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2017) Construction of integrated interface for design optimization of combat vehicle system using Maple symbolic computation. <em><u>KSME 2017 Conference</u></em>, November 1–3, 2017, Jeju, Korea.
       </li>
 
       <li>
-        Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. *<u>KIMST 2017 Conference</u>*, June 8–9, 2017, Jeju, Korea.
+        Kwon K, Ryu N, Kim H, Kim S, Kim G, Lee TH, Min S* (2017) Optimization of wheeled combat vehicle to minimize dynamic error related to hit probability. <em><u>KIMST 2017 Conference</u></em>, June 8–9, 2017, Jeju, Korea.
       </li>
 
       <li>
-        Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. *<u>KIMST 2017 Conference</u>*, June 8–9, 2017, Jeju, Korea.
+        Kwon K, Ryu N, Kim H, Kim S, Lee TH, Min S* (2017) Reliability analysis for integrated performance of combat vehicle using kriging surrogate model. <em><u>KIMST 2017 Conference</u></em>, June 8–9, 2017, Jeju, Korea.
       </li>
 
       <li>
-        Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. *<u>KSME 2016 Conference</u>*, December 14–16, 2016, Jeongseon, Korea.
+        Kim H, Lee S, Song Y, Huh K, Lee TH* (2016) Multidisciplinary design optimization of vehicle and adaptive cruise controller considering fuel efficiency. <em><u>KSME 2016 Conference</u></em>, December 14–16, 2016, Jeongseon, Korea.
       </li>
 
       <li>
-        Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. *<u>KSAE 2016 Fall Conference</u>*, November 16–19, 2016, Daegu, Korea.
+        Kim H, Song Y, Lee S, Huh K, Lee TH* (2016) Kriging surrogate model-based optimal adaptive cruise control design considering fuel efficiency. <em><u>KSAE 2016 Fall Conference</u></em>, November 16–19, 2016, Daegu, Korea.
       </li>
 
       <li>
-        Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. *<u>KSAE 2016 Spring Conference</u>*, May 19–21, 2016, Jeju, Korea.
+        Song Y, Kim H, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on optimized parameter. <em><u>KSAE 2016 Spring Conference</u></em>, May 19–21, 2016, Jeju, Korea.
       </li>
 
       <li>
-        Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in half-car model active suspension. *<u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u>*, April 7–9, 2016, Jeju, Korea.
+        Kim H, Song Y, Lee TH,* Huh K (2016) Kriging surrogate model based MPC parameter optimization in half-car model active suspension. <em><u>KSME CAE & Applied Mechanics Division 2016 Spring Conference</u></em>, April 7–9, 2016, Jeju, Korea.
       </li>
 
       <li>
-        Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. *<u>CAD/CAM 2016 Winter Conference</u>*, January 27–29, 2016, Pyeongchang, Korea.
+        Kim S, Lim W, Kim S, Kim H, Min S, Lee TH* (2016) Evaluation of firing accuracy by using copula for various distribution of shot groups. <em><u>CAD/CAM 2016 Winter Conference</u></em>, January 27–29, 2016, Pyeongchang, Korea.
       </li>
 
       <li>
-        Lee TH,* Kim S, Lim W, Kim H, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. *<u>Army Modeling & Simulation Education 2015 Conference</u>*, November 17–18, 2015, Daejeon, Korea.
+        Lee TH,* Kim S, Lim W, Kim H, Ryu N, Lim S, Min S (2015) Robust optimization of combat vehicle using target cascading. <em><u>Army Modeling & Simulation Education 2015 Conference</u></em>, November 17–18, 2015, Daejeon, Korea.
       </li>
     </ol>
   </details>
