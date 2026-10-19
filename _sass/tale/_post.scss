@@ -144,10 +144,10 @@ details.view-more li a {
 }
 
 .numbered-publications {
-  counter-reset: publication;
 
   .pub-list {
-    list-style: none;
+    list-style-type: decimal;
+    list-style-position: outside;
     padding-left: 2rem;
     margin-bottom: 0;
   }
@@ -157,22 +157,12 @@ details.view-more li a {
   }
 
   .pub-list > li {
-    counter-increment: publication;
-    position: relative;
     margin: 0;
     line-height: 1.55;
   }
 
   .pub-list > li + li {
     margin-top: 1rem;
-  }
-
-  .pub-list > li::before {
-    content: counter(publication) ".";
-    position: absolute;
-    left: -2rem;
-    width: 1.5rem;
-    text-align: right;
   }
 
   details.view-more[open] summary {
