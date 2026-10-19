@@ -142,3 +142,25 @@ details.view-more li a {
   border-top: .5px solid $grey-2;
   margin: 1.5rem 0;
 }
+
+.numbered-publications {
+  counter-reset: publication;
+
+  .pub-list {
+    list-style: none;
+    padding-left: 2rem;
+  }
+
+  .pub-list > li {
+    counter-increment: publication;
+    position: relative;
+  }
+
+  .pub-list > li::before {
+    content: counter(publication) ".";
+    position: absolute;
+    left: -2rem;
+    width: 1.5rem;
+    text-align: right;
+  }
+}
