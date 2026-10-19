@@ -66,17 +66,34 @@ permalink: /publications/
 ***
 
 # 📄 Korean Journal Papers
-6. Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 49(10):761–775. <a href="https://doi.org/10.3795/KSME-A.2025.49.10.761" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2025.49.10.761</a>
+<div class="numbered-publications">
+  <ol class="pub-list">
+    <li>
+      Kim H* (2025) Analysis of research trends in topology optimization and generative AI for design for additive manufacturing. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 49(10):761–775. <a href="https://doi.org/10.3795/KSME-A.2025.49.10.761" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2025.49.10.761</a>
+    </li>
+  </ol>
 
-5. Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 45(2):141–148. <a href="https://doi.org/10.3795/KSME-A.2021.45.2.141" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2021.45.2.141</a> (Recommended by KSME)
-
-4. Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. <a href="http://journal.ksae.org/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Automotive Engineers</em></a> 27(4):245–251. <a href="https://doi.org/10.7467/KSAE.2019.27.4.245" target="_blank" rel="noopener noreferrer">https://doi.org/10.7467/KSAE.2019.27.4.245</a>
-
-3. Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 42(4):353–361. <a href="https://doi.org/10.3795/KSME-A.2018.42.4.353" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2018.42.4.353</a> (Recommended by KSME; Outstanding Paper Award)
-
-2. Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 41(9):817–823. <a href="https://doi.org/10.3795/KSME-A.2017.41.9.817" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2017.41.9.817</a> (Recommended by KSME)
-
-1. Song Y, Kim H, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on nonlinear tire model. <a href="http://journal.ksae.org/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Automotive Engineers</em></a> 24(6):730–736. <a href="https://doi.org/10.7467/KSAE.2016.24.6.730" target="_blank" rel="noopener noreferrer">https://doi.org/10.7467/KSAE.2016.24.6.730</a>
+  <details class="view-more">
+    <summary>View More</summary>
+    <ol class="pub-list">
+      <li>
+        Kim H, Lee TH* (2021) Significance analysis of input variables using bootstrap method for elastic net under sampling uncertainty. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 45(2):141–148. <a href="https://doi.org/10.3795/KSME-A.2021.45.2.141" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2021.45.2.141</a> (Recommended by KSME)
+      </li>
+      <li>
+        Ryu N, Kwon K, Kim G, Kim H, Lee TH, Min S* (2019) Design optimization of wheeled military vehicle to minimize elevation and azimuth error of gun barrel. <a href="http://journal.ksae.org/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Automotive Engineers</em></a> 27(4):245–251. <a href="https://doi.org/10.7467/KSAE.2019.27.4.245" target="_blank" rel="noopener noreferrer">https://doi.org/10.7467/KSAE.2019.27.4.245</a>
+      </li>
+      <li>
+        Kim H, Kim S, Kim T, Ryu N, Kwon K, Min S, Lee TH* (2018) Construction of an integrated interface for design optimization of a combat vehicle system using Maple symbolic computation. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 42(4):353–361. <a href="https://doi.org/10.3795/KSME-A.2018.42.4.353" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2018.42.4.353</a> (Recommended by KSME; Outstanding Paper Award)
+      </li>
+      <li>
+        Kim H, Song Y, Lee S, Huh K, Lee TH* (2017) Kriging surrogate model-based design optimization of vehicle and adaptive cruise control parameters considering fuel efficiency. <a href="http://journal.ksme.or.kr/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Mechanical Engineers A</em></a> 41(9):817–823. <a href="https://doi.org/10.3795/KSME-A.2017.41.9.817" target="_blank" rel="noopener noreferrer">https://doi.org/10.3795/KSME-A.2017.41.9.817</a> (Recommended by KSME)
+      </li>
+      <li>
+        Song Y, Kim H, Kim S, Kim Y, Lee TH, Huh K* (2016) Vehicle stabilization using MPC based on nonlinear tire model. <a href="http://journal.ksae.org/" target="_blank" rel="noopener noreferrer"><em>Transactions of the Korean Society of Automotive Engineers</em></a> 24(6):730–736. <a href="https://doi.org/10.7467/KSAE.2016.24.6.730" target="_blank" rel="noopener noreferrer">https://doi.org/10.7467/KSAE.2016.24.6.730</a>
+      </li>
+    </ol>
+  </details>
+</div>
 
 ***
 
