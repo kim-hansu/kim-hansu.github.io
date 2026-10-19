@@ -342,15 +342,22 @@ permalink: /publications/
 
 
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.numbered-publications').forEach(function (section) {
-    const visibleList = section.querySelector(':scope > .pub-list');
-    const details = section.querySelector(':scope > details.view-more');
+(function () {
+  function numberPublications() {
+    document.querySelectorAll('.numbered-publications').forEach(function (section) {
+      var next = 1;
 
-    if (visibleList && details) {
-      const count = visibleList.querySelectorAll(':scope > li').length;
-      details.style.counterReset = 'publication ' + count;
-    }
-  });
-});
+      section.querySelectorAll('ol.pub-list').forEach(function (list) {
+        list.setAttribute('start', next);
+        next += list.children.length;
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', numberPublications);
+  } else {
+    numberPublications();
+  }
+})();
 </script>
