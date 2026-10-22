@@ -12,6 +12,9 @@ permalink: /publications/
 <div class="numbered-publications">
   <ol class="pub-list">
     <li>
+      Kim S, Kim H,* Kang N* (Under Review) Multiscale topology optimization for qualitative design intent: structural geometry and programmed yielding with graded TPMS.
+    </li>
+    <li>
       Kim H, Kim IY* (2026) Multi-material decomposition optimization for topology-optimized structures considering additive manufacturing build volume and material cost. <a href="https://www.springer.com/journal/158" target="_blank" rel="noopener noreferrer"><em>Structural and Multidisciplinary Optimization</em></a> 69:218. <a href="https://doi.org/10.1007/s00158-026-04401-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00158-026-04401-y</a>
     </li>
     <li>
