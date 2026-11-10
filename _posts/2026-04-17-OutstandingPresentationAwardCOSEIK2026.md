@@ -2,7 +2,7 @@
 layout: post
 title: "Invited Presentation at COSEIK 2026"
 permalink: /news/notice/2026-04-17-InvitedPresentationCOSEIK2026
-tags: Notice
+tags: Members
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 0.25rem;">
