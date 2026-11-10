@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Certificate of Appreciation at KSDO 2026"
-permalink: /news/notice/2026-01-24-CertificateOfAppreciationKSDO2026
+permalink: /news/notice/2026-01-24-CertificateAppreciationKSDO2026
 tags: Members
 ---
 
