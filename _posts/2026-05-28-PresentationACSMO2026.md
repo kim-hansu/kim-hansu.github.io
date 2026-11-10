@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Young Scientist Award at ACSMO 2026"
-permalink: /news/notice/2026-05-28-YoungScientistAwardACSMO2026
+title: "Presentation at ACSMO 2026"
+permalink: /news/notice/2026-05-28-PresentationACSMO2026
 tags: Notice
 ---
 
