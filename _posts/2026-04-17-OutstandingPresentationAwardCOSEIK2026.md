@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Invited Presentation at COSEIK 2026"
+title: "Outstanding Presentation Award at COSEIK 2026"
 permalink: /news/notice/2026-04-17-InvitedPresentationCOSEIK2026
 tags: Members
 ---
