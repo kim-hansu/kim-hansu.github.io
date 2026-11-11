@@ -17,7 +17,7 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim gave presentations entitled “Multi-material Decomposition Optimization for Topology-optimized Structures Considering Additive Manufacturing Build Volume and Material Cost” at the <a href="https://acsmo2026.org/" target="_blank" rel="noopener noreferrer">Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</a>, held at BEXCO, Busan, Korea.
+Prof. Hansu Kim gave presentations entitled “Multi-material Decomposition Optimization for Topology-optimized Structures Considering Additive Manufacturing Build Volume and Material Cost” at the <a href="https://acsmo2026.org/" target="_blank" rel="noopener noreferrer">Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)</a>, held at BEXCO in Busan, Korea.
 
 <details class="view-more">
    <summary>View More</summary>
