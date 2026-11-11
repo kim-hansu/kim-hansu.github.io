@@ -17,4 +17,4 @@ tags: Members
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim received a Certificate of Appreciation for Early Career Researchers from the <a href="https://ksdo.net/" target="_blank" rel="noopener noreferrer">Korean Society for Design Optimization (KSDO)</a> in recognition of invited presentation (Early Career Researcher Session) entitled “Design of an Additive Manufactured Aircraft Component Using Topology Optimization” at the <a href="https://ksdo.net/" target="_blank" rel="noopener noreferrer">KSDO 2026 Conference</a>, held at KAIST, Daejeon, Korea.
+Prof. Hansu Kim received a Certificate of Appreciation for Early Career Researchers from the <a href="https://ksdo.net/" target="_blank" rel="noopener noreferrer">Korean Society for Design Optimization (KSDO)</a> in recognition of his invited presentation entitled “Design of an Additive Manufactured Aircraft Component Using Topology Optimization” at the Early Career Researcher Session of the <a href="https://ksdo.net/" target="_blank" rel="noopener noreferrer">KSDO 2026 Conference</a>, held at KAIST in Daejeon, Korea.
