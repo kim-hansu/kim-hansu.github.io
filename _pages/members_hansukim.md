@@ -48,6 +48,8 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
 ***
 
 ## 🏆 Honors & Awards
+**Certificate of Appreciation for Early Career Researchers, *KSME 2026 Conference*, November 2026**
+
 **Young Scientist Award, *Asian Congress of Structural and Multidisciplinary Optimization 2026 (ACSMO 2026)*, May 2026**
 
 **Outstanding Presentation Award for Early Career Researchers, *COSEIK 2026 Conference*, April 2026**
