@@ -35,7 +35,7 @@ tags: Notice
        style="display: block; width: 100%; max-width: 750px; height: auto;">
 </div>
 
-Prof. Hansu Kim and <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> gave presentations entitled “Multi-material decomposition optimization for topology-optimized structures under additive manufacturing constraints” and “Text-guided multiscale topology optimization for mechanical anisotropy design with TPMS,” respectively, at the <a href="https://wccm-eccomas2026.org/" target="_blank" rel="noopener noreferrer">17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</a>, held in Munich, Germany.
+Prof. Hansu Kim and <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Sanghyuk Kim</a> gave presentations entitled “Multi-material Decomposition Optimization for Topology-optimized Structures Under Additive Manufacturing Constraints” and “Text-guided Multiscale Topology Optimization for Mechanical Anisotropy Design with TPMS,” respectively, at the <a href="https://wccm-eccomas2026.org/" target="_blank" rel="noopener noreferrer">17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)</a>, held in Munich, Germany.
 
 <details class="view-more">
    <summary>View More</summary>
