@@ -102,6 +102,11 @@ Hansu Kim is an Assistant Professor in the <a href="https://www.gachon.ac.kr/sma
             Big Data Research, <em>Elsevier</em>
          </a>
       </li>
+     <li>
+         <a href="https://www.sciencedirect.com/journal/engineering-structures" target="_blank" rel="noopener noreferrer">
+            Engineering Structures, <em>Elsevier</em>
+         </a>
+      </li>
       <li>
          <a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener noreferrer">
             IEEE Access, <em>Institute of Electrical and Electronics Engineers (IEEE)</em>
