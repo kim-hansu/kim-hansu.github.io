@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Presentation at KSAE 2026 Fall"
 permalink: /news/notice/2026-11-20-PresentationKSAE2026Fall
